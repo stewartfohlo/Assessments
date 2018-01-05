@@ -1,7 +1,7 @@
-# Dev Skills Review Exercise 2
+# Data Analytics Skills
 
 ### Instructions
-Clone this repository, load up the files, and try and identify some patterns in the data by slicing and dicing it.
+Load up the files, and try and identify some patterns in the data by slicing and dicing it.
 This is a generated dataset where we've introduced some common problems.  We expect this to take between 1 and 2 hours, don't go as far as training a model.  We are interested in seeing clearly thought out, quick value.
 
 For example, we want to see how you approach the popular business question; *What do the highest spending customers look like*?
