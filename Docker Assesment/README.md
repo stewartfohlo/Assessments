@@ -11,17 +11,28 @@ This should help you get started:
 
 PART 1:
 1) Write a Dockerfile that has/does the following:
+	
 	2) It should be build from CentOS-7
+	
 	3) Update the OS
+	
 	4) Install conda using miniconda (doing this through Anaconda is cheating)
+	
 		5) Install python 3.5+ using conda
+	
 		6) Install Jupyter using conda
+	
 		7) Install pandas library and it's dependencies using conda
+	
 	8) Include the csv file in the container.
+	
 	9) Include the pandas_notebook that was provided in the home directory.
+	
 	9) SET the enviroment variable $CSV_FILE_DIR to point to the directory you put the csv file in
+	
 	10) Run jupyter in no-browser mode (hint: use TINI)	
 		- the jupyter UI should be served on port 9000
+
 11) Build your Dockerfile	
 
 From your terminal run: docker -it -p 9000:9000 <tag of your image>	
