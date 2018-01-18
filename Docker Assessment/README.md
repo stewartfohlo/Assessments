@@ -14,7 +14,7 @@ This should help you get started:
 PART 1:
 1) Write a Dockerfile that has/does the following:
     
-    2) It should be build from CentOS-7
+    2) It should be built from CentOS-7
     
     3) Update the OS
     
@@ -44,7 +44,7 @@ Run the pandas_notebook in jupyter
 PART 2:  
 Back in your Dockerfile    
 1) Install spark-standalone and all dependencies.
-    - make sure you can import the pyspark libaries from within a jupyter notebook
+    - make sure you can import the pyspark libraries from within a jupyter notebook
 2) Include the spark_notebook that was provided in the home directory.
 From your terminal run: docker -it -p 9000:9000 <tag of your image>    
 Access jupyter from your local machine. (Hint: use chrome) 
