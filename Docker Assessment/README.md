@@ -12,7 +12,7 @@ This should help you get started:
 * https://conda.io/docs/user-guide/install/linux.html
 
 PART 1:
-1) Write a Dockerfile that has/does the following:
+1) Write a Dockerfile (https://docs.docker.com/engine/reference/builder/#shell) that has/does the following:
     
     2) It should be built from CentOS-7
     
