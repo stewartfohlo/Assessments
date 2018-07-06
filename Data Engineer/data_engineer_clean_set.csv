@@ -1,0 +1,1001 @@
+tran_id,first_name,last_name,tran_date,gender,tran_value,tran_hash,tran_lat,tran_long,tran_type,tran_status
+13Hd8QJ8HudP7FpBQEdJCAh5X77b1Xaw4w,Hamish,Lackney,2017/08/06,Male,282.23,902333f4266a7a5169dff64ebae42c8d,25.941937,117.365052,Kiwano,1
+17cZCVzrg7iNCUGircG2Ztqb34Dd7F348W,Clare,Djekic,2018/05/08,Male,13.65,949e4080be65868200ae47353c63b2bf,43.0745339,-89.3805579,"Bag - Bread, White, Plain",4
+1NoyL1rfxjyG8vwhXP46TQArPGXFecdFYg,Jerrie,Simmill,2017/11/13,Female,102.85,f2a521c2d954050fa8cdac83a5311ec6,32.930738,106.908966,Amarula Cream,5
+1NoxjLFMCsFx2Mnt7i2yQpPtH2re4NU3Y9,Mikkel,Sreenan,2018/01/05,Male,67.93,d20bcd7c653f5677db7934f4c2221de3,8.3375063,-82.5510469,Coffee - Espresso,1
+1E3AUUw5uvupCmGUKtk57ovecUygFhZJuf,Vernon,Champ,2017/11/18,Male,101.0,1d8979b666803580620d9a233e98b1cf,-6.1078857,106.7791791,Hot Choc Vending,5
+13NGtpgntwge365NP8RAVFF9jk3KuTNymJ,Carver,Scheu,2017/01/22,Male,-18.42,1e52c0c2da4a90a772d2fcf67d794e6e,31.294176,121.320622,Tuna - Bluefin,1
+14QMNGrizxhtbqJPS6p22j8o3iXNYb48Wr,Min,Tousey,2017/09/26,Female,175.74,58893c98a4ff821a0bf353ac605a4fa8,51.8761178,104.8423232,Steampan - Foil,5
+1MUzTZyx2EmuU1TZAam27H69AxzhuPuBrp,Ibby,Adamsky,2018/06/28,Female,120.7,cef5d796c9fa5b3082334cec097d5d07,59.1991816,17.8353702,Sherbet - Raspberry,4
+1BHEYr1vVm4V8pzvhvgyDBS2Lyrn6ZyP2K,Lonna,Valerio,2018/04/23,Female,81.58,8bd73170fb6afbea08c22d03872a1ff0,19.3803931,-99.1476908,Gatorade - Lemon Lime,3
+16sG4tZuqgVAKNpUddJF8TWgx3kr7HBmt3,Farah,Berrey,2017/08/25,Female,115.97,25c43c7c94047c1a91f01d837ba9ecaf,47.9318074,5.2893597,Syrup - Monin - Granny Smith,1
+13taAm6WD8kBarXzRBadQ9YA6TwEeSheu3,Edi,Challenor,2017/05/01,Female,138.45,435dc0a12dcb77765f7c12858ea582a4,38.8148898,141.5661378,Wine - Toasted Head,3
+18dvWttSbMP86hZXQaEVztVuPJfMpESMeQ,Joela,Raggett,2018/05/10,Female,179.31,b419c61d2840d68eb40c98a59e805132,50.98317,-118.2023,"Crab - Claws, Snow 16 - 24",3
+1GRRiEW23Quig8jV3mARsB78G2CXUu3zYM,Angelico,Schroter,2017/08/24,Male,148.55,2bfecbede22f14f034d28250b921cd2c,45.8266432,20.5937585,Butcher Twine 4r,4
+1FM1Wess6ji4gJ42zyY6YeVUPDcfa9bQNN,Coleen,Loosely,2017/11/11,Female,27.55,3cf2686a6838c48d085ca0b57fe39ef8,19.1527452,101.1539414,Lettuce - Green Leaf,3
+1H6c533gU5JL69EEpk3daoHByifXEtg2K6,Jessey,Stapele,2017/02/08,Male,-5.96,334f52f03c8c45f490ece6263ed0a58c,11.4522433,-85.8050987,"Wine - Red, Gallo, Merlot",3
+13kK5gY3DNiKrEBJtkAihET6iMoDFnXJT6,Phillis,Berwick,2017/01/08,Female,209.56,8b60f7263249e3fcad16a6c03c6e4aa7,10.2343685,-64.591805,Dehydrated Kelp Kombo,2
+1GjNbeCYVLjo648Fz6koKbjTdmjGroaUQg,Jasen,Batts,2017/01/31,Male,170.31,ee4b6a226f8fb3a7e1f54ed8dae51d5a,62.6274285,23.8122978,Tamarillo,3
+12HetTFbZvrwfQP71rx8SM9coikzhMBaKB,Arlene,De Carolis,2017/11/03,Female,52.36,5c2d75d0a48ed6957d63416350e4e411,6.1244023,100.3674801,Lettuce - Treviso,4
+14LkhLGCmwsC2xJTVtJ3ECBMLJPujtZadh,Shir,Thwaites,2017/08/30,Female,46.11,ca47fe93c542d3ae86f07c2ec6ee1267,39.8116909,113.1029629,Broom And Broom Rack White,4
+1NhxdTSkkPVS6sS6rLahzozQ6ZsjmZYgB7,Abigail,Legan,2018/03/04,Female,111.97,5d0d4f56cab14f63b88dd88526d5ebb5,40.7134512,22.0009405,Wine - Baron De Rothschild,4
+159wuVDBD4q6QZG6FT3PUDCpMJjNpCsUYv,Dniren,Hoyes,2018/05/16,Female,173.48,da36e341bf2be7f5d326286ecdecff71,49.1112563,6.7220343,Soup - Campbells Bean Medley,4
+1FJHEK8p7pbBCYNYXPJK6ci35XaPF58GXY,Currey,Dudill,2017/06/09,Male,83.16,ba94bc05bb4d6e26ee0f5940b44ed3ab,59.6637076,16.5305978,Pork - Smoked Back Bacon,3
+1B1oF7RUwqVahCw9yxPV7WbUteX7915axG,Illa,Clegg,2018/07/01,Female,102.9,d8ec008c84cd818f72c11717964d14c6,-8.1384242,112.0804259,Ecolab - Power Fusion,4
+1CesbDiXLHromTjjMe3ifvvo47YyzpsjWz,Wilmar,Straniero,2018/06/14,Male,99.45,a9e9c892230e9fba56d03c956070837a,42.2253803,-83.3415334,Tomatoes Tear Drop Yellow,4
+126ntSxpbRGPiSjPpa9ja8GN9T5d9zXujy,Scotti,Lippo,2018/06/07,Male,225.32,f0610a2052ca1d3637361b42d378d969,34.352865,62.2040287,"Arctic Char - Fresh, Whole",2
+1Cdb2CbEWBhdfM6f2VaiaxMPL99C9YRh1u,Dominique,Bruneau,2017/10/07,Female,146.29,503f774576477689e7f50936e1d964da,4.1728946,-74.9501034,Chinese Foods - Cantonese,5
+182Sx8nSftZoNsWdfzu7QTEVdTKjrmxYAX,Nev,Titheridge,2018/05/25,Male,98.66,370b52c810defc6f9e2a1d6bb47f202f,35.786026,109.459516,Wine - Chardonnay Mondavi,2
+1JznqQFGECxwBzqV4mHDLbQPGZcUWiAJFi,Melosa,Joddens,2017/10/02,Female,89.44,b6f2422115baeff15446080c7d98dad2,-9.5950796,119.0168962,Oil - Avocado,1
+1D81js216SSnk2XBS8jTfVrgvMVcnfBm7,Queenie,Gallihawk,2017/07/15,Female,3.16,a4480d2c90f77a9b12932e074f486684,34.265637,107.62613,Basil - Fresh,1
+19LKuh4tGjy9fET3QNwq9GogbZ2ou8cEuB,Em,Duffill,2017/03/03,Male,73.79,c25b282862ec6f808f3791f5cd558a31,41.1217553,-8.228543,Soup Campbells Beef With Veg,3
+161tzvDNvvuycsxH2jnVyviopUeBBvFp8K,Lindi,Benedicte,2017/06/24,Female,85.44,95e1edf356deaf9d03217ff4d28f09e8,10.2600338,123.958258,Rabbit - Saddles,3
+1HfaLhhZPQbajwZ52gtmBUDtVsZDveTo3q,Maurice,Kernley,2017/05/11,Male,133.86,bd54e5927d68341c69f8b715ae5c461e,11.8700773,51.0586345,Calaloo,1
+1K829ffucJ6JGoFfwk8dB6yqcQKfHe6pP,Valry,Cromblehome,2017/11/22,Female,110.67,75bef9f78c6906a9e0145ea1179dc367,41.0423985,21.3607894,Horseradish - Prepared,2
+1CYc4ufwcx1mWgu7Ncv1aqVEVVN1BrqBSx,Tanya,De Domenico,2017/05/04,Female,55.68,12c8a9247864fcc194a5feccaadfec99,14.3839328,121.050126,Wine - Vouvray Cuvee Domaine,5
+1Mjsk1QZzHKLHwokdUaUQdyBax7qt16c4q,Robinet,Orrow,2017/07/08,Female,150.5,b2870e339e2df25703817db496465d86,60.6304039,16.76232,Rolled Oats,2
+18ZUASj8SkFteu1ZW3WAwnoup5Q1B4eRzF,Cathleen,Lesurf,2018/03/30,Female,43.92,7ebe13b99ebeb072508c437fe2ae7cd5,59.3223542,18.2106977,Sage - Rubbed,3
+14VesMe6grh8SudoB8evtwHgWdiPzwD4h5,Marylee,Brownfield,2018/06/24,Female,81.74,28a569b54816de23d06296379c324569,-19.2234241,-40.8538285,Melon - Cantaloupe,2
+15nde1fJ1DYqi7SJ1cdEQQCiUfEvQdBoao,Ulrick,Ibbotson,2017/09/25,Male,165.87,bbcfd0cd8343dec87ca8ac1b7da1696a,3.1523104,101.7178316,Crab Meat Claw Pasteurise,5
+1LRBa6dhhuVi4jw1cTBiGNfink46C5DJLS,Trude,Lineham,2018/02/16,Female,78.55,aa80cac17915f5fd3daa660f0457a169,-7.1525924,111.8971017,Pasta - Canelloni,1
+1PbKxcyRf8LctwqyZEHPqk3iMTawkQzUs6,Brady,Jenkinson,2017/09/10,Male,208.91,43e1214da4834e721f82618cf79bc6d0,39.921095,111.647609,Wine - Cabernet Sauvignon,4
+1CzzSKgs9URqHEXiwAPaNeXh6pcC2XYwfn,Glyn,Dudding,2018/06/21,Male,91.63,781fc17b243d2415778d86d8fd0da6d4,26.497765,101.738528,Pepper - Red Bell,4
+1P88w4f1JF28FXGvdXJHKisjrQY8hGEGEg,Jacinta,Hatchell,2017/04/13,Female,250.87,30de6160dd14d03abadfb5bd6f89c909,3.7015971,8.9100475,Syrup - Pancake,2
+1LPHGDA8GxUsQe5THzynjEw2RxfeY2SXFq,Reagen,Jakoub,2018/02/18,Male,133.29,cde93e1a03f1350e1e8765d986c9dbdd,40.7681987,-73.9608428,"Tart Shells - Sweet, 4",4
+1EaVa9DboHLnvgUXK4q83AsrHbkqTjrqp,Torrey,Bent,2017/05/04,Male,136.15,0a0899fb77f74867562431175626ead5,24.705643,118.43196,Bouq All Italian - Primerba,4
+1DCMofwrT4sJXy5TSFZvgj7WsZYvRgxqdJ,Gerik,Scarman,2017/07/18,Male,27.11,f346c67c878ab54ff7b741b4afe4470e,44.9993113,19.9820405,Napkin White,5
+1GZbAYiyoh2YdSV7DxW9Bdi4PVXj23tXLh,Klement,Beckhouse,2017/01/13,Male,237.89,11a058f9b64b87336f064caf9eb65423,-7.2331881,112.5692082,Bread - Rosemary Focaccia,1
+1CMFKR27z7C88kYi4WN9z8cwsmdDk4U8Sh,Rozamond,Westrope,2017/03/14,Female,0.9,013ef2538339ee07fa88b5b12c0828b7,25.87886,119.545653,Beef - Ground Lean Fresh,4
+14LatsrXKbWj8wi5hGvSppSSwCMFrd5wRx,Marguerite,Udey,2017/09/09,Female,148.14,4618a47a9e83e320a788d5c48ad18097,32.890479,115.814504,Sea Bass - Whole,5
+1Lj6evyERtHSPwKJEwFPRFKyyT8zF7HimD,Carree,Fosbraey,2017/02/20,Female,127.49,0c665b7d1f7c96458b309f2ecd6664ed,41.4221745,-8.4414281,Macaroons - Homestyle Two Bit,2
+12BzW91HXgJCYFumuKHc2oYLdiKwZM8gDn,Corly,Liff,2017/02/04,Female,72.5,8a3f0b574bd0d788beef1199d0c818ab,-3.0029841,115.9467997,Veal - Knuckle,3
+17aAeJ6jfr95Bu5sgBYH2eZnan67k4gxPC,Ashlin,Quirke,2017/05/09,Male,19.97,f67b3764733e4b27099126dea984ec17,22.99732,113.87497,Nestea - Iced Tea,2
+19rWh36HsjeYHjF5iUGedRLnAWBX19JdKB,Roana,Greatorex,2017/06/28,Female,-34.78,bd72828e709c2313f9540f2cf459d589,47.5083178,-52.9940605,Pastry - Raisin Muffin - Mini,2
+14yQ8JKwHrwjpShHLQ9ho2SbJXZBUptCmf,Wendall,Gately,2017/05/29,Male,114.99,2a22e68dd57ae90abc9af51d53b796d4,62.3078106,22.0530364,"Soup - Canadian Pea, Dry Mix",5
+1DWJ2ruysZstjuX1wtH6UF128o2wTUWRyy,Noelyn,Brussels,2017/05/14,Female,41.56,141867f6dc766d63679abd9bbaa6fb15,-6.9219286,112.1579249,Squash - Sunburst,1
+18vyc1yTdWWZgNg2eSbadoNErVNUe1s2F6,Corabella,Showt,2017/08/07,Female,48.34,27f4a30f75f8ab3a75026ab3893c1f45,-8.7876456,121.6029824,Ginsing - Fresh,5
+1AMow2cttY7vCADhrVrLyZUa6YhvXgaqWD,Mirella,Cornick,2017/05/23,Female,14.63,4d7274a02c0bb063bd716d593addb468,40.1721605,-8.6867786,Water - Perrier,1
+1M1jv5zkF7a4KF7NcaP2bnUqpi71jAxxmP,Tyrus,Klaggeman,2017/12/28,Male,151.22,9c47b8c231a6509943b124768f835409,-22.4803601,-46.633882,Gelatine Leaves - Bulk,3
+129RSfqngACo5vDyoNReNdCqQuZa3eRGRe,Niccolo,Ericssen,2018/03/20,Male,193.14,08ef61b60748fdefb3bf063178b2f67e,46.96031,-71.03219,Cabbage - Green,3
+13hNVHuM3cc26i6Bvr7nKVZkQMKNjB7Xp6,Georgie,Fiorentino,2018/05/23,Male,134.46,603356202be2afce9850f25cd3afd8c1,-34.6893836,-58.5801516,Milk - 1%,2
+1BcWiTvSnKsf9GwomFo8wTiZvVYvf4JswV,Rita,Jeenes,2017/03/10,Female,228.95,8426204fdecf5e2756061e508c4156a1,30.39194,114.894843,Arizona - Plum Green Tea,1
+1HKtbFJQentNhHWfaQns4grHfHt1LcvZjf,Quintin,McGenn,2017/08/02,Male,106.9,b8006ee9e8240a7488c7fd31aade16a6,56.7477877,37.1492786,Flour - Strong,2
+1MU9ETVbG98uafsH7tC7xrfEzn9Zds5XH,Humbert,Gaskarth,2017/11/11,Male,260.38,4757100bac186b476aacbb799a53cc78,3.191408,113.088634,"Chilli Paste, Ginger Garlic",1
+1HCzmVraBbN7A6FvzoHaoEZAXdJybgfwD9,Carissa,Barclay,2018/04/10,Female,81.01,bc0c41d38067782d44988d2caa84a4a1,-20.2695062,57.6297389,Wine - Fume Blanc Fetzer,3
+1SRc15aqRPBC1PtJFs2qJdevKxzv58pTp,Remington,Casley,2017/07/19,Male,147.05,23fde48723e2aa462737f19908c1a989,41.3360854,47.1318069,Pizza Pizza Dough,1
+1KJ9bK3oQVD6m4SkwpUsXJXi2xDu4NcN61,Anni,Moret,2017/07/01,Female,52.65,85769aec2b869fbb68374a98d41e9c5e,-8.1224204,-35.2888717,Isomalt,3
+1H9XHhoCmeHERo2oQ78hyVfhcCVEdvC2S6,Windham,Radborn,2018/05/10,Male,72.77,05ce0fffb440b63688e8d1f9d49b669a,51.6078941,20.0494724,Haggis,2
+13m6QqA2RCPtDNYw16swaPzvSaNqm1UGqQ,Niko,Windle,2017/06/04,Male,261.73,8e5ff8f041bdfd643ff569363d1c3e61,1.616009,99.2342196,Cheese - Montery Jack,3
+16Y5qR4HDyiqT9EWvLyGnp5TCmE33RqotQ,Tania,Feyer,2017/03/22,Female,-17.0,b976777559b48b17054351ff0de9115f,-7.3118486,108.6383454,Onions - Pearl,3
+1BCPUzvSBvUJWhf4XjEuvmgwthSpX3hDMH,Son,Petrulis,2018/06/14,Male,239.77,f380356181dabe99d3f643a0e31de355,-14.1254679,-69.9661586,Ecolab - Ster Bac,3
+15dbNwUhvCvq5y8uu6L3gXP4zreGXfsnhK,Gunar,Railton,2018/04/20,Male,40.47,027e6da9232aa0faa43d0e2b996e9a2c,40.6238902,-75.3936808,Beets - Mini Golden,1
+1GReVeANZXW3o8JiJJkpgpzkGBghzPgWBg,Leonid,Stangroom,2018/04/09,Male,134.1,d32ea2fdbf2a8cfdbd412fdf76613221,43.5661719,43.4895256,Kolrabi,4
+1DeHXyJ3CXZVgoaHza84j2EdHDMWpQ8U17,Saundra,Blonfield,2017/10/14,Female,169.27,6ac87d8494b167f8b3aa44658b34342e,40.766965,114.740557,Kellogs All Bran Bars,3
+1GAAZFxFRvP7dnEqgxcxggMYoznabpLWoJ,Gillan,Melmar,2018/05/27,Female,12.13,8f9e06735ece76ccd79a3e361a1e3ae4,54.157108,27.2318325,Hand Towel,2
+1DUho87enJqw7Y4QxLvsWHNCdbwg3SJTrg,Hank,Lumby,2018/02/18,Male,82.71,f2066429976af2e216dca904845f69f3,-21.8898802,-47.6455169,Chips - Assorted,1
+16jmSqbc3tnthGx9vLnQzjXJchvgA9rqsF,Rees,Sprouls,2018/07/01,Male,108.01,102a09d3079ce81ab00db54141ff71a6,42.5246357,87.5395855,"Syrup - Monin, Irish Cream",2
+15mF4kLqjaUhGKkrrjkWgWCsdacW41vge8,Koren,Lightollers,2017/02/27,Female,120.17,4a87f43987f38626734f0467d2a27e75,37.9984095,140.6381624,"Pepper - Green, Chili",5
+14VxRkPKEMHV77rezrJCmqzji8tgoZV9kB,Saudra,McMurrugh,2017/11/06,Female,-11.46,0caf7ed5e09a2cfe3733cce994a0eacc,50.4034992,26.141892,Kohlrabi,5
+1LWbCHE9cwiGm2Tqm3YKQx3WUCuSFZptt5,Dewitt,Benaine,2017/11/18,Male,95.65,38c6447915aeb46149a20d0f4a5c9964,21.31,-157.86,Sugar - Fine,5
+1PCKVrytoaAq53qxDZuCenJJsdTqsct3k4,Carmen,Willows,2017/10/23,Female,183.62,6b0c9b87b1fe371d7debe4033ad9e4e7,26.3237782,88.5167162,Pepper - Red Chili,5
+1PqQat6VAgX1XEmv71ggMfrGPm2JeWt7jm,Sigismondo,Muddiman,2018/03/28,Male,158.64,6a76c96bc33de1bd7bf90adc4411ff75,26.12715,113.116527,Beef - Diced,2
+1CNDZqfscLxsb6JaAcBkfuahbC9DqCqLsH,Sheena,Oldfield-Cherry,2017/08/09,Female,95.22,322819c3d2ba7c6b5b431e3e9182411b,51.035673,18.5985286,Cheese - Brie Roitelet,4
+1Nr62SGx7EySRMWVNzYoYR4bRQjUjt67Kd,Glennis,Gosz,2017/12/25,Female,92.5,a11f92a16a6de09cd8fcac1a30489419,22.141482,113.83012,Lobster - Base,5
+1D2mUHnK1F9P2myHVbSuUpHnYAE6CjukqW,Alexa,Larkings,2018/05/19,Female,121.76,d2b83a9b456c64aacc046228ff2d9672,55.49567,38.65064,Toamtoes 6x7 Select,1
+1NchVue7bximxZapMMRKmmx6pE2HCGySFp,Ida,Blancowe,2017/04/01,Female,88.85,f7079875225928d61a8eb2cf087aca38,25.823925,111.014357,Muffin Mix - Morning Glory,1
+15oVaQVFJLjVFdQMkvd6dFY6f2gU85VczE,Carolus,Hotton,2017/04/09,Male,59.95,3c7c162df7a8a55bbfb80c8762d28772,-7.3743397,110.2648159,Ostrich - Prime Cut,2
+1DGf7AhqFnwR91zfk5xMBUYfjgjfu5Qdoo,Cullin,Debell,2017/07/16,Male,56.69,ff929894e5ad8b3482b70d216c983d8e,-7.0444877,107.5703914,Beans - Soya Bean,5
+1PwWSpg6Sez17DECSfUPhPikpZyzgXhEQc,Ric,Elintune,2017/07/27,Male,77.79,b60c97c80a8f97bb8515b4bad8c2ac95,19.3579802,-99.0806088,Wine - Soave Folonari,3
+1EBVtDVpVRWErLkU2yAF5YgeAC6Aecebng,Herculie,Pollen,2017/03/25,Male,56.0,3190a35c049e587eb5b8eefac97cbc62,-5.3629365,39.6526462,Venison - Denver Leg Boneless,5
+1JBQ92VXXaMEzGYd7mCHSd6aV5y5vCyKT4,Ivor,Lippatt,2017/05/01,Male,215.43,969adbff6daf897f76d9232ba9c449c8,28.9301227,99.8001946,"Shrimp - Baby, Cold Water",3
+1PXmwbFKM4HtbLTdb7TJTmfT19w2szV9nd,Zonnya,Skene,2017/03/10,Female,85.42,27af6f5852f6a46de39b9f4061ddfd39,-6.3385652,106.9447146,Carbonated Water - Wildberry,1
+1NHoeJfFtvGAchgTWqsgpQ5wiWCarqs8UR,Fanni,Shoulder,2017/03/17,Female,34.36,dbf04b51173114acf6a84218b6bef0cb,25.671402,104.260115,Wine - Chardonnay Mondavi,2
+1MpeTLBaLX6MnWvf34HiNysR7KQLz7Y7H2,Benjamen,Jacobowicz,2018/06/27,Male,36.26,7efe06c583c7c37807be7800bc5532b2,39.46667,22.73333,"Beef - Rib Roast, Cap On",3
+16Cdx52MQtnnHm7kq4tXC3SwEVp5py4sGj,Alvinia,Shakle,2017/12/24,Female,91.54,21f407beb3ece914f350432994b11fd3,49.8531509,-119.611543,Cake - Night And Day Choclate,3
+18G8XHocsxhhLb38Ba8KTXr8pYkwYoUXB4,Shadow,Eastwood,2018/06/26,Male,73.61,050f8f10b80c94f5f2587593c3a2b1a7,-14.27079,-69.567879,"Beef - Rib Roast, Capless",4
+1Jb1j8LVp8EzyuY5PUZcQev1YUZ85eGhFm,Pansy,McKellen,2017/12/24,Female,-38.04,443138e22fce255ef90e56431ef68826,9.5183617,-6.482318,"Pasta - Linguini, Dry",5
+1EbC7GFqaSrZ3L3xCw1B5PqSMC5QB9zRYp,Donny,Lambswood,2018/01/03,Male,55.41,e107ac31d0401a505309d154908620ef,48.5372073,7.5002842,Cabbage Roll,3
+1Cy25X8xWv1nu1W13wzLQDMQZcAHvzsQjf,Silas,Wyrall,2017/08/15,Male,80.86,a2236995564e0c1e5b4df36e425c17a9,-31.9974697,27.6640187,Wine - Remy Pannier Rose,3
+1PQFsBKKJ5h19D8UuJzW5KJhqGNpxGuRD5,Euphemia,Dorkins,2017/12/30,Female,122.81,2bf94bfab38ebaa0851757abc3e2d534,38.8742482,-9.3993262,Vinegar - Rice,5
+1D4pM7PoT5r7JUwMEvSatr9msasve1VdVq,Freddie,Fatscher,2018/04/08,Female,111.83,e5b2312431590afadc1aa32d37625fba,14.5941382,121.0671868,"Brocolinni - Gaylan, Chinese",4
+1PkV2SGTjEQFXznnXeYtk9mk2nvqaxg4kh,Tonya,Barstowk,2018/02/03,Female,143.32,a71f462d0613789963af32fc3bd890ec,-7.9868869,113.7513827,Cheese Cloth No 60,2
+1NbsEyW4XqCPg9iwxooRmLGBetdSaKZZoF,Ottilie,Emanuelov,2018/02/04,Female,98.16,aa1e298bb997d8c8ec62756996410e72,18.04406,121.71871,Lettuce - Romaine,2
+18mPpTJLkoKnyWahrBBLW9BzBSBmSgEfbi,Alberto,Trematick,2017/05/18,Male,-8.8,ba231594bde6860d58ebd653043bca2f,49.7053824,19.2911275,Nectarines,4
+14jEvMU5MuGMaT1BYdJrhLkQ3GPr5Pzbgw,Caleb,M'Quharg,2017/06/17,Male,113.36,608acd934fc6db6ceb55262ebce73780,44.5847556,21.7503934,Meldea Green Tea Liquor,2
+1LAWu7AKXuRQTxQ1NywrQ687PZKCZeYPvi,Alphonse,Andreas,2018/03/10,Male,197.35,26e665facb4aabda9dc9e5ffad99ea8e,47.9487196,0.1940537,Mousse - Passion Fruit,1
+17sMWPDPVGe4x8Y8xNWfVwR96pujan1NNh,Cris,Masdon,2018/03/01,Male,74.12,b0c2d1edb7c199b4cc3b593e71c58650,41.346515,-7.942457,"Soup - French Onion, Dry",5
+159JMhojJ2HkBmV7pYK7ccyWEidPzbKfnA,Celle,Devanny,2018/04/19,Female,202.06,93907cbfdff9056b80606034f4c902ee,41.057857,23.6514405,Pastry - Cherry Danish - Mini,4
+19iGhs1j1t7UH9a3jCGoFT8pifJrUrELiu,Arielle,Linacre,2017/09/17,Female,149.0,c6ef40316065f133e941997d3023b9fa,50.44979,-119.20235,Lamb - Shanks,4
+18gcQ28R4Dnzy9B2xfwCRhh1BTXe7CUrDp,Kelvin,Tyt,2017/07/15,Male,-0.88,c97de41c26b3283461f8b304d3a01bd0,53.3169419,-6.251714,Ecolab Silver Fusion,4
+19PZSJKQkyQ3MpFFTE22yTstHzHGowkunQ,Bailie,Huckster,2017/07/02,Male,133.25,5ef6ed50c2f3e56ba6dd00c8260884de,-6.2271384,106.7968708,Crab - Soft Shell,3
+1EvdcUAMxJ9LYhRjtJLP7uSdCfUMh66VJg,Al,Tacey,2017/06/10,Male,84.42,63fe998a5fdc335e21c86beb7b6ea4bb,31.298974,120.585289,Sauce - Thousand Island,5
+1AZpn7rWSUr8vEmvLTDPTDBcXniRUDVSP6,Dyann,Howieson,2017/07/14,Female,176.32,9ebda068bd6b3096652c1a37e45a3f97,28.852157,115.662676,Kippers - Smoked,3
+1AcjQ21ZextkpKxGjsS4aZd2EU7iuX1EaW,Mozelle,Honatsch,2017/09/19,Female,29.66,baba18cd63db18b9373b6cd833086a4e,36.2469586,138.8138456,Dooleys Toffee,2
+1BdqAeeaxEZBAbRSFoj9oQoxRti2Kksqy4,Zedekiah,Whitcombe,2017/06/16,Male,83.34,589d835f0d4f4fd255c4a09d6950f39e,30.0007026,117.9914358,"Wine - Sherry Dry Sack, William",3
+1KdK8DguEmM4TWRTtTaSZbyQVwFq8q1AHF,Marlo,Laurentin,2017/03/12,Female,75.89,8ab6db5b1d03ce46cb88198b40cd46f7,60.5717591,26.050814,Cake - Pancake,5
+1yAvoX6AhL5JBob9ZdUY4uAgRr7wGp9G7,Brandy,Brettelle,2017/07/03,Male,45.54,52cc5969e9f7130d5ef35d5baa414ad5,-10.5971,121.8889,Pasta - Fusili Tri - Coloured,1
+1eEfeELqVN5UsFaLVFuGT7VS4t9zqYAJo,Inigo,Kohnen,2017/06/22,Male,25.73,90e0a06af794625ad0e23924fe1e733e,0.1840524,100.1255164,"Oregano - Dry, Rubbed",5
+1v7GKKxbf8MFpEdYGYq9kRa9VnbQfe1hz,Marlin,MacRury,2017/02/27,Male,135.68,a5c9dabaf112f532a82373a32889b0ee,52.3648742,17.4133285,Wine - Cousino Macul Antiguas,4
+18tEqZCgHrfz2XVoRqgGTbn5gs4rLQhy27,Querida,Ovise,2017/08/05,Female,231.4,b886d684720e936e5f18824ba7ae6ed8,38.084465,115.068277,Lettuce - Iceberg,1
+1MwANxcE99droHueNnnGwGwxUXbtTJBNod,Wiley,Steeden,2018/03/30,Male,243.9,2265d789e915404e8f26ff23a8561052,40.93945,120.271595,Puree - Mocha,1
+1HagyrEssGhZsaHshN6gLw7qgCyZvyQcvs,Laurene,Copins,2017/08/06,Female,-68.93,c8b918e4ee12d96922b70b596d6eb5de,41.3395549,-8.2519171,Beef - Flank Steak,2
+17a6bJzqqcXjmfdFMQGDkAKBFsDfhQmkua,Florance,Trembley,2017/08/16,Female,27.62,f4911f9cafaca0fd2aca18c8af948fb4,57.1260445,43.8059949,Jack Daniels,4
+17nV5KXTPeacJN33SymSoUMQwoPiS5NnL7,Hinze,Halso,2018/01/05,Male,152.94,8c1a92a911c8bcb37f3597bfea329d3f,5.9840985,116.0761121,Beef - Ground Medium,5
+1H3YofHrWH86XTCrvHk7D8JgnvWKZUc1KE,Debor,Bogie,2017/12/29,Female,163.53,674559793d0da51cbfabb5cd505d9bab,-23.4697466,-57.2635114,Parsnip,3
+19BzULiTWTez8T49VxjDDAj2idSk2Fk3Ss,Coleen,Cotterell,2017/02/24,Female,161.75,150e5f5eed5fb1809905bcab491f0930,41.2675718,-8.1984042,Rolled Oats,4
+17of7ifZwjmZWFgxGNHQaK979kpZYsFXVb,Gustav,Piggford,2017/12/27,Male,144.21,dc3ddbb51d8801bd57f9f2779f45647a,18.4927064,-69.9621383,Cabbage - Green,1
+163deHhh2QjmYXz4MGPVSicPQ2Sysq1oiV,Angie,Scole,2017/03/18,Female,127.2,2871d13d992b103e51e3aa5249ac836c,4.860823,-74.912667,"Rum - Dark, Bacardi, Black",2
+1Cz9PRsxaKVEdukixwwZHAPaqoqorjubkS,Bevin,Vasey,2017/01/11,Male,183.74,6c1da27da96ccc05f49db8be6bd31817,-5.667322,119.648399,Table Cloth 54x54 Colour,1
+12W1zijt7Da98LNaRRCuXNxurSJtagzDkU,Reeta,Cragg,2018/01/14,Female,60.3,4ce5e0b114b4f2cbe32d99c9353ec6b1,-7.740099,-40.2884386,Neckerchief Blck,4
+1NcRgMwZGWXjuapwht1ZLjFLzdzPMzrzbH,Inga,Monteith,2017/12/25,Female,99.13,43c7523c02fccd899cef222f0a3f1f8d,-7.2284727,-39.3121233,Sultanas,5
+137YwmW8rBh1sAM2N5AFtbsNgJ5bf7o1wE,Terza,Poulglais,2017/06/28,Female,77.37,e0e23d5ee45fdeaa065308bab25f8b20,-6.9131,113.2513,Coffee Caramel Biscotti,4
+1BHKzqK9vtpYR3rJzmM5nwrheAYyiC9hEq,Dickie,Tills,2017/03/22,Male,57.21,3c9b361f2d1286823f13b2fdb12c9ae0,54.6001467,52.4387134,Cheese - Stilton,5
+1MPvP3La25yYdG14tEJBAxYKXU2LT9sfEg,Federico,Reasun,2017/08/15,Male,91.88,2f88b9f372ce601525e348f69791bc36,-7.5629468,111.4559084,"Tomatoes - Cherry, Yellow",2
+1GYigou3MYxtAz9xN89LkCpjz5z4WgvaDU,Eudora,Pendlebery,2017/05/28,Female,72.14,90fcda7c6b3562476985b8e3edfbd55f,28.6517036,117.9041296,"Apple - Delicious, Golden",4
+1Ld8ALX88GGA2QRYzS5tzUTG3AwxQ9cHs9,Lucia,Clatworthy,2018/03/01,Female,74.81,1de8295c2d9cc346c4e407051ae376e5,29.57991,71.75213,Wine - Merlot Vina Carmen,4
+1MzctV9p6J4eDwBfp2Wy2iNdzNzPUCnjQf,Lenore,MacCaughan,2017/08/05,Female,48.5,3f4806738fd78bd8d8dbcfb1f47d2bb4,59.9403761,10.7691773,"Soup - Knorr, Veg / Beef",1
+17vHH7i1UYEqKqZhuG5oZQuG7HbGiNPAPw,Lilllie,Massy,2017/05/19,Female,114.46,1217f1da6852a2c1ce26a81399ea1e76,14.6035119,120.981775,Sauce - Hoisin,4
+1BFcsQV3y9BVd1uum8snzbUBewGkuyrPEY,Fabian,Olkowicz,2017/12/15,Male,59.48,8a9e7be2889199cfa0dcda2c5b566f4c,38.143169,117.497651,Coffee - Egg Nog Capuccino,4
+171bduTTuCJMWxTvQoHZrUXyDGGv4P8G69,Terrell,Bollum,2017/10/29,Male,25.35,d05f9bc7ae66bc6018ffc1a7bdef3b88,20.9874938,-77.4185584,Chips - Miss Vickies,4
+1Br8QGTcC9ScgguAALxYMR7DaUBzuRaB8b,Clemente,Gallier,2017/03/22,Male,30.13,d4d0d6d512d16af3725026b056376ebc,10.6952642,106.704874,Bread - Raisin Walnut Pull,1
+16LemVCuB1NSVypnzQTpBAVuhyk2DxFQUn,Bondie,Lindwasser,2018/05/18,Male,97.93,1621ec94e2ec4abe3df854d90819be47,44.351935,-87.8445954,"Juice - Tomato, 48 Oz",4
+1DjciXESnwgDWeWHiuoD2u33cRVv6Rj97M,Billie,McBoyle,2017/06/21,Female,76.74,675771e0b557bf3a161b770a7df17495,-3.0500015,102.8169757,Pears - Anjou,2
+18x5mX51KeJFm2GMh1V6Y5PwW8QrCYH5sH,Nonnah,Olivelli,2018/02/23,Female,84.94,4a1a8e7b5cbf7bbec60f15f436307264,-8.6836833,-35.2807624,Squash - Butternut,4
+16JFtGUFSSieD6v3WUT4hhrbJHnfdVLDRd,Anette,Motherwell,2017/12/29,Female,243.33,c923d9e3a43fea8b992f7f7680d2d417,48.8466523,2.2582125,Coffee - Espresso,3
+1MhDS9D1t1AGiYcLMQXXr3xGZA6bpnz2VJ,Thekla,Steward,2018/05/06,Female,74.92,e3dafc6fa98b138f2f784aeaec0d1193,14.5030429,121.0524334,"Juice - V8, Tomato",3
+1FqnTsgrkrcU2wgz1KaLX6Pwvi6rCi9rCj,Rutger,Crevy,2017/12/28,Male,-8.78,3570df83296d4df2ff62729b4e9b8075,-19.5365508,-40.6258001,Tomatoes - Yellow Hot House,2
+1C3z61GmxvnpdgsrNTRTiKuqVKsBuLQ4QY,Sigvard,Marney,2018/05/12,Male,-18.84,c2cdb6b69d603424d5ce5a0eb8ff2df5,21.660935,109.207335,Tomato - Tricolor Cherry,5
+1AGrNcVk9dCdrvNm3EE4k579XCcMgWkC2K,Gabey,Cesaric,2017/10/06,Female,242.79,f5f14851949ec23f6d6b1eda7e5d2110,15.2338798,-61.3567483,"Cake Circle, Foil, Scallop",5
+1NWJPK1XKN5GfgNQ6qKEd2XaY4LxuFCbCD,Hakim,Nisen,2018/03/26,Male,109.76,9e1bc29c45125f7a29a3d096f482ad1b,58.3947207,49.0525711,"Soup - Cream Of Broccoli, Dry",4
+12cMaTyP9QuFVFBu4dRH36YVFeEqH8fd1q,Lea,Abbie,2017/06/02,Female,197.79,1299ffb5118145addce931ed45847ec9,37.1091948,69.9193004,Roe - Flying Fish,5
+158ruNqqAhRqPy8mymKKZnbS3T4STngET4,Malva,Scholl,2017/09/25,Female,58.24,d6fa8062533586fb1634e014cc30fe9b,8.5974312,-80.1791368,Bread - Italian Corn Meal Poly,1
+1LVyCRzVME1ECUBtMEXbrnmrqBwpeLzwkL,Shane,Kubu,2018/06/27,Female,-77.42,ff51bafb7785b3af5a1baa45aef7c91e,39.3525635,21.7513868,Squash - Acorn,3
+1CgT962eJSHfrAQFSYGKFDid6C1RMp5Uub,Caroline,Gibbs,2017/11/20,Female,-33.39,ab1516b2a1dd34de9bd09784895968a2,22.3363608,103.8437852,Soup - Chicken And Wild Rice,4
+1G7bqVFxEwNXFMudo6mXMRhYFDGWzcnsVZ,Steffen,Mudge,2017/09/08,Male,209.0,affa7e8d51405c41907327c7b6dc5003,32.765421,-96.7413706,Cream - 10%,2
+1Az8nuWxVUa48GeDjWyxuB3aWJ4RZ3ADGm,Leontine,Carnduff,2017/10/30,Female,92.34,a7db54044d1900d7c3b625ac886a707e,38.6732759,-9.2330331,Apples - Spartan,4
+13eSYf7Y4EMtj6yUHAGTxtx1KFkDXGbYNV,Esme,Don,2017/03/03,Female,-24.86,31d0df980a04b61d5fa6783a6ff4a470,-25.4372113,-55.093449,"Butter - Salted, Micro",3
+1WA9TQMBAFp7sjEUiSSNjg9EhJ5CdvZQk,Geoffry,McSaul,2017/01/20,Male,183.36,c9a5ec34f29cbbbfaf6bdfbd5c2d475c,33.918534,8.1229329,Scrubbie - Scotchbrite Hand Pad,2
+14YqcVNkpjxyQfGfVwyi7tvS2vAciX9MoS,Cynthy,Scay,2017/10/22,Female,22.47,8f551d5a18484ecd8c267cc0a4fb5810,28.229271,120.997332,Lamb - Sausage Casings,4
+1NEuPejZPkkfeJejfcmMss4qAt3s613b51,Shirley,Oade,2018/03/18,Female,33.78,4ec008f8da72a08d1fbbfbb87dbf2a9d,14.5874782,-88.5831026,Pumpkin - Seed,5
+1HsMNdKujbMfEMkUeNeEFB3SpHLx983tQG,Elia,Champley,2017/08/09,Male,64.99,ac562768287ae600a31b7c55310f3b66,60.0456385,30.3403569,"Coconut - Creamed, Pure",2
+1Bgj2CLwGM3tpVTvneWNN5ERb7CrCMXWFQ,Hugues,O'Corrin,2017/06/16,Male,37.88,2bb58eda12dc8171b5730e9b0d5f6d9e,41.0390875,-8.5746201,"Wine - Magnotta, Merlot Sr Vqa",5
+1A1nVpmCrNF1Xs33S2gR5w9mE9LBTBcXc7,Mina,Hallyburton,2017/04/19,Female,84.83,f9a5f0a75d3150e328ddbdd84200e11b,49.9800949,19.234704,Wine - Magnotta - Cab Sauv,1
+1MWhZJByxpWhro6xT8Kc3xvSAdQUWsA1g4,Barnaby,Petyanin,2018/01/16,Male,106.4,3668ca030eca14be2ac822f30e508d7e,30.0413257,31.2046714,Lettuce - Radicchio,5
+18wx2c18LGNLGoL3UMvExj3zT142wUULZu,Samson,Crose,2017/10/07,Male,92.51,f7482b5068907d66f33efc29cf7e7b56,19.782027,-99.0598732,Thyme - Dried,4
+13R2itpyD8MSKCPaLMikwBXoea43y2XNum,Aurore,Burds,2017/09/03,Female,-54.67,90d2ac3da55908a46f1a8a63f7e9695b,32.047243,44.3709408,"Mushroom - Enoki, Dry",1
+14D4KU5kbWZMk3GZR2iahYoxJeBxm1qKoM,Aprilette,Cordner,2018/02/22,Female,284.7,a178fd51ffd1e19305d04c69efbff292,-7.4043939,-35.5876697,Mcgillicuddy Vanilla Schnap,5
+1AMo5oCZ8BdRkJudPpGjNSMFBTVYvNpuYy,Barbara,Meritt,2017/08/10,Female,189.63,038a916788550207f989e1ace5719e06,22.775792,108.317902,Flour - All Purpose,1
+1Hbx2uKDjqjJEZ8GgNUCzxKSngraWEPL53,Kristina,Moverley,2017/02/14,Female,115.66,c867e8c99eae6847005a28db13cf10f1,45.2697992,38.148163,Dried Cranberries,3
+17M6ym8oM3v4JFDmm67Ket4Q6fFZg4sbQs,Pippy,Hatch,2017/04/14,Female,49.38,577e448d4227f980f2625ea350e3ee71,11.4967991,122.6946707,Shiratamako - Rice Flour,2
+1Ls5PWJzBxcHJJ2gTy4cbK7PVuAHPWfJYu,Bren,Lakenden,2017/09/17,Male,62.2,501566a3e3283aaa84f9511fbad92e74,5.6972693,7.0605998,Sun - Dried Tomatoes,3
+1BBcP15XrqMnPFTpXcVPBG8YK7fnRLQQg8,Lissy,Stockau,2017/09/08,Female,75.88,847d720d38a8c43bcf9af1da6e02ef71,53.2874153,-6.3660863,Sausage - Chorizo,3
+16SaAS87VvHNukVjRvejtcNYpBjCZMDyhn,Kelsi,Blaszczynski,2017/06/03,Female,143.79,6f4afbb7b0fa07c4e157a690685b1980,40.6875315,22.8426988,Beans - Fine,4
+1BJTQNcpX2KiL95Wt2vf1RcgHYNBNmDBu6,Humfrey,Lumsdon,2018/06/24,Male,11.12,37b00ba27ae70be2a43ceb968d81b0c0,31.2823103,121.5045889,Table Cloth 144x90 White,2
+14ipvDvH4iB9dx7UVg8fzqBRvuKyuZcUeh,Theresina,Woodall,2017/07/26,Female,216.92,f7fa7e6cfe3a34762e10410c6d830041,41.3360854,47.1318069,Pie Filling - Pumpkin,5
+122spA24ZpxF8TBFLqSemP4xrjpdz9hoDW,Terrell,Stapleton,2017/06/10,Male,-4.16,2f52d8d9acdf4f357d771e43d8a9a493,22.254836,113.467503,"Cheese - Romano, Grated",2
+19GT1gBQFqu7gQTYhdt8rbL4TXVgQftFNK,Tabatha,Alldis,2017/04/24,Female,77.38,7f00eaa027dca5658eaa190ecb51c5dc,48.5393826,135.0394338,"Vinegar - Balsamic, White",4
+1HR7FTRJsVsvBPFnewXndZWDTdZa4txQSL,Tallou,Kordt,2017/06/11,Female,128.4,4926817df9a05672333da0c32b1dd98a,30.070453,115.944218,Dehydrated Kelp Kombo,2
+1DEJVMRXP8G4jXcjkezJ6KqRyjQ5GRz6Ut,Marline,Tomovic,2018/02/04,Female,43.56,d8d880f5fe995a965cead23b3453edc0,43.9705397,19.5649108,"Veal - Round, Eye Of",4
+16nHqAJFngHMYPSGXhxFFDXq58s6sRchCc,Normy,Dellar,2018/05/18,Male,144.28,81b9ccd9e505fe45560920f18c7e1a85,48.1164447,-1.7128603,Piping Jelly - All Colours,1
+1GpaPF24sFWEVXhTTqYym57ngJ9QD4hqzB,Corrianne,Balogh,2017/12/23,Female,190.11,624ec78b4fb00a56db6ffe91c9fa6154,37.4467354,25.3288845,Wine - Cave Springs Dry Riesling,3
+12FXtyg4GPVsyG88s5Wa5Vst3GcfqkfLVa,Pippy,Risman,2017/07/09,Female,51.55,11d9cdf2b8deae7feefc24c5f1c8782f,47.0163969,-68.1430029,Pate - Peppercorn,3
+1KfnJfVWpyyyxfaUqrMpEkiGzeXGikeDWg,Leonard,O'Halloran,2017/12/12,Male,129.14,f43251e790fb8f342fb8cb3ba651f020,34.2869441,-4.6605581,Wine - Montecillo Rioja Crianza,2
+1FDWqikJ97B5QJMAgPr6j6QGpCVnYNqj3,Sebastien,Quainton,2017/05/16,Male,163.36,fbb9a5cb9eb55cab6d825361a9a8bada,-7.783297,110.363649,Puff Pastry - Sheets,5
+15d1Ekc2iPy6nzMXNXr6F3FbfQYmGSkDLt,Rubia,Cappineer,2017/10/24,Female,73.91,b53a2f7fb4e733cee49aebf0ee69a579,35.761829,115.029215,Black Currants,3
+1NbVs4fMMpPFtBUwPGLocnnS233NDzi5kL,Kermie,Oglevie,2017/11/20,Male,120.02,9bdc82a1abe8cb65e1182bc16bc87a8b,-11.268661,-37.43854,Bread - Olive Dinner Roll,2
+15Bb1iTHFe1K3u1W8FdjcoZtzG9NuJySuk,Mommy,Garmans,2018/03/18,Female,87.42,735fb5c49e06fd32907095f3abc1a8f5,25.4427709,68.3004492,Crackers - Graham,4
+16iN1dGreF1Pyh1pESs8Mq2A6geGk4zwzZ,Alissa,St Ange,2017/11/09,Female,-34.59,2c6fd6857ad1fbf038e84dc792ba6404,-5.75,-77.9,Sugar - Monocystal / Rock,3
+15T93hzE1GqytjkfBmqYFHLonX34VGawK8,Chucho,Whitticks,2018/07/01,Male,202.89,ca4846c221677f96799641eaa41f1533,12.6679167,123.9881642,Flour Dark Rye,5
+1GzczKx2khbLY6jzr5hv7fmXeA5j9y8c8Z,Dalis,Lauderdale,2017/01/13,Male,193.41,d932c6815b3cdfa0a99cfd02e3a363aa,32.187123,34.823124,Eggplant Oriental,1
+1F5X4C1y13aJqk9tHRFThohYPaJzjuQjZj,Sheila-kathryn,McPhelimey,2017/04/13,Female,-6.23,639f8dc9c77ee915c7f34d76f8bfc1bb,-26.5090889,17.1514061,Jolt Cola - Red Eye,5
+1NaeqNHfhkwXQaXg8xQWG5XcUvGDUK9KA7,Bethina,Duddle,2018/03/04,Female,4.84,d788697c636c47df548234e97440c041,32.601214,119.17604,"Mushroom - Shitake, Fresh",3
+1Q3b6sKHb6dtz47saA2TC8sayaJg65rqSz,Laura,Wyse,2017/09/06,Female,102.77,5635f215fb25acdb417e48789764c81d,2.8197885,101.9975866,Bread - Rosemary Focaccia,4
+1i3ehH95uZ8aAX5Qspd9h6uh1VDhp9WcW,Othella,Turmell,2017/06/06,Female,127.11,eeb1a48ed8c043ba0b317d7b53c5a1d8,-10.0231658,-76.6809744,Cheese - Asiago,4
+19KEWmkTWN13DzuGUCwFBCc7NpbwVjb4Pv,Maude,Parmby,2018/01/05,Female,-20.15,6ebf0dac4a78397011563b9c98f78036,-21.9111483,-56.4719928,Coffee Beans - Chocolate,5
+1Aey4EdCkKezw9wnWXJoWfxM1Sgk2xqjga,Maurine,Croser,2017/06/17,Female,56.08,f0f4346e0d28fa8612852a7123a5b00e,59.843765,10.7798142,General Purpose Trigger,3
+12cFfkpCc9s8okQxW2aweW5C9FJekP6S8c,Janey,Bruna,2018/06/17,Female,27.64,368ebeb7b25c12360c5a37f3d5d9b8f6,47.4701444,84.8752996,Muffin - Mix - Strawberry Rhubarb,5
+1H1xiFVfUqQUY51QaeKxdy3Y7aE12JZXz5,Kevon,Allan,2017/05/15,Male,160.16,3664e961caa0565072a54fc9a22836cf,48.830394,2.2372823,Pastry - Butterscotch Baked,5
+1Jr67Vxg3aEMEM7ZFXrAHsn4V6sjcWpyfr,Kissiah,Rollinshaw,2017/01/02,Female,140.94,ffbfa22757aebb6fba8f41f321153fd1,-6.9592677,-79.2420766,Wine - Baron De Rothschild,5
+1NMQ5uTZmpJhR2vpysaywVKGhgKpNodTXp,Florenza,Gutch,2017/03/30,Female,-19.27,046ff8f8b71f9629016eea94d910c925,-6.7235696,111.1436581,Flounder - Fresh,5
+15WsxTjU19Qes4csBmQQcKcWt3zxWXaQFX,Caterina,Ryding,2017/12/13,Female,146.96,4dc84288893aaf216856172de7288594,39.2470722,55.5191857,Flour - Pastry,3
+1KjpsDSvmyBV4CWd2HhLjRaCxRkRWLMd45,Hildegaard,Slader,2017/08/14,Female,71.64,d778cafaa78638dee3a6e004c20dd26c,-1.7879521,-79.2873953,Saskatoon Berries - Frozen,1
+131et6jj3NSHrVVNFXCk5vcoZeiTjQGx7E,Brandais,Delmonti,2017/01/13,Female,-20.36,7fa37a78dcf26be07393c60b8eec75fe,0.4864487,32.4764443,Wine - Merlot Vina Carmen,5
+1EoTaF8fXJyYy1tomwN8vuYHqPoqyBWcic,Tawnya,Sirey,2017/04/21,Female,-74.27,92870656c7540fd9895c196edef66df2,14.6701,121.108226,"Nut - Hazelnut, Ground, Natural",2
+12U9Mc6vjNS7PaXLrLoG8HyBvrMNwwFyQZ,Frans,Wyburn,2017/08/26,Male,120.73,60bb28a215c18d8c0a7cfa228b7e2bd3,30.3220554,73.1302301,General Purpose Trigger,4
+19DiX335Vfx7XPVLeEtEvJbMfsK6KSgZRY,Pierrette,Tomaszewski,2018/04/29,Female,19.02,af0b80c3f547c83a7506844645e9b25a,3.3570113,106.3316629,Cheese - Comte,3
+1AcExwMBu44hpU3p87zzHHrSMeM66CzcnT,Penelopa,Campos,2017/10/10,Female,87.83,524b488991cf7c3f39f8d58f7958cc5f,32.016539,35.068807,Mousse - Passion Fruit,4
+18ddJuezEbhQpfZ8FbMakqtGQGAY7SfLcs,Veronika,Lemmon,2017/06/13,Female,18.47,5cc909db45be665ae074140793d43572,56.5023602,60.8150629,Rum - Mount Gay Eclipes,5
+1ApkMGJeoPuTtic2bkNvRK1WzJvJDU6VK3,Nanice,Hartgill,2017/09/16,Female,160.54,2e683bbde5862154a3b2f2cf2d9eb6a2,50.7842082,-2.0098528,Potatoes - Parissienne,1
+1N2no2gR6mdAxJkydhbwJAhTbkWqQMQB6C,Berky,Anten,2018/03/12,Male,107.28,ce385ea68fbc86e9ce2da9e80cc025e9,52.4506032,19.6362734,Wine - Zinfandel California 2002,1
+1LKSx14XngbvK1F1WncEn3tuhkYWqEsS8b,Emyle,Regglar,2017/10/18,Female,211.13,1b89bde41f17e2aa77ed19fed1499a01,46.803197,61.6639055,Flower - Commercial Spider,4
+16TTkrPwFg74CtoTXK3TtfLi6UD1e2xZRZ,Ambur,Gambie,2017/02/28,Female,188.21,f430a5768693398d9ef783c208c98448,51.718833,19.1490758,Raspberries - Fresh,5
+14xygJLCPN6hFvJr6sVumgF4etvgyCjH4s,Gabie,Paybody,2017/06/07,Male,121.92,8a9d47859ca246a8f0caad5f6d4062b4,60.5686508,26.4733066,Initation Crab Meat,4
+1K8ErhDFB7s8gBna4vTAMivWhdAEiBxgMv,Anna-diana,Avraam,2018/02/11,Female,-3.59,f88855986521252d0fab2b1aa58a6c18,50.063355,18.4336557,Sobe - Cranberry Grapefruit,3
+15jpFhaYZABYii9PcjBjyXmp6jjtX3oq3g,Tris,Thyer,2017/11/25,Male,144.1,3c2e8bcb1a3286c4ef53435623f7d366,16.3852649,120.6171345,Appetizer - Sausage Rolls,2
+1CadwV11MEjdUc7AXr4cfbegCQfwseQb68,Poul,Forte,2017/11/14,Male,98.38,f361bb2136d75c1f7105ac143248b465,21.547821,107.971826,Arrowroot,5
+1NBC1LMGCgXJm1czAmwpZxkstzATgoxd4,Ernaline,Mowne,2018/01/05,Female,141.97,8bed8de0f99117eed8ce098ea76d4ca3,9.9817261,122.5356326,Apple - Macintosh,3
+148uFv18Fkeb1YAi5dKxraqbvxR2pX2cDZ,Mariejeanne,De Filippi,2017/02/07,Female,59.05,68f1419285fa0877e08502dfdc787b8a,41.4023768,-8.3684974,"Cake Circle, Foil, Scallop",5
+18LgGwEmjgeN9mrVtftg7gmNpm8qDYDi48,Cecily,Petzolt,2017/03/03,Female,-25.76,2e2820f4973f5232a3e4082145484ec0,30.9457638,121.4371451,Lettuce - Boston Bib - Organic,3
+1EFre71x4Xt8QGL3x6YfEjt3kWrEVLh4Sg,Melisa,Plan,2017/06/16,Female,54.15,052c24783ee9ec167994cea26795bce9,-8.0095874,111.913497,Wine - Lou Black Shiraz,4
+16cLjgsZfXspn8zok6QLCu3fWGvH5W9LtS,Nomi,Mallows,2018/04/03,Female,55.41,5475ed3d0feaa586b478946909efee7f,14.3213796,121.0737995,Rhubarb,1
+175dJvFM44bexRD9hSh971jTKNQfYnA7Ha,Merrie,Rabier,2017/09/04,Female,27.85,b16bd2316e2af216684235cb7cff4b6b,33.613239,-4.191742,Canadian Emmenthal,5
+142PkAc2g5DpU17QtxA4QuWerpVReBSWab,Odo,Hanwright,2018/03/13,Male,70.55,e29d2eff6a6580d5cee153486036e6aa,58.7113992,50.1706415,Chocolate Bar - Coffee Crisp,2
+15WfPbiuMKyRrZQ3GEBBVTsZGsTR7nr6Cq,Gilemette,Bresner,2017/04/04,Female,140.52,6ab624eb4742cbdb533ed70aba1db79f,7.6988579,-72.3607108,Gelatine Leaves - Bulk,2
+18GC3xKMd6KPe8xeyprKA1o7XRBSJDGfUV,Doug,Crean,2018/01/13,Male,143.0,00a9dd82958323cf422a5040dbeacfe6,22.122658,112.814502,Grouper - Fresh,4
+12hK1hj5s5Mn5VcTkqoapHHKfTQk5WdnGK,Addie,Quant,2017/07/03,Male,129.09,0208938751820e075babeae8d1760921,-10.0396,120.754,Wine - Alsace Riesling Reserve,5
+1Ec5c7WRGD7FzgtBHeLFbPq7RF52ANPmi1,Edward,McCracken,2017/07/05,Male,135.18,904daf1c078e3572c04da629a0de8a1b,45.950582,128.043465,Soup Campbells Mexicali Tortilla,5
+17a2sEa6xN7rXhrWYLaK3KRMmqXFVn4YnM,Ailyn,Loomis,2018/02/01,Female,116.16,6d35e1f0dfea166994c16ce498ccfbff,32.200197,118.41697,Beer - Sleemans Cream Ale,4
+18Syrm5GWfbU5ZJxzb7QpQLPekpainwg6b,Gardner,Fullegar,2017/09/10,Male,16.36,61bbe68cac002cb1281447bc256bb052,24.1477358,120.6736482,Cheese - Bocconcini,1
+17dpXpjQtiqHwzTWu4e9vRkK7Lq3SG6aJf,Jazmin,Timothy,2018/06/12,Female,167.01,8d260621c4d910ba6a2b2f7673ae88f2,37.8744535,44.9801966,"Sole - Dover, Whole, Fresh",3
+149c98T7c3xK4YJZxfab8UxiVpUEGneanB,Carine,Blaby,2017/09/10,Female,112.01,0ac1dbbaf1ef50c082f27f8d904fa113,49.8156816,18.8067375,"Pepper - Paprika, Spanish",1
+1BurbuQbQ2CMSaUn6dsEkJpU4ekMQzqtca,Rodger,Leftley,2017/06/14,Male,-66.91,5c22cc1dee31a15deb63463bb92978cf,20.7491091,106.3699271,Icecream - Dstk Cml And Fdg,1
+1MvZfg1rx7K6FkN6Nm262ZnNe8WorZYXtG,Corabel,Klezmski,2017/11/02,Female,41.36,a5fd2f6aff0684b1ac792429d22b6bb4,38.277028,109.720309,"Pork - Bacon,back Peameal",1
+1N6GG1FB8NaFM9G4fKYFX4BmhbbcLWTxVP,Carlee,Mauvin,2018/05/15,Female,102.31,168dd28c04f02f71f66e35064c74592f,40.0678351,44.0788197,Bread - 10 Grain Parisian,2
+17qsDDwm2JLkKGfMZzb6cGxPU83fKoJHk5,Felipa,Gerrell,2017/12/20,Female,-20.15,82923dff2740450da033b93d9bd9e214,49.5177049,21.1767387,Scallops - U - 10,4
+1KqbmTbNhMs4dzpZ9CkpcANdLs3XX1AN6e,Danie,Antonin,2017/09/06,Male,181.53,a3edc59c5e12b3d2961d6aea20d72296,-7.7285206,110.7897275,Bread - Italian Corn Meal Poly,2
+1GRDLNCznmPpCpNugc2JzhYWq8H2Ab9Csr,Quinton,Malyan,2017/11/17,Male,71.16,e431addf61964fc573c5491c0c89d27c,30.638674,119.680353,"Oil - Shortening,liqud, Fry",2
+14PuDe4nT51jKy2KJtMFwD7SSXWYwKWGPr,Costanza,Cacacie,2017/11/13,Female,-66.75,982b39424d8aa3f4a5a8fafd122bfd20,14.3246136,120.8590469,Cabbage Roll,5
+1Ds3xwDFRgzPyd3cEFgsja6BfCvoWASQJy,Reggis,Vurley,2017/04/20,Male,149.64,21bda83e459fb0028f188da4695e1f22,59.3138173,14.4937714,Sun - Dried Tomatoes,5
+1KrGe7AHCiDGa7Xg7c5CiUqv8u89t5y29z,Germana,Godlee,2018/01/03,Female,59.36,33bc1e8c2ce8e10db1b55452d6bf02fb,57.2952246,13.5655522,"Sauce - Black Current, Dry Mix",1
+1PVvQEeYpCXwXc8oCSrwpED975hSdmTCiL,Howard,Summergill,2018/01/02,Male,73.75,f32b7973691f6bfff2770098c618b6d6,-21.2245142,48.3464426,"Cup - 6oz, Foam",1
+1Lk64R6SEmjevbLWqAQ5H6sWcRxmAw8YM2,Errick,Honig,2018/06/25,Male,142.53,e8fbafd5c587d68f05dcd9c433b380b7,36.740034,103.26311,Flour - Strong,3
+1A3a44qnzFnqXGkd5WChzhza63oBZ9TYei,Vittoria,Batt,2018/01/18,Female,182.26,1cebe1abe87ffe8f024efa228a72a7d9,-6.8063294,107.6363296,Wine - Rubyport,5
+1BWjDv78mW5DtbkqZVyqFdmmBiQBKjSzZL,Salomone,Bodill,2017/06/04,Male,95.17,9c33969c117330f9730325bd5a0b192b,15.7790394,-88.0265257,Bread - Corn Muffaleta Onion,5
+1HbPMUdvVcgEBhJxkrcUV14R8CXWq4fxZ8,Joelynn,Cruwys,2017/09/15,Female,-11.05,c927422edea9cd6b669c4c1a977ed3e9,39.781583,114.632886,Nestea - Iced Tea,1
+13k5ZP6zFuK2qKbm4oukkVr845DKNB4dRn,Hadrian,Gantz,2017/01/04,Male,89.1,41e5cdd29a3fc48b4cbd2a38fb77566f,-6.8217678,111.4067217,"Wine - White, Pinot Grigio",3
+1JtN5EipcGcNoSUAEw8AZCoDNHUhA9oBAQ,Whit,Clackson,2018/02/20,Male,82.36,113ac2d975ce5fd5c9c0ed1d77fdb22e,2.7239834,101.9476452,Cabbage Roll,4
+1MUBPK4CGW9Sh92vRVjKdafxqexJDFGQUm,Gracia,Lyfe,2018/03/27,Female,237.16,29ab99b558e4fefc8e9ea754a541c249,59.3573116,27.4136645,Pepper - Chilli Seeds Mild,5
+1GSkMAxeqpAH3E4JM3YRXYEjni7MxEidFo,Flem,Pithcock,2017/11/27,Male,-18.81,b23fe867d21fdf582375d3f2ce028872,53.2067339,22.166847,Leeks - Large,5
+155Sw6E2Pvhcww9gJiF4MMRoA9C95Y4but,Danell,Algy,2017/05/14,Female,131.84,e9f4aa0a51da4a0ff13bb19e84749d11,-8.4955,118.2991,Chocolate Bar - Coffee Crisp,1
+1BLmRJjvDhD8qokRMzq5u77ZFTHmx9tVd5,Decca,Asplin,2018/02/01,Male,164.88,a827bcfbd6efcf3e2e0db8d24ef68a53,41.11023,20.0866554,"Brandy - Orange, Mc Guiness",4
+127i7eTZBUw5BSKoZzWHHfVahgztH5cZDv,Fidelity,Tune,2017/03/06,Female,193.21,db2f0a6432bfc823bc0c702b5e8a3429,49.9772098,1.6928443,Parasol Pick Stir Stick,3
+16jjc9xHQzeCA1dU9qqdPPBqbRwfWdsvQt,Regina,Klaus,2017/08/04,Female,221.38,9e46acbd28eec03a44aeb78bf5349718,17.1238845,-61.8233706,Nougat - Paste / Cream,5
+177zptdGTDG7Butj6sJ88dhr786Mi7Wkox,Carin,MacKaig,2018/01/17,Female,37.61,68e440637e6cfdcda5226a26181b9d70,-27.097026,-56.0166377,"Water - Mineral, Carbonated",3
+1ENyuCBM5swaYwrLa3dmQ5BKPX8TEq5NPy,Vilma,Lemmon,2017/05/24,Female,84.16,9947ee73c6d19925cf19f6e0b069a474,7.5245233,-76.317414,Clementine,1
+1CsQNfDWbgdMPsSYMdbMfdZaHf1vgfjwbk,Greta,Baunton,2017/02/03,Female,124.47,c6d4b6ade6e04258a4d4cd4748798470,-1.259553,104.100502,Roe - White Fish,2
+1KCvkRw9Y8UHsxv5TrSB97gXMC3RaxuMHi,Any,Croxford,2018/04/19,Male,175.13,73a7568ed1f5bf53463a6dafe3a06786,6.3336659,1.5281253,Soup - Campbellschix Stew,2
+1HFxbVgyHLn6BmWA5ZxHrUmJvYdfexcUGG,Meghann,Buckthought,2017/04/18,Female,105.68,9b5332f54b7552775072f5a96c084197,22.7244454,58.5258173,Mints - Striped Red,1
+1AatoGaAwcacJAf1ge1tokwmvojSQq8AqZ,Mannie,Togwell,2017/09/10,Male,-50.53,b41850d0a913242fa99ac10c9269bb58,40.7753311,-73.8726184,Vinegar - Champagne,1
+1ADYy5jRRZUkGfzgkZ9Fosu3HRagivBmZd,Aura,Baton,2017/02/03,Female,122.49,ff3298e1a4bf4aeaf2de21ed2f4b6c12,24.979855,109.983076,"Wine - White, Mosel Gold",4
+1NDHQ9BYbeE1FpTSB5RiSaN6QPC8Vefex5,Crysta,Rasher,2018/03/05,Female,245.05,4ac362075b7376806806ce71d4192398,34.3193669,8.4074573,Wine - Masi Valpolocell,3
+15qeYR5BfASSxXT7WydwjeyD4KC3GPgseD,Werner,Tasseler,2018/06/05,Male,86.87,10d397ae509777d792ce051ebdacacd7,30.638674,119.680353,V8 Pet,4
+1J1ND3itDFAGsRi9HJatrAmf96C2p6dpMJ,Muffin,Bernade,2017/06/13,Male,132.98,898b9c9f2b87eb12c0899ea1391835f6,49.2712859,112.4952454,Mustard - Individual Pkg,5
+1JMe5mAZTgqsK2BnrUgmHzt4pZdhEYGYEG,Perren,Bootyman,2018/02/17,Male,80.61,8a15a3ea7589cf4ee5b4d2ac251d19fd,4.878323,-74.467283,Water - Spring Water 500ml,3
+139zxDx2AHB2XcrTXsvHh91FELeRDGUx61,Alfonso,Neubigging,2017/10/19,Male,62.38,7d628d0079a7c2e9f0d3e3e3443e3e4a,-6.4085961,106.7647475,"Apple - Delicious, Golden",1
+1PWNNihkdTH4rR2ZGAjjcX91XtSKQXUH91,Ardelis,St Quenin,2018/05/17,Female,68.43,9a9057372557dae27b5b25879d80c82c,-25.7605107,-56.6163213,Nantucket - Carrot Orange,3
+1LWkAtqmDgfZsVLzWXYBKHyudbbvbdZTG3,Goldie,Rubens,2017/12/21,Female,64.19,33996647689c47405f40761cade8a4af,45.0317123,15.9142627,Glass - Juice Clear 5oz 55005,1
+1CSf9okXRMu47AQMZuujxY82xvSrQVCv4x,Danit,Lufkin,2017/08/09,Female,94.07,02789f601cf00bac1eb64c493fce0a48,29.270311,88.880492,Beer - Muskoka Cream Ale,2
+1G7AiGKPggZRkxyW3nAVRkV1gFa1sQLJUb,Salaidh,Ropking,2018/04/18,Female,79.19,ae55259d245410bb3d4ee49042031f08,54.3231922,50.8118074,"Wine - Red, Lurton Merlot De",2
+18FDwrNRjtJZTVZz7SQfk5mF5EGKR5EgiX,Lucias,Ginsie,2018/04/24,Male,23.93,ed4a487c4605ef3298e8c71d9b7e1cb0,32.187849,119.425836,Pie Filling - Cherry,2
+1DiGSWJwSdgc9y3ix5DMTeru8YvdGtmWmF,Edyth,Swains,2017/05/13,Female,49.72,a76bd5adda413ab4c55de370c360c50e,-17.9164482,15.0937378,Ice Cream - Strawberry,2
+17NQHEieUNgm4HVkx2JqA8JfDYidWhcYWk,Lorry,Seabright,2017/03/09,Male,69.31,7797838f951781b42adffa5eb0853ba7,51.1644956,18.2903712,Appetizer - Chicken Satay,3
+1DMN77QPmi4Vo6gTNBPH1mMQcuoq2QhRnu,Sissie,Collinette,2017/02/26,Female,-40.87,e63142c3502a4ce5bdb256ee71c7d6b4,41.1733305,-8.3619748,"Yogurt - Peach, 175 Gr",1
+1A1P1o8H4wjfJBXnijZmU5YRrsGyvXBWkW,Lorianne,Kinsett,2017/06/01,Female,-34.3,09782476b986f7c29b08218969ed9390,30.1942963,120.1148934,Chinese Foods - Chicken,4
+13EwddhjWh3mdEa47nQNidUi2TDup4aBz5,Wood,McShea,2017/08/08,Male,114.57,a3b93021d04f6f073261998fae0c18c1,31.029897,105.220236,Tomatoes - Grape,3
+13oGNhCMYfkWkL534DAi7imUEfYRUrE9J8,Julio,McMains,2018/06/15,Male,164.69,82c883ebb717ede5c3d6a8d32bc08b0a,43.5370504,24.7458579,Napkin - Beverage 1 Ply,1
+1BE9grNrN4y39KqZwhQGkPbwst4ogzGxcW,Petronilla,Cowser,2017/06/22,Female,118.76,4f348a8efbbccc18cdc61ef8f0cd302b,42.9177058,125.0428455,Flour Pastry Super Fine,4
+16LQ439c2gq2WHBQDLj4WSZBeW5Akqq3jB,Angel,Allward,2017/09/17,Male,144.76,3fb1803e369ccf9b42ff4df73156016e,16.4267638,103.1048449,Vinegar - Balsamic,4
+1LChQcEUuoPQwAqGL4rRFohFnEeR9xLDkt,Brand,Bianco,2017/02/13,Male,110.96,71697dfc45cd95320718996e901c44ca,16.1818,43.60986,Appetizer - Seafood Assortment,5
+1C8U4rZcTXxPWWDSTp6tPH7wBcEschJqmz,Guinna,Kneel,2017/01/13,Female,96.07,56e98bc8c8cfd8ea00f4de99922e92c7,43.899227,-79.273304,Puree - Passion Fruit,2
+16nvtZdnE1wEW9KvB6z9cogaSa3FbpuFxz,Ignatius,Prattington,2017/12/14,Male,162.04,8ced9f56e62be1c893592f10f5de2959,49.554701,32.0981669,Taro Leaves,5
+15PmSWTYTA7G825aab3xy3ZEbBF4HsXfnT,Loreen,Colchett,2017/08/13,Female,181.09,557603e9030400d63be1d41c92eae6fd,45.7417486,4.8867899,"Sauce - Gravy, Au Jus, Mix",5
+1GzbxCCwYJvqrULnpkQ8ecygVyttLwFukC,Jimmie,Loyd,2017/06/05,Male,80.95,de0fb9e1f6f90fd17035a760c489d486,37.489877,117.509921,Squash - Butternut,3
+1PfziuLwDwNPVDdW4tdxB6sBDF9g6ahCZn,Alano,Premble,2017/08/28,Male,170.59,e6355ecfcbfeb5f6aa477953cbccfe5a,40.1825437,44.2538203,Soup - Campbells Chili Veg,2
+13FiC7Ekx6o1Esj18dTGSSepMYM57FnnMo,Fitzgerald,Baynam,2017/04/21,Male,234.86,3657be21c5bb8e95ad2546bd104a5a60,38.748203,114.982972,Grand Marnier,3
+16PhJWK3sCZ337MGwkHuncYQSUtEbi3aHU,Hastings,Barnfield,2017/11/01,Male,118.93,33d759fc9f9145e84b8babc11bd4de1b,-6.9826515,111.431315,Wanton Wrap,3
+1JFvJA8VZTJJAycpdiq28qeaKkw4b1MaSe,Elvin,Heinonen,2017/09/24,Male,161.24,df67c91d865d1de390c4d97cdbb611f0,33.298364,111.482591,Muffin Mix - Lemon Cranberry,1
+13vVBGwCxdtxZZ3AsSfn9xpUnzoLfYukGV,Kyle,Tendahl,2017/11/01,Female,-6.77,5a3796427ca4486d79a398e5e2f66ffa,32.0359229,118.7436309,Petit Baguette,3
+1PayoqG98KnTjE7177o2EQN98eUCj8fBgb,Fianna,Goldstein,2017/05/05,Female,253.5,24d19e346f297b62cee323af9a178b84,21.270702,110.359368,Pickles - Gherkins,4
+1GKs3JoBhxUR6aMwbzSFdhcKgg3CGSpbeg,Fleur,Normanville,2018/06/20,Female,96.84,2bb323e9d6f8704baeb8ff12febbcb24,50.2435433,18.2914811,Table Cloth 81x81 White,5
+1MzwYH6EMkH8qsvx4ZGB24S3WsWcJ1Q2Fc,D'arcy,Thorogood,2017/08/12,Male,-51.01,4af15b257aef0a33bd38cae1d0cd0d61,45.8903748,-77.2672051,"Quail - Eggs, Fresh",4
+155NY9ckN6q9JrQGvfFxCLUvn45tKH1Wnt,Wandie,Slowgrove,2017/03/31,Female,67.58,af9f8e99de93a0bf7c71bb67bd02fcda,35.621965,118.725698,Sauce - Thousand Island,3
+1Jqj7JUynS98iJro9jAmT2Yt3VLhpBszba,Kassia,Mitie,2017/07/20,Female,139.56,58368ef179e557d5fc8d6162060702c0,51.0935791,-115.3508611,"Tea - Darjeeling, Azzura",3
+1NmT6iCJbtamVkDWVdn1DWNnzokcxv6YH8,Petronia,Oldred,2017/12/03,Female,39.03,f8dcb236ce93e5e34e1ba7b2dfc90d29,50.2387924,20.598352,"Oil - Truffle, White",1
+1CCnvT7yHRfQqpPmZ4XFEP3T8Ed9g3ZG8o,Domenico,Heakins,2018/01/17,Male,-39.52,f37d57d816e51bf4b38ea103d76be9a5,13.3875121,-81.3756862,"Oil - Food, Lacquer Spray",5
+1G2wEKcjh4woUjinzAN7FkNaXe4HXPVh6Q,Armando,Emanuelli,2017/11/22,Male,-0.89,87f28906fddfb51a5ae148100062eb17,-7.783297,110.363649,Foil - 4oz Custard Cup,2
+1F97ViQAp8jvhgL2S3WJ7aQ4Cq5PyZbcZu,Wynnie,Yanshin,2017/07/05,Female,110.84,cc5ea2b201178b141512c70d1848857c,30.948905,108.574058,Blueberries,4
+1DjuXuTrYPwzwkWfWpncEyFAEndEKBR7PM,Cherilynn,Locock,2017/09/20,Female,116.05,f3db40be46b727c3d46232968b9790e9,-7.1913,107.8902,"Juice - Orange, Concentrate",4
+1FjqrezQTcNs8cgVVvifcr4eUEnGyGoJF8,Gerry,Dolling,2018/04/04,Male,-14.71,480d001f83d803ec578f262ef6516054,37.9854094,23.7419512,Ham - Cooked Bayonne Tinned,4
+1HG6aihB5L6pYzCTSzrwodhfUpFyqPvb2H,Alanna,McAlister,2017/09/23,Female,91.66,b400f76b0638b7ebaf29ba1413a8cc26,-0.7771138,34.9458389,"Lemonade - Island Tea, 591 Ml",1
+1HZHHcNYvA8Z8Mmu9gY6MqnTKtkhiJKrfA,Dwain,Chinnock,2017/05/31,Male,-32.61,72edff53680ec1315e349abdd8b7bcf8,-1.9735657,113.6799766,Steampan - Lid For Half Size,3
+1P5MTs2g1YAbb3TBu2Wtag7xJKUKRRN6iU,Alberik,Illing,2017/06/29,Male,166.95,a2f80c9214fd52e52faf31154f1ea8be,49.8282067,21.2002807,Beer - Labatt Blue,1
+1PsC5QG1ukp3FijvZyxbrKFQMDbbwojCnq,Durante,O'Lenane,2017/10/09,Male,184.95,c8ea1f12bf61e681cbfff0e539c4274f,27.508898,119.582263,Red Currant Jelly,5
+18vnoZqo1sLQZkU3AYVLC1KgP8z2jZ4DYM,Nealy,Waterdrinker,2017/03/23,Male,144.65,2f310b2766904c034c62192f319998bf,-9.4059855,119.2378899,"Lemonade - Kiwi, 591 Ml",5
+134dLj8468tE5qYYNTMdAoKqRVb9c9JGvf,Mariel,Collier,2018/01/07,Female,119.57,c81f95b6794aa52f81f03a861b337d69,32.830953,110.873513,Cheese - Asiago,2
+16N7WYZnyRqPT94Y9uMGAmg2aLGgRiXqRi,Allie,Hegg,2017/04/11,Female,105.55,f6726a25310a8fa6f3b67af0feb4aa2b,38.997932,140.02088,Chutney Sauce,2
+1JdxLriX5dvnPgH6vF5PYE4zdCxVrydbLy,Joey,Teape,2018/04/13,Female,148.42,e678a5a8218fd13af5bbbaa65c78a2a1,11.4493585,10.3680364,Pork - Smoked Back Bacon,4
+1P38xTnf2CKrQtBaEy1M7Z1Wb4Yq9MWuPZ,Josie,Maguire,2018/06/19,Female,155.03,3c1de6a36af636767e4e2719d3648076,52.8358853,21.8233603,"Tomatoes - Cherry, Yellow",4
+14xwegBxx5aAcWNUpryE59foMLZ1h8VNyP,Carolann,Deniseau,2017/05/03,Female,151.95,88155f7e64a967ce9ae38529899f2491,31.2303904,121.4737021,Container - Hngd Cll Blk 7x7x3,2
+1CZ2Th1JCRGuHpnpzhBshmCPmP7CYpjx5f,Teresina,Roskell,2017/09/20,Female,142.59,e9dd6ade703b80b9325f166462a0e627,43.15,-77.63,Parasol Pick Stir Stick,3
+1Dogomj8nXw89J5coMaCWRpajq6Dh6uQt7,Ilysa,Oherlihy,2017/01/22,Female,93.77,5377621fda1bff7c12812f8dcb4bbcd2,34.9344195,-2.2298164,Bread - White Mini Epi,5
+17WRkJC2pKJNFo4iQcMhhSauDENaXQFiuf,Farlee,Gout,2017/01/28,Male,147.76,5d6b76626d8bdfc8f63c1175f29ac7bf,32.320332,116.557208,Garlic - Elephant,5
+1ECLrBCP8weAHD4LYNrdTscXdJdyv4afnf,Konstantine,Hogben,2017/06/22,Male,102.01,785568930b61a481374fb30bb9807690,26.7943861,87.2817272,Compound - Passion Fruit,2
+1HNzPgSgcUJ22ZFN3mTCxwn7cuiAbsJaiH,Herta,Lidster,2017/04/17,Female,-5.16,6ac6a2603d1304c58771d5b58e8cd913,-7.1929741,111.7197315,Coffee - Hazelnut Cream,3
+14Po49CNuNN2RzT44wyjAFDGr8KeqPuiLM,Elberta,Divell,2018/05/15,Female,255.89,a6b880a74d2ad756376e607e253b9a32,54.76778,42.27111,Cabbage - Savoy,5
+1GVYg59D5grQcKHDiwjcUyXck6SEHNcahN,Ailene,Hay,2017/08/06,Female,72.66,096c2317750180916f19da17e180a878,30.939169,100.311368,Jolt Cola,1
+19FZxpA5UKpmJLnfhYx1v1DuhsBwUCPQqs,Cassie,Hunday,2017/03/02,Female,257.42,9ee22ad0b19246bda08c0e74a82b1da3,41.3718791,-8.5085734,Soup - Campbells Broccoli,5
+19Cte5st1HMhTkv3qFyRfSbU4bgp7Z3Q9e,Joellyn,Winley,2017/10/09,Female,120.32,6aaa4d77b905d0129340eed9adf7dc33,46.798163,134.013872,"Mushroom - Enoki, Fresh",4
+18aRAx9SoA9mmXiF21P3YzVeXTLrM9dmXq,Reg,Dukelow,2017/09/17,Male,46.12,9e29bdb3893af77a33eb571872641968,-34.0028385,-61.6048678,Poppy Seed,4
+13ycq6zQPECrWwzMAFMQgJZwVwmhyGW4Zo,Durante,Puttick,2017/12/27,Male,168.08,87f7111dea15c373a68106ba3a483bf3,47.011607,90.451789,"Wine - Red, Marechal Foch",4
+1KEjgawAqhqDzJJ8nY5CqyJJrXSV72iHyA,Mattias,Iskowitz,2017/06/23,Male,63.74,2a94059a9fafa455b8fa7e099c9c1fbd,54.2064439,17.6677767,Pork - Sausage Casing,4
+1KVyfzi4HD1935KUTTYd3uNSE2dBE4QT8Z,Griffie,Charrington,2017/11/25,Male,57.45,628fd6ecefaa2157c709b4878835ad10,-4.2163479,104.4694186,Garlic - Peeled,2
+1HA3zchSSU1BXkdoAMz8GLZCzseaU2DoKX,Pieter,Tuffield,2017/08/17,Male,185.37,f13398c93e71e63fdca3b45d6254d316,30.350192,120.222909,"Shrimp - 21/25, Peel And Deviened",4
+1FH3zPurL9WFxNd16s2JiL8ddzzJgc1LQ3,Sinclair,Althrope,2018/03/09,Male,-48.31,1d1261493bc756e079738321533395e2,-8.412375,117.144997,Chocolate Bar - Oh Henry,2
+1EW1JXrKHnquXz2Cwpcb8yf4Aepinfji7f,Port,Littledike,2017/12/15,Male,129.85,1ce2360d5350eff03879e05b9f2c85e2,8.9800511,126.2545687,"Tomatoes - Vine Ripe, Red",4
+1CzDiFygQFjt1UivEESi73BeB2MWirnh13,Carolin,Cairney,2017/03/07,Female,104.57,d95fa7f3b09aba2360904dc757f12df6,-1.68333,33.7,"Bread - Pullman, Sliced",2
+17tyjPrXsHEezDQkxdxwpVoxawKd6A9wCR,Abigael,Clarridge,2017/06/11,Female,130.17,8f401dd163c98030e51ba7a561f7c6b8,-35.0026606,173.5016887,Beef - Top Butt Aaa,1
+12hXwh1YmdKZTxrSbGKACuFyi6pqs6BKkR,Clo,O'Hagirtie,2018/03/09,Female,194.67,15956d4c85fd3d68804878ae7a47d0b9,7.9877141,-10.8479688,Lychee - Canned,2
+19wZsprdcH8cTSjbExwT7dUwwyABbaDqzP,Dev,Rodgerson,2017/09/10,Male,114.32,c2a92f277d1bb10499d45f01e018753e,7.7734885,99.6230001,Water - Evian 355 Ml,2
+1F9TmsAmdsP5mWSLxhG6JjWtKgnhxpaUKU,Errick,Buxy,2018/01/22,Male,57.0,7ca3a35d95176196d4610e262aa1f3d7,22.543096,114.057865,Beer - Mill St Organic,1
+1Nx4KWqUe8V53Ex27FNmK771xRrnZ69jT8,Natalya,Porker,2018/06/11,Female,21.36,e325049a27a5670b7183fc7290173af7,39.0961273,-9.2729402,"Yogurt - Peach, 175 Gr",2
+15wkhoHbs239pjPnEBt8FZpfB289FtUwfd,Fallon,Haking,2017/02/18,Female,98.2,844a6df10dd0ad71fe4156e18d440ab1,25.7829542,88.8982666,Apricots - Dried,4
+17gajiwCePnF38LWSEtg68SwR6sV3diY7X,Jedediah,Lubeck,2018/03/10,Male,166.94,aff84218b52a2114949b1931503f8905,35.640089,103.766427,Buttons,1
+12KjcauPAjE5FL2gh7tedTAypnKsDpcasY,Heywood,Magarrell,2017/01/09,Male,55.25,ec4e4947e42f05241a174432874bccf7,44.9811213,20.0818204,"Doilies - 8, Paper",4
+18mmt4HhTRM3V1KwotGDKnJwKhVUSgGt9C,Swen,Barta,2017/05/03,Male,148.48,fbc70c4835efcacd627402c0f02217c5,9.3847618,-73.3001233,Sachet,4
+16ai6c6pS7DaFyZ7WdN7LT3fzzn4PvPkka,Griz,Duggary,2018/03/09,Male,126.06,ee0af4c549f21fcc8413409b59a21b4d,-42.7700601,-65.0306302,"Gingerale - Schweppes, 355 Ml",4
+1MdHnwYP4s1dmXeXiXmHdjhWLJZ8PckNDz,Donovan,Labrone,2017/08/30,Male,-74.56,9138b65eebc9858b0ef622584d3a03b7,37.8519345,23.8408158,Aspic - Amber,3
+12SP67CrJG1kDo2zv35y7PQHrmsGPShiNr,Andy,Verdun,2018/06/05,Female,126.31,b2388f58618143655c38b59b9bf1193c,-6.9158,112.5541,Beef - Tender Tips,1
+1GrwjN7kDGHguUJKhCPzcoSJofD72pw4kz,Pavla,Barnish,2018/02/10,Female,-15.79,c8de01ac62e7fa1052c4b97d9004462f,-0.9583345,-78.6965972,Chocolate - Semi Sweet,1
+1CtKtsg9Nj7MWCBaJDq3uecrmKhTq2CqLw,Ferrell,Ambrogi,2017/10/06,Male,-19.81,ce0083fd5b504d265e3720482d329422,35.10456,134.067383,Vinegar - Tarragon,3
+1CFmf711ZW2y8bVAqqFnAbRqec5Ka4MEvR,Maxwell,Westwick,2018/06/18,Male,-1.63,e3f7455d0772d4d0a64954307de1d7f7,-6.3556666,107.7610977,"Shrimp - Baby, Warm Water",1
+1CF2CAcye94RjEC4GxNRgZeG9d1hHN28RY,Janot,Brighouse,2017/05/04,Female,162.11,f5198264928850bd35bf65e33ed87528,9.5842063,8.713707,Ostrich - Prime Cut,4
+18dfMecrQ28NRZrBQeXEFvJ8G29d9SRyGz,Jannel,Leddy,2018/02/28,Female,136.41,4ecf880251ab89f0a6d4cc8ec52e9890,54.886529,37.1152943,Coconut - Whole,1
+1EMuHc1PeMwF8BpD9FPiuXh84pUQjEnLwL,Denver,Darley,2017/10/11,Male,164.7,db84aedd0dae23635a613726c83948d7,1.6832081,101.4537902,Swordfish Loin Portions,1
+1DHYmeHtM92emEZMDZKGLif3HAMH3o6f1x,Hieronymus,Doniso,2018/01/30,Male,48.17,beb621e74e5d5787459b7fe9e0185c16,-11.2568167,-39.0710754,"Red Snapper - Fresh, Whole",3
+1HpgNuPcfee5YkiCrS8Aq5Kgtwwk87vWRL,Anallise,Sudell,2017/06/27,Female,51.62,82fe1ac31dc1fbcb607d6ce340cb5e60,39.1586587,-7.99645,Jam - Apricot,5
+19LLwn5E672eRfBDYKs1S2KxY3bjVPuSFJ,Sammy,Daintree,2018/01/11,Male,263.99,868924d8db15c4318da0ded16d9fc3db,49.7192421,18.591659,"Garlic - Primerba, Paste",1
+1G3htjydExacjgCfUSGrYJKtWt5kSJu7Ks,Holden,Bruyet,2017/12/11,Male,20.8,99eed2ee58fc22beab64bdbd2bec2057,28.445007,102.639837,Flower - Commercial Bronze,1
+1MVn4vrxPNs2PGQAGcpg8vwYJVjt86DLf9,Mathew,Lambkin,2018/04/21,Male,55.28,0a0f2303605ff8be11856ef5ca0d7a8b,62.6768899,10.0742726,Broom And Brush Rack Black,4
+1DJHUzaX9EUzKcqvqUnNfqtrhMvo9M6gaj,Elsy,Cuerda,2017/01/03,Female,159.96,9865afe5b999453a176dd1914fce630c,52.735825,20.7121262,Skirt - 24 Foot,2
+1C36QXjNKzssg3i8xtQ2ocM4QJTRtVvvVY,Morry,Camelli,2018/05/22,Male,180.23,177ab82f8999d6cf8d37f80b904879a5,31.8786249,-106.5680459,"Wine - White, Riesling, Semi - Dry",1
+1DpHdyTbHenwE6xBnQep2LbRino8PHX6Ji,Carry,Sillars,2017/01/19,Female,93.83,81f48ae9bc7a817f3afc69891a384be4,-7.7995142,111.5438491,Cheese - Augre Des Champs,1
+13w5oce7FTwWCqj1Cs3wG8G625q8Cw1kCz,Gisella,Sheehan,2017/06/08,Female,-47.16,36259fd85e110003ce5f852ff5fa07b6,23.590649,101.317787,"Juice - Tomato, 48 Oz",5
+1K5fwa2VYwLBRV4UmcCkpwwTd3Jucpbwu2,Ransom,Macbeth,2017/04/21,Male,208.6,199638429776a41f73b61f243a157927,50.578132,15.0839052,Soap - Pine Sol Floor Cleaner,3
+184aBNvwt6eokP85h3CqXwic3SjBybnnZB,Clementine,McDugal,2017/08/15,Female,-26.19,418ea636ef4502f6c999068f0af6875e,9.0144214,-79.5125662,Dragon Fruit,5
+1E52XzzasWekdwYJhGWGihQHMLszDMwkkc,Loella,Rudram,2017/10/24,Female,167.22,e75366099da2e397a8d0911b9db02b08,53.437194,41.789046,Dc Hikiage Hira Huba,5
+1DVDswQfRishNW4yaikEHB8V8e8QqKvPVJ,Maison,Halley,2018/02/19,Male,84.41,c237740ec031050447ee1852f1615858,13.6361135,123.1924955,Syrup - Chocolate,1
+1FK16mQWDxDoe1DZ5eTM9zk1XN3GWvr6qu,Dietrich,D'Enrico,2018/06/19,Male,133.85,9787d4515bcdd48c5904af205496f8d5,18.9384732,-70.407981,Beer - True North Strong Ale,4
+13dQC3qEdyXNBaeccrCNc949EwdfUzzZtS,Dedie,Sirey,2018/02/18,Female,125.44,eeede08a68870899145bf5dd8ea44c11,-6.2318126,106.8396166,Wine - Placido Pinot Grigo,3
+1PrmSqxD3WC19kyKCcTbhsdcUbwoWtesP1,Liam,Prall,2017/09/10,Male,138.05,65553298a015f97bc042715ad5569e3e,44.166512,79.999974,Pepper - Red Thai,3
+1Hn9gZcSsY5kQR7c6oRh7HgnYKzivc9KuU,Preston,Kirkhouse,2017/05/15,Male,196.45,898d3f72f4a8b6161ce381b2ea6de575,53.6182497,34.152126,Ecolab Digiclean Mild Fm,1
+164ChrGuBBbvsxEhewUMupMYqwAWr88aei,Alvan,Pook,2017/08/04,Male,68.02,c197e255d6ae6a37df277d17276d7df0,-25.50065,30.9136062,Vanilla Beans,3
+177dxCLSChQSNt9iVZZcN9nXTKrkhudE61,Nikoletta,Daniels,2017/10/20,Female,43.94,f48ab92156d35a4adf56a46a79ddeecc,30.2382492,49.7064548,"Chocolate - Milk, Callets",5
+1FfHbPnXAuztED5EyJ8YPTpnsJMDd9hpZQ,Yardley,Blackhall,2017/02/11,Male,24.61,5581c59e3ef1e5425c3ed0288acdd795,38.624235,100.36759,"Wine - Harrow Estates, Vidal",5
+1MRayHcFwWHrmgF88vj2Huj1e1XZwmYgSg,Fonz,Arni,2017/07/09,Male,135.36,c248fe16d05ba9e08ecaf3d2d2de8c1b,-15.1978317,12.1575544,Beets - Golden,4
+1LUYNgDYJVLdG5c8cRCLT3Lht2uiGTwKkD,Jobyna,Harses,2017/01/04,Female,86.4,918fb5cbd7bb1e44670020881132d785,52.5170826,13.3236611,Ice Cream Bar - Oreo Cone,4
+1DaMdS6Mtaz6AWDBwzEc6Zie7HnJGSyUzv,Taddeusz,Gowlett,2017/06/11,Male,151.54,fe9631f6d2456509daa996b262b708c2,-3.837556,32.593828,Onions - Red,4
+19CzuK54HRndXBjbmDEEonUvEQzUzAzuBc,Gerti,Leader,2017/04/23,Female,152.43,92525a2e45be946981ebb6e2a5822fa7,40.8782107,14.2657584,Pepper - Red Bell,5
+1PiGifBFfRnYktHwjFJk5GMRiNqjvP38uh,Krystle,Bestwick,2017/10/05,Female,76.38,a43df8d802bc786f92345e04a8d0d325,-17.9906981,-63.3832653,Bay Leaf,2
+1LbHHLiknjvyHXfL9rEUeMrTUFVUWVYyp5,Bruno,Lenton,2017/11/10,Male,172.94,d41d0e6b874a10e189a028fb34f15ea2,34.477861,110.084789,Chicken - Soup Base,2
+1QALqG1AAvNQVHvPL8gLmpMrKGo5FwLFJi,Beverie,Bagster,2017/03/02,Female,222.14,b4f46f0183f1a59d92c1fa278b49c80e,14.5671847,121.0168871,"Tarragon - Primerba, Paste",3
+1H3qgUq7tmARcyXZmC395JauWfqx1htTTP,Joellyn,Dady,2017/09/10,Female,-15.64,f60e5c2198ad3209a1e814931559fff2,16.5909145,100.2992789,"Pepper - Black, Whole",2
+1MCiwBhPTc7YMKigQxK8pknBTNvYv3cLt7,Felix,Caltera,2017/03/08,Male,212.05,764c9a03a0979198b8526360f611f959,50.9212447,5.9651892,Wine - Spumante Bambino White,1
+1MaFQemVGsiHs77DRMGdfKah7AyzqpjqRQ,Danya,Blenkensop,2017/12/31,Male,130.39,1d22d4502c6cfd4993af2154b4b2a1c0,49.6220895,0.7501524,Soup - Campbells Beef Stew,1
+19D6S2ofqKvhehaE74Ukk3hk6AoCbnLMNB,Monty,de Courcy,2017/07/02,Male,-10.51,411a36bfa3d56a4dc84eb726ac8aa1f8,31.221517,121.544379,Baking Soda,4
+1LZUuPgpPA9jF5EvUn4awLeywUXsojwqNd,Jorge,Feares,2017/08/05,Male,46.66,781df2c777ff3e281effde8e331f0bf9,43.2550219,45.9065996,Grenadillo,2
+16htYHiMDZkv3zHEpC6am1WsNXyCjArtmk,Theo,Miskin,2018/04/21,Female,201.66,7e4fbabf5f98083b6ee8ea781eb93b2a,10.502717,-67.329117,Appetizer - Escargot Puff,1
+13qB5ZS1kokZVVYPMKAnpqG17oTHRJ5C1x,Joella,Dugald,2017/02/23,Female,134.25,a32a54c003ef08536a4b23a2127ebc47,19.4621825,-99.110685,Soup - Campbells Beef Strogonoff,2
+15tXr6vpM3o7Afx1nfHdd3oBCBeDbySwMU,Adorne,Clemendet,2018/05/07,Female,162.52,3de4c956ba230a898fd81bb21eeab2ea,10.74044,-74.755272,Muffin Carrot - Individual,4
+15AWQF1hebVCagPeJr6QnUXyefAn2gkEkf,Dorelia,Cleary,2017/03/14,Female,91.29,5dd2f02503602a32a52b2a12e1e32a51,20.953123,109.690434,Melon - Cantaloupe,2
+1KHhdtaM1bvwaVmvncQZkoJ4PiBLeYvHyH,Micheil,Doxsey,2018/01/18,Male,85.69,78cf6d354c3d11f89e0d1618f203fdda,-7.040572,106.8448686,Wine - Mondavi Coastal Private,3
+1KQHxXqMpchZ1v4AdyCf9n3DtTgitgWvGp,Berny,Bridge,2017/05/27,Male,257.22,cc3302fff22a0214e1b69da093e39070,4.239304,-75.239679,Wine - Shiraz Wolf Blass Premium,5
+1Lmb44QnqKjvxhHkVaWFJ2TnNQKm2fiUAb,Leigha,De Gouy,2018/05/19,Female,-122.54,2735bef4bfd5e17c89a5d71e59e60d3c,27.569517,110.001922,Plaintain,5
+15s5SMM7nZ6cYyhEcYoX7rEWvSaKn6VVWv,Crawford,Frudd,2018/02/06,Male,76.58,45f7c0dad2688266b1ef834c2394be01,49.6748894,12.6736722,Cream - 35%,5
+115adRN3tgVaCtpwuC4V6Y9ahjoXWuSN56,Henryetta,Chatan,2017/11/10,Female,147.32,5da3126aba82c95735bef3d21810e025,9.8252566,105.8172881,Appetizer - Lobster Phyllo Roll,1
+1AjmA7rHzURXNXrtAvGgg9gqHtddmtiouM,Templeton,Huxter,2018/03/11,Male,202.91,7443d63755ad327024ed9d38ea5794d7,30.2047151,-92.0167547,Beer - Muskoka Cream Ale,3
+1DQTsKHbagvixTEk9cyFKsNR3Jqj3Xz76f,Florry,Broadberry,2017/09/04,Female,72.82,ffcbc78ef66c1fca3cd3ca3d86af9f32,51.9041,38.7334,Pea - Snow,1
+17gok2MZTDxAUsZZBAfQGcohRhGULo4fDR,Teddy,Guillond,2017/11/22,Female,3.85,d99268f67c58debd131af371268693a8,-7.5173045,110.5933862,Beans - Green,3
+17ZsP6ZNBJZoBxv5u3jo2MXo7yUDvqDSfg,Ede,Castelyn,2018/07/02,Female,226.66,6b89babea19a27a02043578d2d91c254,30.2771132,72.9979303,Coconut Milk - Unsweetened,1
+1D2CFe82Hzs8dGyq9tx9aANj2P9QDfpT9j,Larina,Greenin,2018/06/20,Female,121.97,f0445f7a80bcdcc99fd1cd6a71233906,-8.5437713,120.6749301,Cheese - Brie Roitelet,1
+1GDWZgBuHzbBbJ5NA9rJW4yNRpnePXJhyi,Dacey,Blackaller,2018/06/17,Female,-41.39,cfe41b0c015b89f16ee616c1af637795,53.6923042,38.1938089,Turnip - Mini,5
+13ys5DptY2ohJwc2rBeQB4jspJx9SVu9CK,Jaynell,Demann,2018/04/12,Female,97.63,bb6ad96539dd4be97f3b5d61c29b018a,-22.3002064,-44.9159938,"Turkey - Whole, Fresh",5
+12GKUxHwPyMLBTLKNCts9o4WHNqqsa6hL4,Marcie,Cattell,2017/09/05,Female,189.34,e4c29dab29f93e6371596a387d320ac8,-6.9278214,108.3474974,The Pop Shoppe - Cream Soda,4
+1ADM7n3SxfVJZ8H1EsrRvmVJ3frvqd69Hr,Layla,Edgler,2017/05/29,Female,181.21,f9169b6d6147918e453e4f8aeeec20cf,40.22,-74.74,Clam - Cherrystone,1
+1CoCBmnGfZHgtzZVaSdhokZqa3eKZkH1Lr,Lilah,Hartlebury,2017/05/12,Female,139.27,1b037b046c7015bcf25fe757dc4249f9,37.868872,116.144417,Barley - Pearl,2
+1EWshwFS2EK6XZZMS7oAsVhi3uUFkoHNVt,Sondra,Peat,2017/02/17,Female,209.91,85c7b1072017b423eb11e5f6f73a5a35,59.3283422,14.4819447,Compound - Orange,1
+1LDWXCiw8VqsqKgpMBfLzxkkAz3FhqT7A8,Tove,Doble,2017/07/10,Female,124.65,c493d1f2f218f0ab57540b8b08fb8b1e,35.663752,103.389346,Sauce - Hp,1
+12cB8HJCNa2j7EFNPSwXXhpCH9MJM4ZwXr,Channa,Gisburne,2018/04/06,Female,105.47,557d8df98e5785a1194abeb40be2fdf4,-2.5303,115.2418,"Nut - Walnut, Pieces",1
+1D2AAoG1vSZw7QrGh64D5oDyW1b3QpBk6f,Margo,Bach,2018/04/08,Female,-3.32,90ccfa6e3e273341bfdfb9d495b6c01c,31.238854,121.331694,Appetizer - Smoked Salmon / Dill,2
+13wyA4vjLHnXQ1aqpU2AtLs6ghstCRYmFW,Tabatha,Bracegirdle,2017/12/02,Female,106.92,b0210d584cb6aefeb5172559a451f5ca,40.04606,117.408306,"Pepper - Black, Ground",2
+1Nbd6LiYFNKKD9E4yHZapfEc8CrCRSYD4R,Elijah,Nanuccioi,2017/10/14,Male,79.7,5dda99ef838cc3ec149a15714c8aca53,34.810487,117.323725,Wine - Redchard Merritt,5
+1DcG3uyyrKmyXdA3uPMpZLZVPPXpjZs67o,Brittaney,Jaquemar,2017/11/22,Female,274.68,2f7f415357b135c1e98195aa9f7f1f36,43.3367832,44.1589834,"Wine - White, Ej",3
+1Cc6roCg6Cp41issPUvdXt8hTADaC4s2GJ,Myra,Antczak,2018/04/07,Female,127.74,9acbe64b30a9031ebad1df27100af9e7,37.515114,103.575676,Water - Tonic,1
+15SvjzwxmdgpT3yt7V4tZcKxK2c6HtecdF,Witty,Coop,2017/06/18,Male,132.66,e97f57bdbde058c11405d7a1fcc96f69,-6.2741889,106.7020556,Tia Maria,2
+19AnAvW3PagQv3GvmVHnfbEwCHXfRwzGvz,Nisse,Immer,2017/01/09,Female,27.24,4b838b13129a0e5fb3cccb9eec316611,24.44218,114.938684,Scallop - St. Jaques,4
+1GgK8ccNH5MVNfuqhuywD5DE2ged2fRT1B,Addia,Baird,2018/05/12,Female,103.72,1630571e8a7ad69ae51bfa4414b74002,31.953702,118.839685,Lemonade - Pineapple Passion,5
+1NZDkjwysaY5qkXWt73CVMHRyNoqgRxhh5,Aile,Broxup,2017/05/29,Female,14.46,757dd1e0c8e88903b23f3006338e0a75,6.6493305,6.3917654,Wine - Periguita Fonseca,2
+16nzshpE2XPbGn1UPPrUsJkaRFW5gcpCZz,Pincas,Belchamp,2018/01/06,Male,136.35,95fb90310f9bd2bf421a11a0b15fc7cf,-7.0370275,108.2496145,Island Oasis - Lemonade,4
+1BVoHtUYDdxRoEFYvGrHutACPwQ4DaPWns,Alberik,Starkey,2017/01/08,Male,151.25,2a700ece14866457cf548eefc83b8574,-6.9318,111.2882,"Cake Circle, Paprus",2
+15ycF7UCLy1neXPxFzC525K1tjnANXLvE1,Barby,Wanklin,2018/02/23,Female,109.98,549489482ea18d49d29bd3c482c450af,9.8318931,123.4675853,Wine - Red Oakridge Merlot,4
+173NDeTrUb9dRktNqLiP98h4JJLpvsazsW,Caleb,Beavers,2017/04/09,Male,186.24,fa84a4f0f80ceecbccaf5aa5649ae95b,29.33801,89.24618,Fork - Plastic,2
+13iNtBfupnzw1BA9ejQrrGTDciZhfibGxL,Ray,Mushrow,2017/12/21,Male,133.55,626e25eef12f2beb37260c53faf9ff25,-2.9055447,-41.7733626,Flour - Semolina,4
+13T8UBDq8NVfYN6qUf73mToGkntFNV7rGp,Muffin,Ellerby,2018/03/21,Female,241.05,a07956071b53d15e1ed0faf4adf83c0d,53.719155,-6.3422325,Bagelers - Cinn / Brown,5
+1DZTkHH9BqRx1m5FuFkkcvRsEDp31Z6p8t,Bran,Allain,2018/03/29,Male,44.18,06295b973287777bc8881350d6b0a1d2,45.6629694,6.3760602,Pork - Caul Fat,2
+1Q8QNRVhzxgAQimH5XFRVXLgY9ceeLpbzd,Doria,Vowels,2017/02/16,Female,72.69,077de91b34c551d665a1c0a3c42ae1aa,41.3532895,-8.2103678,Eggplant - Baby,1
+1HXMgywjFFtLuM5qjmRaYQDWJFXCTaDe2D,Anabal,Hullins,2017/09/22,Female,159.9,ccf40027b7fc76479158fac3786751f1,43.7187433,17.2236492,Chocolate Bar - Smarties,3
+13N235W6zN3wV9o2AcutrfG62KjV6a9Kkd,Wrennie,Wilcockes,2018/02/22,Female,71.77,dd09e03317f01ba2c1b8486be969cec0,24.546876,107.04219,Pickerel - Fillets,4
+1qk3gEzGd9Lr6UZrSBhEH5psuG8VCfzBM,Maximilian,McMenamy,2017/08/18,Male,71.57,fc9e3f1ad1729cd1bfb75f77540c15a0,18.4885697,-69.9299089,Wine - Pinot Noir Stoneleigh,2
+13tysfkm6yqUQDTBrTu4kYM2FqeBtfyWCN,Agathe,Ploughwright,2017/09/09,Female,193.98,c8f40a0746ed52e0d47db1fa6a7ca31a,64.5661757,39.8505981,Red Currant Jelly,2
+12HJCqceEY6vLTK6YeooVUztvC45DiczEw,Jolyn,Farmer,2017/04/07,Female,162.24,bf0be8aa22645c568acf47f76f2c3870,57.8196837,28.3236956,Celery Root,3
+1FR4kFKE4XZ5iARaMgkVgboo3R4S4R8j34,Herbert,MacSporran,2017/01/10,Male,40.7,4e152c73a4d9c46cb1ecc7536005ac56,35.505943,117.640352,"Bread - Roll, Whole Wheat",1
+1ED9cfwkeQZTMmxe2Wdo4rh1ccRUKNpJKB,Courtnay,Carthy,2017/02/15,Male,248.66,e147cfec7c9d4ae85ec815a0c72d0b02,18.3558066,-99.87075,"Soup - Campbells, Chix Gumbo",2
+1KH1eScZ4ppfEu4t94Qex8yqBkQJoxQZi1,Trevar,Haydock,2017/05/11,Male,225.17,150cf9736d1b1d4b43a4bf76cb7e578f,30.113962,118.169798,Flower - Commercial Spider,2
+1BrEtqhxbsgdR39nEUUw4Da3idbL91RsgT,Tuck,Cluse,2017/01/24,Male,235.39,a736d8682a6ea56bdc76356842d93732,26.6849798,100.7492159,"Arctic Char - Fresh, Whole",4
+1LJwq21notPiNeLhipBhapofFW1Ec2HbNL,Rosmunda,Lomen,2017/12/22,Female,106.52,20aca7faa8633bc7b13900876266c67d,-8.2211,113.2577,Bag - Clear 7 Lb,1
+1GqAmngfxHU2MJyq93PvFmaEnzfsayh2NB,Riva,Lightfoot,2017/08/15,Female,75.26,50c306b4f67bb923d6acf0d81f1505f2,-7.5471852,112.7137227,Longos - Grilled Veg Sandwiches,5
+1Cz8aaJFyZmc3JgESezKo3y32DRh599vRA,Nanci,Bernardon,2018/06/06,Female,68.89,0b28d8747152bf1d56da48761440cc46,-11.5886713,43.277533,Shark - Loin,3
+1C5JtJ8nvWiyGHUND5B6ohaVH9Vs5YbYYb,Ainslie,Cleve,2018/05/06,Female,108.6,e331530b5fa17f7daefa9eb4786a1e05,8.529106,123.74979,Schnappes Peppermint - Walker,2
+1PjnCYN2qSWNyFDG4NR8ffj6KGBYvvJpsD,Garrek,Daniele,2018/07/04,Male,77.72,bbae40992501e8666d8248992c63d310,27.910242,103.519862,Soup - Campbells Broccoli,2
+17X9LTTAjJEDCT43fyhZgcMXQvukcRffz3,Wesley,Goulter,2017/12/13,Male,105.57,59e24b3f3983ab651a8e3c12762e3d8e,-8.5211471,179.1961926,Bread - Triangle White,5
+177aiLBvcgTd7m1XJHsQSYQwF9vVmt4PpJ,Ignazio,Catonnet,2018/05/12,Male,45.7,47a59b659eef42acb9524b2be88a80de,29.278608,108.098075,Cranberries - Fresh,5
+1NgJpGFwY4qU7MkatXGthLz1YLhE6cXhbX,Lydie,Tunnock,2018/05/19,Female,101.09,43aab4768d0b5b5caf7f49fe39cf1304,42.059759,86.574067,Muffin Mix - Chocolate Chip,4
+1P72PNwbvHSz2en6N1pvcetHAnFtA73mof,Norrie,Pleaden,2018/01/13,Male,136.85,b8a2d736d91d34bc8327ac65b8501b30,59.3961735,27.7619842,"Wine - Red, Cabernet Sauvignon",5
+1HUWWHEbg83uCQZ2RidPRweuLFq5EmAVxE,Rosmunda,Broadberrie,2018/06/01,Female,139.31,ec5e50f39bff73d940ca2f97eef3aebf,47.758214,37.6772484,Bar Special K,1
+17arwmnvU8rr9yKFpKKYA6rGZhWCURX2Ms,Reynard,Guilford,2017/05/19,Male,116.75,73e3a8b79313d223008f03a91a975d18,52.2680883,22.5839609,Tomatoes - Roma,3
+1NDXJnx2efXGMy3b9dmcUWXxhECutDHqej,Leontyne,Free,2017/05/04,Female,8.83,53b45cd2c9263c88753c71fe62c99c58,43.4539508,42.0911606,Wine - Zonnebloem Pinotage,1
+1PSABM7wc1YQRsA5fiZrX8sBiuKFX2s5MA,Tabor,Jehan,2018/04/06,Male,76.57,3b545885061b25b18b29e126016225e1,53.8329337,23.6524854,Wine - Fontanafredda Barolo,4
+1Kptw8N4XxeGQCdSnwRrCogQzcFuyzjpyB,Desmund,Kindred,2017/12/23,Male,-25.94,fe2a420d79c73dbb897a835fecdc03a9,27.3526033,62.3447815,Sausage - Liver,1
+1D583aCV6fmqFRzjAiXvwRZuDUsa1Lu3AR,Jillene,But,2017/05/03,Female,43.39,73595d2eb07b409506def21ff5fe5dff,-0.2389045,-79.1774268,Onions - Red Pearl,2
+1AT144CvPuWPWbFnKTkarv8Uvfy2LBn7QC,Hewet,Clerke,2017/08/23,Male,69.44,760f17bf12da2fcbff8275a569e09048,46.6199321,32.7072675,Icecream - Dibs,2
+121xBFhomKX6Un9hchU2CLRJxZSSiyVhGC,Mohammed,Antoniak,2018/01/30,Male,104.24,d5cc16928d93bbea422e1635c365f46d,36.599744,101.803717,Chocolate - Chips Compound,2
+1MLTtyREwPFv1bs5rz28YnHf4LNBQcZLq5,Ossie,Bacchus,2018/04/27,Male,77.99,0ee0dd92eb5af3e19a9befa66afee11f,37.6837922,138.8825459,Greens Mustard,5
+1BBUkYUUjtuZzfj6FLdfXwJKt9roXsqoZq,Thatcher,Sainter,2018/06/09,Male,-13.54,a0d152487dfed55b02085ecaef774e8b,27.6252995,111.8568586,Bagel - Plain,4
+14KnCHkoNFTPAMYsp2r97WUKj5HvrhZecK,Rowney,Delepine,2017/08/25,Male,170.93,716fa251d53c730493a16d621874517e,9.2610914,0.7770529,Water - Spring 1.5lit,1
+1N4eeCqaECsEDrhZYaq4ApURtHhtj7GqRc,Charyl,Von Gladbach,2018/06/12,Female,154.61,fabda7cc63f62388a24012c1534ddfdc,36.6740953,46.570133,"Rum - Dark, Bacardi, Black",1
+1FKm7jFsF3mUs7VPTkhXTYo2ypiEKXzcnv,Thorny,Bethell,2017/04/07,Male,233.7,9533f616618ed542119bdf101681eb97,-23.3879703,-49.5076392,Squash - Pepper,1
+12GUVgcqoN93hw4ksfsdEQWkMA38doH1vf,Allx,Kleinhaut,2017/08/30,Female,85.95,0da26b8da78287f18138aa5987d78136,-27.6923006,23.0367512,Breadfruit,3
+1ELJ8H5MSWQT9sxe36mGtFDjxpGVJunC81,Kerrin,Rawle,2017/10/14,Female,95.14,ea51dee643d0544fee7aeba0201eee11,-27.0501654,-55.5746294,Squash - Acorn,2
+1BxjCMy4jwvKaav7msxsEQpHuj3JU2pYXk,Clair,MacCourt,2018/06/27,Female,75.71,c63a9aed80e5b98efddf153efb2cae3f,-25.7782129,28.142569,Salt And Pepper Mix - White,3
+18D1xNC2Pm1XidGe7D8vhh7d6ugPsXnMhB,Forbes,Stallon,2017/02/27,Male,-54.38,fa2e99efdb3339ead0ccf0502cfcfd32,29.25486,111.626472,Tomatoes,3
+19nXg2CNxLiJjX3KZ9JYXjPAFm3fcDE8WZ,Eryn,Kimbell,2018/01/20,Female,25.13,069934044c2e4eb5d01ab048472dd06c,10.9120328,124.7452068,"Soup - Clam Chowder, Dry Mix",1
+191EZVbLdna7s6LJptv1FF3AKEquTtho9H,Ignacius,Waine,2017/03/11,Male,189.5,4e8232bd7fc1b7bb1b53a79eabb133ee,26.647661,106.630153,Oil - Grapeseed Oil,2
+13Eui2oieUCckeEsDKfHVPffKg7Xe8GWY3,Huntley,McIlmurray,2017/03/04,Male,116.5,0ec8614b58a9ba0de8196ed62cf008d6,49.291889,142.878669,Cheese - Brie,2
+1PNZjov3XngyczLu9fsTZXfYRSEAprFE93,Jeff,Dewitt,2017/08/13,Male,-11.36,fc0d40515557bf37db961e3bde2d8423,17.9073835,-77.0965442,Vacuum Bags 12x16,2
+14Sxr8ikNPg47xqDW9o1XGuchtS2Vun5Qt,Shari,Wyles,2017/10/22,Female,158.53,c2543037e7c35fb8037137174c8c76d3,57.1754487,65.5492993,Gatorade - Lemon Lime,5
+1HKURp8yYhA1v2hiQiDLpM5BgyMvPorjm6,Devan,Babinski,2017/03/16,Female,155.94,44b61966472961ad8f4d401333b18857,49.7917105,18.3442739,Bacardi Raspberry,2
+1Na9EXnKQDYemV3YpuPpWYVd2jwZ5rgWBd,Annabell,Freyne,2017/05/02,Female,85.45,aa9679bfea66b93db9ed842a156080b8,41.0832289,-7.8225565,"Nut - Pecan, Pieces",4
+1HHtqu776YUWGUnD6ZfZ8fyPjfcwcETzfq,Sherwood,Groger,2018/06/12,Male,189.4,1f92c1c8ddbef538b6d888f1c6b8bc4c,-5.0077715,12.9608246,Coffee - Hazelnut Cream,2
+1Lq7sjZ996hHJ2mkCNPbVLmJGzQffdRW87,Seward,Ambrosch,2018/03/25,Male,7.05,1ffe5dfffafd2c4010cedd8279623797,33.9930471,-118.153228,Bar Special K,4
+18wSg5vad4TXH7mRvGzP53iSg7DWVfzww,Judith,Sharrier,2017/04/26,Female,31.42,73d033a785f78bc7623dadcb6a32be9c,39.726929,116.341395,Table Cloth - 53x69 Colour,1
+12Xy1eKYLRwUiKFmpxQ1dQc4xgxkjKvjBG,Cinnamon,Abeau,2018/05/23,Female,177.09,21fdf42015ed5178b428e54284598080,3.5775446,98.6684374,Limes,2
+1N1Rg53Hx5HPaBazwkT7iPhq2FZKVXckc4,Mel,Taysbil,2017/09/15,Male,145.34,889144e30de5f4fc6dedfe6ef4cb47a5,13.365,121.1893,"Lid - Translucent, 3.5 And 6 Oz",5
+1KaKbXMBoFpHepBgaK99TWZgpqpFMg9oNq,Norri,Shorbrook,2018/01/12,Female,21.21,be776224d23cccf3bb28d0d607666fd6,39.9225394,65.9214676,Bread Base - Italian,3
+1LQQ9XxmJa6kNbtnZuwhBbsDbwd87ZoctT,Janella,Hendriksen,2018/04/07,Female,18.6,349b0acb3040635af55ecd801cf7604a,22.533583,113.968498,Icecream Bar - Del Monte,3
+1NKtSVzKFcL6YcjPM9TstHeUEhYdcTDf11,Herminia,Cashen,2018/05/23,Female,-34.69,0e4a8eb869a4ca47e79da5f55e69100c,33.5311408,131.3266966,Plasticknivesblack,3
+1CgwWUuLwnx1zFprPWUyVgLmbNooFfimff,Florentia,Nesbeth,2017/10/31,Female,138.83,2c0d2c77e5af31ee366ddbf4fd5d5661,56.8564288,24.3522717,Tea - Lemon Scented,4
+1NLdPaBNKrMcEyhvkWzot5uvC8JMr2NM2X,Caresa,Rehm,2018/06/23,Female,120.34,c8a973c57cec50972a7065c0d258ebb9,41.9345689,25.3495981,Wakami Seaweed,4
+1Q4JSmL6gCoBnQmjuCMJKnR33q3C673L32,Irena,Carnier,2017/05/01,Female,102.1,8144fb8ef6da46245c2c93da3ef65f71,-8.0563346,111.7167504,Beer - Pilsner Urquell,1
+1FHH64n5X2E8aj7XueMAPdnNVQDVahw8kH,Cullen,Chamberlaine,2017/08/10,Male,221.34,c2a4795a3531f2ee9407abeee5038b8b,39.8037641,22.4914418,"Cup - 6oz, Foam",3
+1CgR7vM9yuUrMQsS2fZSJf3GsPiheXRBC7,Cris,Cheater,2018/02/27,Female,78.03,62f3d204c7041e25a011a905524a0be6,54.0433255,19.0193063,Roe - Flying Fish,5
+1EkgUma9An5gBFRQLFjNH1YaZ4zUBN3f3s,Rhodie,Ringer,2017/01/18,Female,182.93,f31b06ae07ab71634f651e809e859bfd,27.70841,118.79264,Wine - Fume Blanc Fetzer,4
+12SPvYTVXw9zDy7Z89v52aQwC8aiGvSXZL,Lief,Lamprecht,2017/11/30,Male,5.87,00077d9ec520ef085ab18fdde9257b72,7.0402446,134.256193,Glaze - Clear,4
+1DRpEyxc7CkAg3QhwTpnbZTEitdhv8mL3y,Rhody,Hawkett,2017/03/18,Female,159.77,7b371b9413cd1fa928ca5f02ec8a7816,35.709077,107.643631,"Fish - Halibut, Cold Smoked",1
+1Na4eEBZi7NRSns7MmHv85zaPN53Jxbuvk,Rhody,Garrard,2017/03/20,Female,223.81,bbee01cf1df81e984bd446fac5a01426,41.8038684,140.7289269,"Pork - Back, Short Cut, Boneless",1
+1DVzYpwg8zRNL6k65PzJxnhihbsnq9NHJf,Ophelia,Gauge,2017/06/28,Female,269.44,c4d60c4f0f8f0ca656a46e93641a9561,16.3317796,-96.5943562,Beer - Paulaner Hefeweisse,3
+1NRCjAhkmAupkrH7m4xrHXP2PjufQ2WRQs,Gaby,Conre,2018/03/01,Female,70.0,3dea63d2c15210992a3fcfff161105b1,14.6387213,121.0505978,Soup - Campbells Bean Medley,3
+1BFhVGxgi9fz9R1Hso1jYYwNMc7Zc4T5eu,Rosalinda,Helks,2017/03/13,Female,113.7,c226ab25fe0711677e26807396c07cfb,49.6076079,20.0926064,Cake - French Pear Tart,1
+1D9ufmW1eeeQUiFZbUf4ZjAde5D38X4fwc,Babbette,Witnall,2017/04/17,Female,51.1,5ff1ff1491a22056bda4e30b534be4fc,-8.7597358,120.9905,Olives - Nicoise,1
+16q9K1Zsneffeink6HXwsN8tRYAC34rgmb,Xenos,Tudgay,2017/05/05,Male,89.97,077a5aa7657ef494e4c64752643aa623,0.10144,127.43402,"Melon - Watermelon, Seedless",1
+14N4HmEvKHEJpWaoUN2w1wuivRPHSCTF48,Bekki,Camillo,2018/04/19,Female,150.71,489cc3b6ebee2c25ef83904bd2af9d6f,35.4693091,134.7938651,Tomato - Peeled Italian Canned,2
+18iLHj1CSowjmrkDMPbQzvQJNMQMpB6wep,Ameline,Cranson,2017/07/24,Female,57.69,b8b49c72c83bd99264728c7ab1de77b2,38.7015108,-9.2848171,Island Oasis - Sweet And Sour Mix,2
+1G8VjYy5JVHfMmpXfdXPR1pPrnc1iMV4VY,Britt,Woolacott,2017/08/29,Female,84.69,32f5e789a7894035794865d8aed931bd,51.8417492,5.8715134,"Roe - Lump Fish, Black",3
+1fh9qhPQNbjHvgDwMsZ7wrCZRRKqM2U5L,Marmaduke,Milbourn,2018/04/09,Male,120.42,dfd0b404d4723e51d0ac4165a7335a76,14.6347254,121.0112199,Eggroll,1
+121ybpyFdpYB2QuAuNnDFFsPczxQ7yShPN,Francisca,Adolfsen,2018/02/05,Female,61.53,3b31f4fe173fe016f6649ab6e447f053,31.60858,118.983733,Bread - English Muffin,4
+1Ba9oKM1CgjYBNhXozWANuHxco1MQagLu2,Staffard,Klug,2017/02/22,Male,106.16,817abe6b9009dd8126a7026470125e2b,59.1983958,39.8321001,Wine - Zonnebloem Pinotage,4
+185qasE6A2ZuZwLZAPTiieSG1cZ1oaDprc,Charissa,Gault,2018/01/09,Female,163.09,a1d4bcf8f21173b37be5860613d28405,44.5140354,41.4352936,Lid Coffeecup 12oz D9542b,2
+1EUoMgptxkxDubhm7cKoDGbciSQ5BbVzrx,Hunter,Grayland,2017/03/29,Male,157.89,c9120cc48240665c87da7a6b4bfa3a1e,-2.945569,104.7334404,"Lobster - Baby, Boiled",5
+19FPLLttXvKV13RVrkhLnjUfWgYspzZwUw,Tasia,Figura,2017/01/19,Female,238.79,bc00362769ce45069bf27c717a8a2b8b,-19.6339763,17.3316667,Cheese - Parmesan Grated,2
+1J1SGjc1Xzf56aKXhbsGE6JWGRBJ5Mth7q,Idette,Taig,2018/02/24,Female,103.32,391cf32026826ce0097d1221ccf83ea3,-26.5325948,29.0706468,Compound - Strawberry,3
+1Dhap86p7fBw9hEdrrY7JBGo3KDnyjeRb,Karia,Ebbetts,2018/03/21,Female,94.19,4dde5a399731c796b8f95933f05b5b35,41.4198927,-8.5917806,Seaweed Green Sheets,1
+1PBffwBX9t4ys8NwBvECWJAixyw4E3Qp83,Katherina,Tinman,2018/03/03,Female,127.2,3ca4e676cc9517cef02049d8518e6dec,15.1048617,120.9216776,Urban Zen Drinks,5
+1HduHEvUQxCZKKRNowAjEmFK52A6vE6UZx,Carl,Dumbreck,2017/10/10,Male,30.1,46d510afd62a6d91682bba4cb1f2b5e1,49.896245,21.959222,Sprouts - Peppercress,2
+112mqQWi1DMNxSGDp1aQxdkYo8xYTSq242,Hewitt,Eltringham,2017/08/21,Male,97.16,8bf82031e6b6bd55d3ede733fc4a9cd0,-32.4871605,-58.2510984,Veal - Heart,3
+147BAX18ztrdhDmxFGFjL1nqt5fgcoJavv,Jody,Pashby,2018/01/27,Male,18.82,8b5fe55967029cff998502cf30e194b3,39.7191273,-8.852352,Beef - Top Butt,5
+17cR9Cz9yMkCYG5Jwe4oM7oKFzVaHE7w6F,Kennedy,Alfonso,2018/01/28,Male,192.17,a3294417f795475c19451c60a93eb43c,16.0332128,103.9344076,Chicken - Wieners,4
+1BUoSCSq5y8ukWBZShYHkEBjbh9jW2eXLF,Lori,Saffill,2018/02/24,Female,168.28,8ea7acea380cdc11d0c9815dac900447,52.142598,20.7175048,Pur Source,3
+16CBnD6Af776pmJvfoW34A6wskQqVXrjzJ,Chris,Clemente,2017/07/28,Male,31.92,56331a9d11beb4f98e2b2469a6d0cd37,43.298735,5.3825978,"Club Soda - Schweppes, 355 Ml",4
+1DfVewCVBkxbozspWtuFabtbBdzjxzGXFe,Robbi,Wiz,2017/08/25,Female,90.5,c1feb48e47d5e23744df18ad5e53fc13,25.80914,110.011686,"Veal - Inside Round / Top, Lean",5
+18DNoF6ty3CChrRuT98gmsa4u7yMmN1HeB,Marcy,Widdocks,2017/05/20,Female,80.31,5badb448cdb50c9b15cfb31a41e5cf45,-30.5652911,17.9904127,Wine - Cotes Du Rhone,3
+1ED42m4raBUF1gP7NQFrdKkv3xTUaQ2hzP,Angy,Bohea,2017/10/24,Female,-49.09,979b7c7c2ad96d5da1b8730747964dc8,30.946249,118.756589,V8 - Berry Blend,3
+1Fn3Tkq4P8JzJ74iUXaJEAafe39uufqXqM,Rodi,Cardero,2017/09/29,Female,111.34,36ace4051caca38395036d301dfc0612,41.40517,-8.7463716,"Chilli Paste, Sambal Oelek",4
+1rNCnBFjwnsx4QAQJgVPzbnR8FNMFdteM,Carson,Scheffler,2017/11/11,Male,170.99,0000c05d4e9c13d13f4c2f34f168236f,50.98804,16.83363,Soup V8 Roasted Red Pepper,3
+1627BwXAWCkLS3hR4srP73Ns9bbkNRbDnh,Skelly,Shoorbrooke,2017/10/24,Male,21.86,dc1c6d7d6ac0bcd4e0ef6bf7ebf9bd20,53.4049709,21.5480129,Swiss Chard,5
+1CfTPJxeyeMCUzXWCCCg9XjLHy3a3q3iky,Ransell,Ciraldo,2018/05/13,Male,155.13,29d79a515a3df242f1060fbe24154a5c,-7.5450262,111.6556388,"Mushroom - Shitake, Dry",4
+194pgvDUHyjRNQe5X7bQ9BtCBJGedmbabD,Emmalynne,Sorby,2017/01/22,Female,51.83,ff7a8769f60c8946c15571eb89506656,-8.8598312,121.193945,"Juice - Tomato, 48 Oz",4
+13zLLWN3CvRDF6DBMXXqpF7xuifULTZuwC,Dionysus,Sirl,2017/02/27,Male,160.55,07a7e4e71e9ee33b1e4eb2a6b7563ccd,48.840109,2.586253,"Beans - Black Bean, Canned",2
+1FKemqCAuhqycGDJFLBumirwMsNmYMwLkW,Guido,Tuckley,2017/02/18,Male,111.03,947c9438a2c81d107baf34b4d74c22c7,33.766169,113.192661,"Brownies - Two Bite, Chocolate",5
+1N4R5vtP4A2La4yvbZPdhHSjXVHg1xYxs4,Adina,Fergie,2018/04/03,Female,7.44,90126b43b9065d48f9bb92d5444d4a9f,10.2683199,-68.0179418,Cheese - Colby,2
+1L2gNJWkBuTkGPEjD4VLe4zCXRsniHaKDt,Ari,Caunce,2017/11/06,Male,60.6,7c0653aa67bec2618c81e38c69c5901b,22.198745,113.543873,Lobak,3
+1Cj4kYrvFmWEcjNyV5uZbkpYPuVeL8ELa4,Merrile,Lippard,2017/08/14,Female,182.37,a5863ad3e7f80525f57bf0c2f7700605,15.43333,-91.63333,Wine - Niagara Peninsula Vqa,5
+13xhdsB8VYrDWpyJo6m43dFW6vFH24wpfL,Berkeley,Ovenell,2017/04/24,Male,107.41,ba592f32537451624c72b7f6d9a973ea,63.1511606,75.3266219,Bread - Raisin Walnut Oval,1
+14oYNTSyNCwuzakyLUmdWndVri8gUgvd6R,Zaccaria,Bellison,2018/02/27,Male,71.54,e22d3301519048c915dfe42f5b8ee26c,30.779444,120.00922,"Vinegar - Balsamic, White",1
+1CUFiGPgWtW5R73mTgcrmeBfvT7FNfcJ2e,Kissee,Wellings,2017/05/13,Female,143.4,c4c84613e12b3f0e97242936495490ff,28.97602,120.083358,"Wine - Harrow Estates, Vidal",2
+1MWio1AFRtCcWTvF1BH3E7akXg6jakhYzo,Delcina,Alberti,2017/11/09,Female,124.57,c2e68b8da4c58a08f889d2eb794bf109,48.0762327,-0.7609009,Island Oasis - Strawberry,4
+13J6U6o9MUmQnJE8H7XTmbv9KThyNLPD7M,Teodoor,Sloley,2017/07/23,Male,64.94,1f9359341532e5060a5e0f2945e08348,51.149402,34.3175225,"Rum - Dark, Bacardi, Black",2
+129fACgEQ3rhpeb25BLYsmiBoDNCUWN7VR,Titus,O'Toole,2017/03/21,Male,-3.23,2b839a1f93e2230dc597471b5a32237a,39.9179113,22.595535,Table Cloth 81x81 White,5
+1GxRnJcW6yK9ZD1C9i74pZNoigA1WthJU8,Mariejeanne,Reedshaw,2017/07/06,Female,-35.82,7ddf1401188000120a92cef7ce08aca5,32.305011,34.911731,Sugar - Palm,1
+1Ac3pcuGsMjgDyMJb52ouvmsrgLz8dmiMT,Madalena,Wehnerr,2018/03/14,Female,147.37,ed1982ba85808fc3d704aecb30eaad55,-7.0407255,107.0893798,Muffin Mix - Chocolate Chip,3
+12aaMU9eAsGxeJZGXqmGq2nLbDMtgCfUB3,Vivyanne,Maddams,2017/12/07,Female,126.46,d0bcabc0f2bf1daf952514bdff70ca5e,34.7188616,33.129529,Eel - Smoked,1
+1Fbq1UZSJoJojUuWCf75iK6LbNG9BKyV2t,Sharleen,Launder,2018/06/25,Female,219.31,73c7e830955943c62876faac1cc8ad42,51.4984999,-0.1401487,Gooseberry,2
+1MfDSpAHCBy4H72o7k7AQQoZFZbLBH8R6G,Gisele,Andreucci,2017/11/11,Female,104.23,3416e151d82cb444d70c2ebabf4aa4fc,-10.2507168,123.5112035,Muffin Batt - Ban Dream Zero,3
+1Q5p9bcKivbgA5z4pEV4JMCRzvbojz2p2q,Charline,Hussey,2017/08/27,Female,333.7,7d10cf5b888f491f6bf72c2d54dc8bd9,-13.88991,-70.647842,Eggplant Oriental,3
+12f5rjKfG98Q8SQTHqWHt1YTZvhcPF7Wsu,Marie-ann,Paydon,2017/08/25,Female,128.44,99f7fa2b32a0ceb26b76c0c7be50daa9,18.4445307,-69.9316834,Kumquat,5
+19NxjwqjvachCKRWZ9ADJ6K69XipQRLkmn,Cathy,Curm,2018/06/01,Female,55.52,091211da279e2822684a60733aae0d60,49.794137,18.1457156,Tomato - Green,4
+1B1eFYoocSR8j6Ryoe1TPRU72urGmKqMG6,Dyann,Haddon,2017/02/01,Female,267.24,ab50e4245a582c6886cb2ae24252def8,55.8431628,13.2986314,Southern Comfort,2
+19EcqPi6L6R1zJLxSazEy78jbd5LgpSptT,Glendon,Markwick,2017/05/13,Male,58.54,2c3c83971b29396ed401a98a5303c63e,-35.3714074,174.0890941,Chocolate - Compound Coating,3
+19vZKmUPzwQ256UCYBe7Jow7rW8jEhL7X1,Fey,Spoure,2017/10/07,Female,191.14,ac95c975a1715aa538115dd4dc71bf06,8.6427567,124.770152,"Nut - Hazelnut, Whole",5
+1Pw5rtxKcd7nfhE5zMEW8JD3ABzPgEPjGg,Washington,Newbold,2017/11/17,Male,153.5,c5d3ae86130cdc6b6fdbccf67e658f77,19.2949759,-99.110685,Wine - Riesling Alsace Ac 2001,5
+1FgBGdwAgyi2KLmnabtwk2VhSM2thVnQKm,Barny,Eidler,2017/11/03,Male,145.43,6ba0c0a74fa6dbbed033862ce76dd8e3,44.5394324,3.5333133,Chinese Lemon Pork,2
+139xDRXX5jnzAenNTiLjvLV8DZNxvyDV7f,Marna,Dunphy,2017/10/20,Female,242.66,360856d7eac04b3c0a6be4e53c5588c7,14.1864516,-16.6586052,Ecolab - Solid Fusion,5
+1Mx6PUTX7mrbyZH1bsBgCYteR5UDLPEorT,Shem,McLaggan,2018/05/08,Male,104.31,ff399780e175a5f9164c8ad1531544c8,38.6037983,-9.1672878,Black Currants,1
+19wcdPpH5SGdHbQ7CAa3aDbzZnXGoXj3bB,Enriqueta,Nassey,2017/12/30,Female,80.21,dca6d742274b557d66dcacb6a4365037,55.9835962,37.1465904,Venison - Liver,4
+1MvgGTNpQe7z8cZtePeFrEsrYiywntSEmG,Roderigo,Yoselevitch,2017/07/20,Male,81.89,1761ede624b9ffcea5bb4f07f32ffd06,44.418695,39.5314274,Silicone Parch. 16.3x24.3,4
+1FbxCb1zDzxN2cYjopaMyje8xTLBd8zDUM,Iolanthe,Kennerley,2017/12/09,Female,106.67,7198d5eb0c4922aef4d6bfcfa53af633,22.0832638,102.5757028,Soup - Campbells Beef Strogonoff,5
+1MgJZ34vSSgkaz9b95RZRuWQNm3tbZyLzv,Dinny,Gotts,2018/02/05,Female,233.13,b0cfcbd054d696c45121fdf9298bd7f2,53.7577169,17.1077021,"Shrimp - 16/20, Iqf, Shell On",4
+13sXdroA8Hxg1trwa3EsGNvDyoMBGuwHvU,Rutger,De Blase,2017/06/03,Male,220.24,2f2e02424bad0f8f08c6c30f898128e0,8.9282133,-74.5697617,"Veal - Round, Eye Of",1
+1PB1ALgvmfBLMmXznaCpz2a3qsEjcxhUYJ,Rainer,De la Harpe,2018/05/29,Male,1.97,4f9b9e26549fa04c07fab8d34e5c8a75,32.6901244,-96.937016,Ham - Proscuitto,3
+1CTPQcXNEhpQLFpzZhbLf7NuEgzeGJeNgS,Chicky,Jaffa,2017/01/14,Female,138.69,7f2a34e5d106d3c78b241fc42f2665f2,9.5109216,123.1331939,Monkfish Fresh - Skin Off,1
+1DMUQLazb9pNJicdLM1z7KS2aM7GArLyR5,Penny,Reaveley,2017/02/10,Male,133.08,579e7a1b33b0db75d8f8513cb661cd61,7.193611,100.592145,Cups 10oz Trans,2
+1Ku3K1nX6qzpNoUdCshz1ZVkbbRMBwZidt,Hildagard,Stodhart,2017/03/23,Female,153.15,079653055e61fa17aa82124e2e613fa7,60.6251856,28.568911,Cake - Mini Potato Pancake,5
+1Gncvt7vH6J7zqBprfEWQpLkKood1aTEqw,Stephenie,Aksell,2018/04/11,Female,11.31,7c478698b918e48ee550010c82202f31,32.5569557,35.8479094,Olives - Nicoise,4
+1PQWiQ1S9aro8mh4S8mt52jrwBVq82RSTF,Raul,Cases,2017/06/01,Male,170.82,ac832587739e919ac1eb525be660fb4e,-7.6377266,110.2722262,Bread Foccacia Whole,1
+162NqiQcuruE4BRyB61MwhLF7XX9rRBB5J,Orrin,Ducarel,2017/12/15,Male,-73.52,ff77cf4f001cb44d89e0bd30d46f2623,55.7309365,13.1779513,"Crush - Orange, 355ml",1
+1J2qti1vGU8QNkudStBTVLhDFxifyLz9k4,Wynny,Valenta,2017/05/29,Female,48.23,b6d2d434e384e43774d0ee6ca3a7b2b8,14.5655554,121.0335158,Sauce - Cranberry,4
+15JQJTbH5KiUBdNQhEnAezqSycpVX6H4F7,Sayer,Cleaves,2017/11/09,Male,84.13,c5d975017d74e58cfca04223ba626c2f,-8.269535,122.8950755,Truffle - Peelings,1
+1BiMPw8P9YB4yXK55yiw4sX6otpCALSycW,Sibella,Biggerdike,2017/09/14,Female,-72.62,c6dd112d3ad69d41195551524adf97c2,38.6024828,-121.4470463,Soup - Chicken And Wild Rice,4
+13JSHZCoiChCNmyQy5j1y2BEXtHpy2KJPB,Brandy,Ivie,2017/03/12,Male,-17.37,8e50b70100b6a5d70fbe8ffeabedc788,62.107429,129.517113,Sloe Gin - Mcguinness,1
+1GuJY9sxm9Dku3SqBhKEGCPSDkKWaLRvpf,Ryann,Breacher,2018/01/19,Female,213.5,876ed7c61b0ec5f6e72a36a7afc535f5,34.414961,115.656339,Plastic Wrap,3
+1Am5DP9KAu9ybrssqzYRThD9K6cgeYhitG,Bernadene,Heggs,2017/04/05,Female,158.61,202295e62929620ca0aff91343e9bea9,21.918725,111.053561,Wine - Chateau Bonnet,5
+1HMFYc9GpN6NVZQZPRRqQmXMNSspMQkNnp,Ignaz,Perree,2017/03/05,Male,97.71,ec7552be693cb5bf930449f112b2d960,-29.3652193,-51.9580164,"Shrimp - 21/25, Peel And Deviened",4
+1Z69XzUMfxaykDKk9yy2Ry5jZ7RU72c46,Giulia,Mager,2018/06/07,Female,123.55,4aa550538be7d24a0aa67d4b981d9a43,29.985295,122.207215,Sour Puss Raspberry,5
+1A9XgYkk1FzMPmA7bUB4hEmdWh5iXY31Mp,Mareah,Edel,2017/01/28,Female,138.41,c2ffab961c26890b4819f6c358c0d07b,24.810879,113.59762,Wine - Jafflin Bourgongone,4
+13TTVhM4oqe2uR1FbWJNfeyxiGahjseTRB,Bordie,Buick,2017/10/16,Male,-23.26,9d53b1b4e65d0fd6e1893724ac929bc0,0.6092923,30.6401231,Banana - Leaves,4
+18xFfxH1RJANbNUunu4D38QaP5G35rmmyL,Irvine,Crosier,2017/11/22,Male,142.82,882b4150b3a4511079425cbb1045c88c,49.6197452,18.4728742,Bread - White Mini Epi,1
+1AKuR9wVfPMpTByZdX7RUKFR8vxHuiomBa,Nick,Singyard,2017/04/10,Male,158.05,f85c303ef9a0ebdeada368661eab110d,-14.4040989,-56.4370932,Bread - Mini Hamburger Bun,4
+19jQv1uHfEY4dAjmea7HiQErG9Qj3WXRA5,Roby,Kinze,2018/06/06,Female,149.76,1409d90481e7254a120fd00f83fb3f9d,-8.1611036,113.6770012,Iced Tea Concentrate,4
+1MNAymJ5ueLKWaoFxBN8kzAwgiBngDQTcV,Gustaf,De Goey,2017/10/30,Male,36.82,170f99b77239ea4c9c1d341bb97b3ebc,64.8373411,25.1864597,Carbonated Water - Lemon Lime,4
+1AmEviz6AMgBUYhzUNGPYNydGny3HUBZ31,Illa,Van Weedenburg,2017/06/22,Female,184.08,2a9016725fb1a398e4c88e7707efcc1d,13.0710293,123.4584998,Plaintain,1
+1Lq7fpHDqshQadqLxv3QWgfq7sme3vRaLQ,Windham,Powland,2017/02/24,Male,78.11,8bc7fed1494233be2a67eae233ef4f57,46.1114451,48.0744772,Yeast Dry - Fermipan,1
+1EBorq3kmMDwZtqty5nbHXVKVvBfzWQ95S,Fern,Krahl,2017/02/10,Female,200.9,01a1fb689f51041d39acd7784a697824,27.791959,-82.723924,Filter - Coffee,3
+1AE9YoFg5NVy5gritu5qzJ71MDMN6SypWg,Nicky,Hammor,2017/05/13,Female,59.11,80b69a6ba0da443ecaeffc712c7cb70b,49.2001199,16.0648122,"Brownies - Two Bite, Chocolate",5
+1HGNf8NNpnwtGa9wDzcdzimQqQX3Mo8Rho,Kinsley,Ruppele,2017/08/19,Male,126.72,3a50be57c96d1bb90d6e2f7064f31447,43.8484382,26.4498912,"Red Snapper - Fillet, Skin On",4
+15dh4U5SEsu1Rd4dirMDgKsF96vFb4ioHh,Rocky,Hulburd,2017/01/04,Male,64.32,f5eb6c8d4ad01e59b0082c1be7408e43,40.9369019,44.777047,Pepper - Yellow Bell,1
+1LrcXdaSf2W7QpeFwEo9tzdik1jnM5BPbh,Heloise,Juster,2017/04/12,Female,103.14,44263a8732ab90af3703421886672831,-8.7393595,-35.4562795,"Asparagus - White, Fresh",2
+1AHjyFcmV9z88GJobUdi9kAGjW1ur247pU,Bernardo,Elnaugh,2017/02/25,Male,114.11,f7ba23898b9eecabb77bce39d2942c94,38.4968282,-9.0375864,Tea - Green,3
+1BqoL7vkQ3E7G7ouyCCmFtxTSdKHv838oh,Melisenda,Coulman,2018/04/07,Female,97.34,2e0edd0a9464840c128a030f50ad5b17,50.8323221,25.4566978,"Zucchini - Mini, Green",1
+1DxKvsr24Ria2vfBdXHACyRsvTrzG7YMZ8,Mayer,Gasnoll,2018/02/23,Male,127.52,e11e9cb4367f56daec8ee0779c716bac,38.7917289,-27.306593,Goulash Seasoning,1
+1Pxffu6ZY1jAxh4KayTQjiCLSMyYC2XDQM,Cassie,McCloughen,2017/05/15,Female,164.54,9976610dcdd643b33d7eaad8db82b5e5,49.5234905,14.4280868,Tart - Lemon,1
+13BSqu19VQEuKB6H45oW6fTvQzoiWBhBX7,Andrus,McCleverty,2017/01/14,Male,181.34,a67f400c6c1a1ff69c3f2f06e4ebb8e2,10.5729676,-62.5825397,Cake - French Pear Tart,4
+1GjRjGTbCifh1d3JmMh1aRNHWe15dHXXLz,Reggie,Newson,2017/09/15,Male,115.99,3bd4bb5211aa500ae8ccf11e6964e0f7,3.095417,-76.1435915,Dill Weed - Dry,4
+1L7ummFebupMmgEdy5ujnHFqqFHCuXambH,Godart,Cantero,2017/10/27,Male,96.93,c2037fb92059b29ed303e245363995b2,30.5081033,47.7834888,Lumpfish Black,5
+1LroPzwB2pQmLbcLpqjMFd9xjzHPFtFayN,Torry,Cleft,2018/05/27,Male,76.35,9b2f3c832c411915e8ff34cac52f8a3b,27.246947,114.702652,Beets - Mini Golden,4
+1LuGybnUphk7BMUqLNbWkQ64JGZT2zWBv1,Rhona,Brenstuhl,2018/01/25,Female,84.37,87db96c494bd8e9cde1fb9318ca1e64f,46.5075851,15.0768162,Wine - Rubyport,5
+1Gad8K63D74szZK2efdrYESf2ZsuaMS31V,Isac,Mousby,2017/07/24,Male,195.1,e21220822d69046538adec677f050b6d,35.6110549,127.2826599,Beef Ground Medium,4
+1K7b9ibtUqrJ6K6U6HNK2kHLcYBumqzwYp,Valentia,Simson,2017/04/13,Female,98.99,ecc8234cf87cd66687241e3e57b63abb,-8.7377882,122.2171695,"Seedlings - Mix, Organic",2
+19vtTve6xuG1ByiUNnkRNLwdJsA7ZT9Yof,Joanna,Sharville,2017/07/21,Female,160.69,43ff45553a0232cdd196248c73b85098,-7.3350849,111.46038,Wine - Riesling Alsace Ac 2001,1
+12q8cH2Js3JD6ouHrMQrPQwbvVuLxdPGyG,Aviva,Lukas,2017/09/01,Female,71.2,a1b638b2a908ea31ad60dc56dc683bd4,31.2183894,107.5080473,Wine - Segura Viudas Aria Brut,1
+1LWchxf25YjdFCDrZnsaE2cVFcWohCrSfX,Nehemiah,Huntingford,2018/01/29,Male,294.96,21f3881d6a3e2486ab039de58e4f409c,43.2916776,-0.3696612,Tomatoes Tear Drop Yellow,3
+18MNuuYQxZZbcvVP1Ma33B3qEcfHnaTrG3,Dominga,Everist,2017/06/28,Female,154.8,d27e3a8c8b296df0f493797805ef5031,46.1428433,14.4322399,"Beans - Fava, Canned",3
+1F3cv9q61mrgTLGvzdH4B3T8tGai187DC7,Richmound,Gammack,2017/07/03,Male,88.64,4d8efa36f8a3daf9b40bbfc0443798b2,58.6772898,52.190142,Appetizer - Tarragon Chicken,1
+1FHQ1UHyHMp2wSuhcXwwPCkG4wLvCYnN1U,Dulcy,Stonary,2017/06/02,Female,79.84,2f26b054fe1bb62b2e509c278ebf53c0,41.2699428,-8.2236098,Shrimp - Prawn,4
+17jYBxsRcA53bsp97vDWsyNab41kgvTKBw,Rudolfo,Notman,2018/01/11,Male,132.74,246ac112913dc85434db46235d8105a8,43.3994108,44.7585599,Marjoram - Fresh,3
+19XXXKFmcfPGXC7TkgLgK5gMG3WLDjN25x,Isador,Muller,2017/09/21,Male,84.86,4105fc8e810b51e144301204d430505c,41.05,-73.54,Bok Choy - Baby,5
+1DmTHWUR9jZN41HYp7heLK1SYiA1NnydU4,Ulrick,Feria,2017/12/04,Male,149.25,341376f9528ec20ca7ea570301414dfa,-18.4001194,47.8699039,Foil Wrap,3
+1MDkxTFumdU7Pz75tKJTi5QemvXNGCZpCE,Ginger,Deverille,2017/06/17,Female,0.51,d3589a45017440fd259cbddf4f855ba6,39.6222264,20.8874294,"Pasta - Lasagne, Fresh",2
+1MjXF1gB3TC5JG5QF2T2Bs87wgSHFayUDM,Loni,Plaskitt,2017/04/27,Female,96.9,c9bf5ea182015205cc9463c744d8836c,32.9483104,130.5762726,"Orange - Canned, Mandarin",5
+1Jp1KawhuwpBCN3yaaeMDPFVU84hUQBLeY,Rog,Brend,2017/09/09,Male,37.2,ff1b7cc0e4558924a8a9ce7e435a7d4f,40.5845053,-8.0854006,Piping Jelly - All Colours,5
+17FSHTLWF43omiV1P9MwTNDATWqfAgK3rk,Taylor,Keilty,2018/02/12,Male,178.16,38ac8e5a6a9a35318a65a847725ecba5,49.8602445,13.7726288,Savory,3
+19xdpoLrJ8iiuMHWeJ38MdyZRiV3ChkW4S,Bailey,Addison,2018/01/23,Male,157.9,de8f990b78b00e7a2506acccb086f305,42.9963758,21.944034,Table Cloth 90x90 White,4
+1EHvG11eETvGesQsvguWyhZYtLPnRhjkod,Maurine,Lancett,2017/06/27,Female,205.58,342d7257b32c7cc995edaf57553aebe1,48.9410561,15.6896923,Beef - Ground Lean Fresh,2
+15dhMdGzNAfd5apaw9Kez8TPvU5PVY7Qc2,Janeen,Barltrop,2018/07/03,Female,112.99,0cc90b71e5c8aa60bdc38790c3820268,43.32756,76.840271,Icecream Bar - Del Monte,4
+191Jj9fJUvudmeUfUYrCwwdK8WMnLpBkUy,Taber,Maudson,2017/10/07,Male,45.85,ace53c244fd64d127a79f1257e50d8eb,33.347316,120.16366,Salt - Seasoned,3
+1LwZSiJW4hDhEzG4sP1VUZthkvVhaRSwz8,Alfredo,MacAulay,2017/02/24,Male,233.36,b68d5e9952eaa26bebd8f6d5e227a529,49.80941,24.901371,"Wine - White, Ej",5
+1ANDgedCsFPZRvUryC8vngMJreDhPuZve4,Aurore,Wearn,2017/05/19,Female,116.35,b385e79bd03f0d2076d9420428ad3606,5.5298168,-0.705779,"Salmon - Atlantic, Skin On",1
+1HL4KErEUUnDsNm68hE1tW8xtpJKZP3bst,Brandise,Hicklingbottom,2018/03/02,Female,72.42,e21509b88bad7f9a75f5e6355918e86c,49.348096,119.7942301,Ham Black Forest,2
+1A3gp39beo9EHiZAd6tG5FiLuJD7MUbodX,Oberon,Rymill,2017/04/20,Male,-49.23,0064e2138bdbd650fc00015d072684fa,12.5179287,-69.9624781,"Halibut - Whole, Fresh",1
+1EgwxGoyxnnqA1Fhq76NsBs2Rv7zqazkzc,Renae,Dovidaitis,2018/03/16,Female,136.51,0192f748e8962bdb5ae755a5bb33735f,15.2478876,104.8764505,Pork - Liver,3
+1PcxVMxsvP4KkWtx31ceWEYDQBaTAc1LTD,Phoebe,Cornilli,2017/12/12,Female,196.67,a0c58786eb050cb1b5080874d46ae2f6,52.842561,5.7187546,Puree - Mocha,3
+1DF2pDcqz2D6BAFhndQ5ibGuqpBuaZSA4F,Jo,Waplington,2017/07/03,Female,26.03,fee1fb3f83e13e55ea4f742e2ff322be,64.8157528,25.433892,Plaintain,1
+1FUWyWcN2kJjWWbaaoTxxxzcmM6j1YjcaJ,Con,Shard,2018/06/01,Male,27.93,7af2922851d7dcf075f2e39f7191605f,40.0150745,44.5191627,Pasta - Agnolotti - Butternut,5
+1Mv88uE6wiLMKqnFfnFejYnpKJan6CFxDh,Deane,Greenham,2017/09/04,Female,146.54,fb84cad592ffd37f3adf7fd6d3cbfb4f,-6.9620686,108.4854717,Cheese Cloth,4
+1FVtCnaf9KSrhnLHPr3AVwbqxoxra6nBxm,Dale,Schroeder,2017/03/19,Female,102.35,f44c6bb75ab7e4d3de588a3046c35898,-6.9042641,107.6474283,Honey - Lavender,5
+182f9h72B9vhcPkCSP3TQ27ymSqLuz5sey,Austine,Durran,2017/11/25,Female,172.04,465e0cbc8b85fce0d5893c0f8f39313a,43.2038704,44.8434843,Tea - Lemon Green Tea,3
+1KN5BFELCd2GbVZC79ux2n6v8aNARrJsA6,Natalya,Epple,2018/01/31,Female,65.31,0d6613f625ce47850fa2e3cee2a175f6,36.8047032,137.4474511,Tahini Paste,5
+1KNsFGoR2TbyssuUqo9kgcfp5D3qa2a9Kf,Frances,Jacquemard,2017/02/28,Female,187.85,a4fc61a11c5627f8c129737cb52b00fe,-23.5390859,-46.3116591,Wine - Pinot Grigio Collavini,5
+1MN3Ma4crDfMJDeESjysGcwG2pcda95AD6,Hailee,Lamborne,2017/08/26,Female,54.95,2d77002c0b4c09d489934008043ff1a0,39.8329746,-8.7978131,Flour - Fast / Rapid,1
+1M95WrALFTBWiXC1E71Hnd5YWM88cLs8qE,Carmita,Danzig,2017/11/18,Female,219.86,30042b884dbe9af4f4f29d2df356cd83,45.056443,43.6468877,Sambuca - Ramazzotti,1
+1MhXhr2mfptPdWGs6rn6zQ5936P4DZL8tt,Gherardo,Emett,2018/05/14,Male,-46.32,8057f2b9f0475e0d295d04c89d4aae52,51.6661372,82.756927,Puree - Strawberry,4
+12xCzwsdbg4eDKUMimgQx34MngzEudfPYa,Dunc,Tonn,2017/05/13,Male,16.87,f1ac2ee167c6a3054e399455efa2382e,32.610076,101.529663,Mortadella,5
+1NUYUKW6xQ7geA9HhT16Y6mTbrzVwi11Pr,Maia,Eye,2017/07/20,Female,141.62,7fa2b8abf3ea8d11bdb387d92ad5e387,48.4691324,37.0871224,Wine - Valpolicella Masi,2
+12jwy8er7KfDQdhNx8uXNyLXKs1kCBBnPy,Dynah,Dossetter,2017/11/17,Female,148.79,3f62f762cfb516598a500a47c502a9e3,49.7986721,19.1888791,"Nut - Chestnuts, Whole",3
+19Suat5bKc74UhMDdjZcyJDrMznbCBTnqy,Noland,Fendlen,2018/01/30,Male,191.82,3964d79dbb7e1ffaae84df3e389d1ec6,57.4570045,48.5429875,Vacuum Bags 12x16,5
+13isz6shtf6L96UccUSKCPXSBizGax6w3D,Olly,Rentoll,2017/04/08,Male,6.85,ebbd07c416947be1c10f5bfcf9b753fb,-6.1756543,35.7926792,Cup - Translucent 7 Oz Clear,4
+1NgXAwxkLrnmnr9LnVD3kwumZvViEmj6Tb,Dayle,McShane,2017/11/12,Female,121.59,c306456c215d06cf798cc6b40ff0f9c9,-6.8497345,106.8738909,"Wine - Red, Colio Cabernet",4
+1ESLGqqGxcXXt5XfhZM23SJF5XE9ytJkbM,Gillian,Carde,2018/06/02,Female,112.34,c38e0d4a1fce907b665d38ee6652d4eb,4.88917,-75.870743,"Star Anise, Whole",5
+13oJ4eDLJYsyG2JdN5baP4ShDmctJHX1S1,Doris,Lydon,2017/01/27,Female,52.04,732cf2719abd9f107ffe33de4d04c760,14.8288248,-86.5728785,Bacardi Limon,5
+1CVL2ggkE8vp27tfingy3ygC7D32SoMbuQ,Olly,Stell,2017/12/25,Male,73.23,5d2aa8262a810339045f71e45a3ba4dc,-12.3483286,-75.7872919,Napkin White - Starched,3
+196rjsDbYo3wwUL7XaWiocVx7A8RGzABYQ,Gaelan,Tillman,2017/10/10,Male,117.07,1fcf6e835a531426d0afc5b5f4d37b5c,-7.5242554,108.9145675,Calypso - Pineapple Passion,4
+1A1MkMhQLi6M5ACiLEV3SbwBYeYSTYg52q,Ursula,Aronstein,2017/10/25,Female,114.01,fb4b87dd2b970843a392730ad3c94baa,46.25006,-83.5666,Sprouts - Baby Pea Tendrils,4
+1KCdp8RcfaN16Q5zWv6kKU37zGmyJPfgAY,Felice,Merner,2017/09/01,Male,110.42,3a884e12d575ff8536153bc18220ac70,15.8874847,102.8744945,Island Oasis - Lemonade,1
+1FHuxuSCi92hLeq5StYwMW77nj8JqxzmVu,Shandee,Shipcott,2017/06/17,Female,139.27,252b74dfe7499a02b850959ddca7f035,44.181054,129.171996,Walkers Special Old Whiskey,3
+14KsGPmdQSdTLNbkMvHN1iwBsMQTA9wF5q,Tobit,Plaxton,2017/09/21,Male,95.95,a25b110a921d6db78e03761d3104c871,22.1599753,-80.4437781,Sauce - Hoisin,5
+1Gvk6mkHNkFYSCTU5JewUT29iWmUom3Zpb,Marijo,Van der Merwe,2017/12/25,Female,117.57,6305ca042ae7b7b42b86b6590a4611fb,-10.1331,123.906,Filling - Mince Meat,5
+1QFdtBpy1s69ARHv4Dv4d1y7eqFkd3PqaZ,Margit,Puckinghorne,2017/01/03,Female,250.75,2d3c5022d86ec7981a341c3dd75c9ee7,-6.9209,113.8478,Squash - Guords,3
+1mmH9nskXTFRzSezUHdUcci36Zf1jKvdW,Sybille,Bussetti,2017/06/01,Female,126.78,e469d3b47379b0baf73a6eafe2ed1863,13.1680197,-87.3872748,Containter - 3oz Microwave Rect.,3
+17JGCD1ZxVm4vDFwTkG8pjHrFBtwnA38dL,Felicia,Castagneri,2017/01/05,Female,93.84,2304b8183e1952ae8d473bb8b19b12d9,44.255137,5.262028,"Pepper - Black, Ground",1
+1CYkBEuuCtmMd2VQeAGjXe1QyLEF43LTXx,Walden,Whitmell,2017/07/25,Male,45.89,14a16cffdb63a2215c588d7d44636b71,60.7428382,22.5352853,Cheese - Bakers Cream Cheese,1
+1ECmbxyf3EtE64t9jwf1Hq9ii8ZsebkLV9,Tootsie,Kenworth,2017/07/23,Female,76.16,728c5f87b728a74f4e5ef9170679b494,43.4945737,5.8978018,Appetizer - Escargot Puff,1
+1Ne3xZzesckqfKxLP3Dx9SYjh38t6WjMFJ,Rheta,Caze,2017/02/03,Female,3.99,afb1b472c0fc81ef6ba2c9b2f8c44f2d,39.8772715,69.0254926,Buffalo - Tenderloin,2
+12vWazvgEsd7m4kuJa7xMDPMxkbPHB6sHk,Karisa,Hinrichs,2017/11/20,Female,3.68,510c513476e00d3826f5b75621d095b8,56.9084942,36.234674,Wine - Gewurztraminer Pierre,5
+1EL4uzP6DeWYQQYDLvQZkbmh59Xz9uA4ob,Nanette,Derle,2017/11/11,Female,47.49,64c5a913120d669e14f101fcc1a811a6,56.9362366,60.8962022,Limes,3
+1NM5aWB7sxm5XTHqLcyN1jDNGH2Eq1BdX4,Eustace,Maddie,2017/12/08,Male,141.61,1bed4fc75cad9f0735c3b462cfa37063,-34.6738798,-58.4933597,Tart - Lemon,3
+19pojDNsnkTUmp6xgXViBdhkzDahVCWW3R,Barri,Dawidowicz,2017/03/02,Male,157.48,f1c777079d3b33539df17f3f96df10c5,-3.1941468,114.5361435,Bread - Calabrese Baguette,3
+1L8Yr3KwLAADgoL1duPEFYcLz59W3CnBk,Domingo,Beckley,2017/10/15,Male,27.54,03d06e3404394984cf4fe80aecef4804,-24.7902746,-49.7728757,Plums - Red,3
+1CFQFfCy8w4DB8ZWED3yAyYUpVboQkTnT1,Hershel,Scotts,2017/12/21,Male,45.58,bfaed6739f90aedb998aa9ff69723a46,49.5704312,6.0632054,Oregano - Fresh,5
+165Ukaadat8zR1vqhbeEW4x4Uji3Jsqddp,Tremaine,Semens,2017/08/01,Male,90.47,53be51835e59e8ea7a3e84cd70ce29f8,14.22528,-90.64333,Wine - Peller Estates Late,2
+1BRYYRMibzL8V8Aa6nZ9iTaWtrAedXB8JU,Vitia,Battyll,2017/09/09,Female,212.49,a93e0695108e2b1162b7904a809f4a67,37.120983,114.671935,True - Vue Containers,2
+1GSweDA2V3GGKyXbmTrjvrUqBBPNXk8YGo,Lorena,Spenton,2018/06/19,Female,163.73,e32dbf18c0a305ffba4ab866dec459d6,-7.2117,107.9114,Ice Cream - Super Sandwich,1
+1Mm31111tdeCx2NVvVw9cTJqjcg1GPyQrD,Catharina,Zamorano,2018/01/22,Female,129.93,5ee6047a3c959721a4d7e5a792302f46,30.855065,113.734707,"Beans - Kidney, Canned",3
+1AiLRfaCrxba7EFuRNZibLmobNMGgmSpdE,Yance,Lalor,2017/06/15,Male,91.21,0bb4693bf27800b5cde887c4e3e0c2fd,28.231564,109.621875,Lighter - Bbq,4
+14dzme1ozubUkZCzU7uvabaMHX8SRpiobc,Thornton,Hellin,2018/03/22,Male,123.84,cb87720c7f81148bb36cfb8457315da9,25.8314621,-97.4875048,Cheese - Comte,1
+12HswD2TcZTtUkZG6mnaKs2Q132Abp6ma1,Roslyn,Polack,2017/10/15,Female,58.46,22b8b91e85ec3e1c97cc5e1692988808,13.9214806,-86.1268337,Lettuce - Arugula,3
+18NA9oSRNCWDspj7EoNq65qDrh2zGv1xLq,Hoebart,Pavie,2018/05/07,Male,91.02,6425b86bc1169a87ef75a10d6d7397e3,50.3490504,23.3268124,Spinach - Spinach Leaf,5
+1MHg5wQa5Zeb1y8HPx17YKGR2sXcwpUWSy,Neron,Anfrey,2018/06/04,Male,-51.68,c4a22b41c2cab562d4bdc501207cdea9,46.190375,126.656651,Wine - Jackson Triggs Okonagan,4
+16MkhvnoKezDryhcwaGTyuTKuZaTGGesu8,Britt,Mariet,2017/12/12,Male,111.35,b71186f5b0193e03659ec0f64921c452,-2.0865267,120.6832556,External Supplier,4
+18URtuXVb7CjD7AaotxDBKqBA9EGLeg6oM,Brion,Grigore,2017/07/28,Male,149.9,26ff79a190ee07194c76066fb5b133fd,10.436633,3.8171953,Wine - Chateau Bonnet,2
+1JCzutpuzudjs3MoLBsGZ5Yj5nHZHkA41W,Ode,Mechic,2017/09/09,Male,88.89,1dfc04a44b1ce113363aeae7d218b529,8.955271,126.009711,"Lid - High Heat, Super Clear",1
+1KPCfNvdJMeqc2ivi1KmWUzm2xXfsy75LX,Mil,Benit,2018/05/22,Female,164.4,57f1aaf4819c1081687a6c03624efc1f,31.3505924,119.8021001,"Soup - Beef, Base Mix",4
+1EEznzEVuXEH6d2VKwpntCdnprppBUYc2T,Lula,Guillerman,2017/08/09,Female,87.64,79d4c337a78186c2fa0c4b61cd3cd776,43.247343,0.06251,Wine - Gato Negro Cabernet,1
+1PCm57DVxMKVMkChvuX8wUK2AvvP1iNA9q,Kandace,Kerby,2017/11/12,Female,108.74,df4a4aeb5c2ff907190bcd0a48592578,-7.8013074,111.6541483,Lettuce - Iceberg,3
+18ayMknFPLG6uHhj5Yqy8gGgov3BJ78LBS,Clifford,Girdlestone,2017/02/18,Male,75.9,4b2d2872b9c1a1aedfe1685f1661902a,6.4387946,100.1947477,Irish Cream - Butterscotch,5
+12Gf1GK38oCzcG3VhVmkkq2GDw1U8yFhrB,Willdon,Ferrino,2018/05/01,Male,162.49,b892442eb24d7221eb6a2dd51b034bad,-26.0012842,31.7594384,Bols Melon Liqueur,4
+1PDUQuzAf79FSRHGoyA7pKybiAAcr8GLU1,Milicent,Roddan,2017/09/12,Female,107.53,0b6d52f4bc992262e3c7f0c829b861af,49.7634887,129.7905786,"Jam - Blackberry, 20 Ml Jar",3
+1FDh4DrKkZAdDd8Exnnpp8DNDWuJVCmf9a,Kenon,Turbill,2018/04/11,Male,159.32,25182bd9fe94da30d15a1c7e1b77d095,30.9579533,31.2282958,"Nut - Pine Nuts, Whole",4
+12VY6WvPeHryhNWMUpcf3wMiqkaK6peDP1,Layney,Minney,2017/09/15,Female,168.46,1bbb7709a179785c8b6ef555e34529d2,32.627137,119.257096,"Tart Shells - Barquettes, Savory",5
+1PYzsE1SFdUTbuwRDfFFVCx7XE3rqLFmE4,Homerus,Batkin,2017/12/16,Male,80.62,12931fa7e093b2f1f7471d44e54c32cd,-32.9660173,-60.6596502,Cucumber - English,2
+1HjfY4Eyg9e5r8psfgeQLGQGmeMM2MRamY,Murielle,Jerson,2018/06/01,Female,84.32,e2dde9bec91d249a68bb2ceca76e58d1,48.659828,102.625198,"Pasta - Canelloni, Single Serve",3
+139HDK3rZYPouxnobLn8uD8ZinGFEuDYS5,Crichton,Goodlip,2018/02/27,Male,156.12,e90a1465fb5d03c4690d8877fc0191f1,-8.4942298,118.5360226,"Gin - Gilbeys London, Dry",4
+1DcdApv8jzfur5XHVaaCSs6JChWC5Egs5t,Craggie,Strank,2018/01/02,Male,77.89,866fba496e020e824953de92fa6c0f67,32.7481978,35.3438402,Pan Grease,1
+1HXwCCoCXSThSXdgcm89k8CFq7EPAv86uc,Marni,Sifflett,2017/03/17,Female,137.63,c490daa1a4db08b1a02989fc16e4639b,45.396383,4.3258963,Cookie Choc,3
+1AmG11KFo6hxVrSY3zgWbPvmktxWZyZXa5,Nessa,MacKessock,2017/12/31,Female,92.61,02ddd7033715916ae1295804c3e12342,-6.9661799,112.3561297,"Capon - Breast, Double, Wing On",3
+1DmiUy6AhKZWqR35ATDCfoivxu6DmVtrXK,Cami,Gierek,2018/02/23,Female,23.48,1760b7adf6d748a97168060016d86ef3,29.012339,105.851885,Sugar - Brown,4
+1FZHNFQ4iGJResP3aPdRNgiJgxL2uqhHxX,Bert,Servant,2017/07/21,Female,53.54,89ffceb752b645bb7219e3c620039d55,35.4449242,-5.0937101,Wine - Tio Pepe Sherry Fino,5
+19cpcJZbnnfg8LyQRV4A1DSmnLyzsAH8uA,Kinsley,Dumberell,2017/05/07,Male,157.65,9dd21634aaf7b0662b4203cd2dc7d4d8,50.0622,-96.51669,Bread - White Mini Epi,5
+1Pm93D2JKH3pGeRqJjLa8TqqGThGpj1Afx,Nobe,Chaplin,2017/06/16,Male,64.14,878c2ca74da48dbee5da3e30fe4e455f,-4.1384805,29.803397,"Shrimp - Baby, Cold Water",5
+1NL4yshfbfRQ2cJcqMzGUVHNqXQYsVHeCa,Opalina,Yepiskopov,2017/12/24,Female,-62.79,b707e8ba695c43090bb3fd338bf3240c,6.0343516,124.5217429,Loquat,2
+16Ky2gwTW9cz4MFpSDvAXVQk2iJKRFmavJ,Codi,Janisson,2018/04/15,Female,61.58,328d7c007a4e6b5a7122a6a423bd8823,14.6276215,-87.6075294,Beef Tenderloin Aaa,5
+1LUt18NQFagtTDnsftDHLCnaNcQQFrv6E,Jacynth,Applebee,2017/05/21,Female,105.1,8f580de63f370546554faffe9a5dbc17,25.454084,119.007777,"Wine - White, Riesling, Henry Of",1
+1MTr96U9jwZCwbtBZgrSuZF16H3RyAjwA6,Yolane,Bolver,2018/05/09,Female,124.31,3675082ca5bfe1a318be197029c77698,22.517585,113.39277,Chicken - Whole Fryers,4
+1G5ys44fCxzEuupfvTAPhXAQFo7YBcn1xY,Erinn,Mansuer,2017/09/19,Female,155.7,1c5966c7b65e830d1f5dd8e11279a0e2,48.3245206,35.9379288,Bread - Raisin,4
+1QGBE1BC5i7G23edZTsYAnC8kZRg8ToZtn,Rodrigo,Gyles,2017/05/18,Male,196.53,952f7c4f586523dc9274fa3b1daf1a99,38.1162631,140.8585745,The Pop Shoppe - Cream Soda,1
+156ihaCjPPU8B2Rmvr2HxShCcSXLesAed1,Roanne,Mordie,2018/03/10,Female,64.5,b4bee710475de60f44192e5d5a5bf2a7,43.4945737,5.8978018,Muffin - Mix - Bran And Maple 15l,3
+1H2YcJ5uiuaJW7XNiGTRTXRGr6vqjRcMQ2,Ramona,Lamort,2017/02/20,Female,109.68,9be51757408d0d3538169740881df8f2,27.338257,103.717465,Beer - Mcauslan Apricot,1
+1JRmENTBDnhgJ95TCLHGgYpDACEzY5jA6b,Audie,Rabson,2017/07/09,Female,90.07,e415f8b444360626be890cd4310709a4,50.4086421,36.8953954,"Rum - Cream, Amarula",5
+1NoypNqgfhDcKUaW5pDMmen5q3LG9YY5nf,Ambros,Janosevic,2017/05/08,Male,116.33,9cbf199f6dd5afdc2425412dacc311bb,51.5534631,39.0929181,Wine - Pinot Noir Latour,5
+1DQeppqg81Pa51eQW4oZ11NgBagrbrBcCH,Zondra,McGoogan,2017/09/15,Female,17.24,20bba55c868429465805dd0051419bd0,-6.976504,114.1112351,"Pork - Bacon,back Peameal",3
+12zoeJSddo2u7RBoxefve2QWKmbH9of4tK,Shanon,Mellsop,2017/02/26,Female,95.41,08f5ee3ad001dcc99c002201b123f119,-8.5052,118.6133,"Coconut - Creamed, Pure",1
+13ChqbnLHKMUThV1GaFKs6YMb7S6j3MNjh,Vidovic,Frangello,2017/09/01,Male,128.56,d7db9b7b54dafff72b1599c1cf32c18e,21.3785203,106.0875326,Soupfoamcont12oz 112con,1
+14JZefyyqdLkB5jpyc7AShqC3595uDCHdu,Joe,Sanger,2017/04/18,Male,187.19,18a4c3f5bdab36cc69f815f7eb95ca9c,60.4232195,5.3067543,Samosa - Veg,5
+1F4UCfMC26NWBiWd2tCkYAXMdnYiwcDm7F,Lacie,Cahn,2018/04/16,Female,180.76,99624e101347890211754705e4467bd2,44.2298189,-79.4619506,"Stock - Veal, White",3
+1B7LpANgQEgytz4BzrsrFHAGkRqUntCCnz,Dorthea,Poulston,2017/07/14,Female,-45.95,60137049d0a67f0c036d11fe2ce3a377,35.761829,115.029215,Cranberries - Frozen,1
+1EFiWc8MRPpZbthnVXhAiyaLPh3PZ5VDN8,Ninon,Grane,2017/01/08,Female,125.76,1019f89ea3856198eee02354bf6c80cf,31.9750078,73.6032755,Instant Coffee,2
+1KAMzGE1H4mNFDeJqzBipdF3BZmp4Bb5S2,Alejandro,Coey,2018/05/29,Male,57.45,fa3349ca575d5137de629719f0b11cbb,16.23063,44.58476,Bandage - Flexible Neon,3
+1Cvg7GNYYK4FcDWS7381MT4pLNdDV9gxwb,Ephrem,Lube,2018/03/16,Male,90.59,3421b785d722990da2bd0eb8a9d6e8de,14.033333,-86.466667,Mcgillicuddy Vanilla Schnap,4
+15r4WQJRRvKgAx1mnJxyNMJ2rmZWXek334,Elsworth,Northin,2018/01/22,Male,-16.86,460875bf317b17ad98a2cf7e895daaa6,35.429135,104.030413,Chicken Breast Halal,2
+1PiTnxAWWjRTnstttV98qP3EKNJd7S2teb,Bron,Osinin,2018/02/27,Male,105.97,64b0ff021d885bc1913af5190d574447,-7.051,112.4232,Sunflower Seed Raw,3
+157jJEzzvNQbwkqo6uyE2ZNMEzQVst4dKP,Robbin,Shaw,2017/11/21,Female,195.33,b57ea484b8df5af14a7eb5282d4ab15c,29.859714,113.801133,Orange - Blood,4
+1G12KzX8TPP6Gmtf2vRowkBG5HvaM9QL7W,Tori,Woolacott,2018/02/12,Female,162.24,10494b099532708df20e1ebe3c85452b,45.7013243,-73.9284855,Flour - Strong,5
+1NzhMKGQApEsebhTSXoU61BggpCCjXQeLT,Austin,Heild,2018/02/04,Male,186.13,dd19b3b795793d02710074fff9ab7305,8.5182123,126.1195736,"Spoon - Soup, Plastic",1
+1LT7s5Pd3cx4i7Qra2gRsLmvG2RdcT4Ce2,Salem,Lanaway,2017/05/20,Male,46.77,e0cdedc8d88cebdb4095959c1a7c6e18,-22.455799,-47.0193913,Potatoes - Parissienne,4
+14wcsGQLEJQdUcSdtxuM6QGpnUPqadFxZq,Byron,Deware,2017/12/29,Male,135.09,9a334609252b28b335648ce45d48fe0b,-27.5703548,-48.62059,Wine - Cousino Macul Antiguas,3
+1Ce1zK27XFWABtCbJ2nn2gDr8UMHCeRuBL,Veda,Tofanelli,2018/03/24,Female,104.98,000e30c9b5207d260db1258cfa9f007a,-6.9818839,110.447063,"Veal - Insides, Grains",1
+13J9XyaXanWsrAN6oipFeRqA2NvwSrCFuw,Jakob,Ruzicka,2018/02/28,Male,105.66,7a097ae0164e4d0fc9840089042e0d63,49.62406,20.94789,Sea Urchin,1
+1CrhKAmUEx1MFYxygLUYRgGuoJ7iRCdgF3,Shermie,MacCardle,2018/04/02,Male,-91.79,34f0652569046bafb5a250364bfeaa61,26.433417,110.856622,Bread - Triangle White,3
+1HbwfqppFzapecLpBkYpeyYrYtm31QqCjo,Dell,Hugett,2018/01/05,Female,90.77,d1f671ebe4334ac612fe0be1aeac2309,-22.0699763,-46.5728156,Pastry - Baked Scones - Mini,3
+18d86fGAPvPgbwF5zGscbBSYXw24Hog5k7,Ronnica,Traynor,2017/11/09,Female,-14.52,1c8aecb0f1d9d7324af464111687ad61,22.58405,113.093384,Bacardi Limon,3
+1QDnAL2PcQgcYTLSisEGBDkNfReqmFhwXd,Lindsey,Wintle,2018/01/12,Female,130.49,6969dc9f24ab2d4c35f423660f7d9833,56.0446874,99.5285704,Island Oasis - Cappucino Mix,1
+1KooERM5hM6JeawmZ8MxtkfLQipE7PmDLi,Rodger,Ship,2018/04/03,Male,-63.76,d1f61b299374b610fec4fd3adaed16b6,-8.2637032,113.5371368,Veal - Striploin,1
+1DDRPm3FbSk958ZLGNtiaRoedLQ9DKvKax,Sheri,Conachy,2017/01/23,Female,84.23,8fc6fb80f80a6e11e43c55d0c0971032,39.43806,127.24306,Corn Kernels - Frozen,4
+17XhPBrgTuB8LynpqxnRk7awKx7a82fPpX,Chloe,Dougary,2017/09/05,Female,-36.8,c5c12e20ca398aa81d28d57be8560f2d,32.187849,119.425836,Bread - French Baquette,3
+1JPeaxaEMs3BsLEUMj7i3UYfFewTd2Ee1f,Lissa,McCourtie,2017/05/14,Female,16.2,bab84fbf1234feceb364e791dd8a54fd,57.9331563,55.34672,Dooleys Toffee,1
+131r23y27ntvHCpzCdnvUB5Me6Ew4t7UJa,Dal,Ommundsen,2017/06/22,Male,106.97,9eaa468015d992b569eb73bb94bb6f13,7.3750631,-6.4769877,"Mushroom - Morels, Dry",2
+13qXFaXxskKkqtUwvHzFHfoCzHUCQjwgWz,Cecil,Bosher,2017/01/24,Male,55.93,13089ff437889576321eda4be37238ad,41.9914135,121.6412579,Bread - French Stick,4
+1AEjaC4HX83TyyB7rVmDxdp6QesmcuLrAn,Lowe,Nickoles,2017/10/20,Male,-1.16,25ac8f323ff248d667183df7869416e8,54.0474092,38.404411,Cheese Cloth,3
+1Mn6ietWnV7rvSb2JGkHMJZkZMZk28C5T7,Rasla,Chavez,2018/03/20,Female,108.98,9be88d58612f788d8522597b44020db4,-8.8228841,120.2570421,Fish - Bones,3
+19Ly97Q7bhHkyZK9qpYKmp6NcJyHQVdHs4,Clifford,Clingoe,2017/06/09,Male,69.37,80065612c1ef96ecb03db4f8b38f7805,40.3172129,-8.7543161,Pomegranates,4
+1QAraQsUSE3RN1aTqricopSUoVkAF1NVzW,Seth,Wheatcroft,2017/10/04,Male,60.69,2e5e06158536ef4d98640a223b8715e4,34.2582539,117.1884772,Longos - Lasagna Veg,2
+12xRQzefmSU6ap3bF8wUiBLXik3VkvMsDS,Nikkie,Thom,2017/10/24,Female,147.64,c23fc785100868683b9eea910bf4528c,18.6316742,105.629523,Soup - Campbells Beef Stew,3
+1L8NtCiFEa7Kecu8jLBD5MnxTT1DU8oHZ7,Caron,Dugan,2018/01/09,Female,38.7,2f1d325f58ba7250a829d5b64d76417b,45.506995,124.292626,Grouper - Fresh,1
+128NHh8HNRpytz6tk9qQ6gSYvu7QPsfH4H,Staci,Sandom,2018/05/24,Female,91.3,f2e81b21934aa6eb10e83d18d6333d69,38.3559764,140.3748668,Pasta - Agnolotti - Butternut,5
+1FWQwfjpGCN82uT5oSWCPkPeRQZa3kUFin,Wilona,Tamlett,2017/05/03,Female,-48.39,32c419166022d31502ae01c3e1bd6f62,34.3507417,135.6964987,English Muffin,3
+1763up3ZTAkvx5Rce8z1FZRbpfcxJ84Mje,Charmine,Zavattero,2017/05/03,Female,76.65,f3c112bb4c34b5d7c55fcb0986f6f5d3,13.78851,100.33334,Dry Ice,1
+1D6UcWkujVizYua8YyBiPUNNCNpq5Gg9Si,Jens,Rochelle,2018/04/29,Male,250.31,ca79f82b800f5a06b84e8bc472dfab20,-34.3048508,-58.7739249,"Pasta - Orzo, Dry",2
+1LhtNYNTGHr6oFU4SL48LB5GrbXkPgByuZ,Ardelle,Demangeon,2017/02/25,Female,112.8,638fd3a2bb9eee6b93ae7708b8b68613,38.371402,117.329949,Monkfish - Fresh,2
+1GhUpQgNkYM9FxAs5MrZsVhW8TYqn5Z3t4,Vinni,Lates,2017/11/25,Female,-15.21,d43b0d72e783e6cbc38521dae2248fee,17.0521348,121.7050399,Bread - Sour Sticks With Onion,2
+13btk4ofqQqURvUvTa7bcMDqifNBRKSg4t,Teresita,Abry,2017/11/07,Female,137.5,4d29fc5c8073a7d60523c1a50a90e95c,49.47512,-123.75903,Table Cloth 81x81 Colour,5
+16KCUY61nipZ1WsHGG8T6afQ8FpUVMwGzs,Vanni,Shrubsall,2017/08/29,Female,-0.98,5b3f3fab3d088287e3274174eab6b060,43.4945737,5.8978018,Wine - Montecillo Rioja Crianza,2
+19huZBGniSR1e9m63x9q3PfcpQoyKqApK1,Onfre,Salzen,2017/03/06,Male,106.61,a7539a2396b7b617086aa4188fb10f54,19.2000657,-98.8016731,"Chocolate - Semi Sweet, Calets",4
+17FueruozBkHB3NwDxLo1Y633w78tzJsYq,Schuyler,Bownass,2018/02/24,Male,15.94,3cfd2fd6c024200fba65e5fe4d288bf8,4.7703172,-76.0623979,Instant Coffee,5
+16bgE7YaTXeSbgGX1CGqWw9ibpJ7tdzvAW,Mike,Ballantine,2017/02/26,Male,180.0,e078801be7cbc052460b7637ed01ae28,35.414982,116.587282,Wine - Pinot Noir Pond Haddock,2
+1NNN7ACdKPgzza1qQQnb2X45fTWZJPfNbr,Betti,Milliere,2017/06/19,Female,121.21,2a04d15e4188f8981ea0aeab37fbf550,-9.7936959,29.0809012,Soup - Campbells Beef Stew,5
+1EAwvAhcxbTBRt42zt3mooD1TbqjVbZ6wQ,Dacie,Akid,2017/07/15,Female,105.81,bf5ee8495bcba6525a5a14b673c89eef,13.9483457,100.791665,Flour - Bread,1
+1B7BKwpp76A7NZMVTTWfuaYHZN7j9CcM27,Valentine,Penniell,2017/11/08,Female,72.05,3bcf7499dee3978f075e9cf86de865c6,40.9282833,24.3057691,Eggplant - Regular,4
+1FiYBQHLz9CBJcRRc3M4brm1av24HSQWZm,Kiersten,Brydell,2017/09/02,Female,114.83,5a0b4c42aadae29a86aeed7bc14ebc85,13.9426434,45.6787098,Wine - Cave Springs Dry Riesling,1
+1LVtEaYgr1RZmJqcG6ptV6yxSBD8tDVjjB,Ashley,Favell,2017/10/21,Male,243.13,06ae8940bfb1511a00deb1796e532899,41.91583,21.53056,Food Colouring - Green,1
+1KVaw5rayrGjkqnbFp9CoNXdYD7MXH2WiW,Stephanus,Eberst,2017/10/10,Male,39.83,6afa567576a26f174aae89e17ee03ae4,52.454148,-1.7138034,Muffin - Mix - Mango Sour Cherry,3
+1H1kp7NUVCsXPAizWa4RRBKbrVuYnEnmp2,Ingrid,Ellaman,2018/06/01,Female,-13.98,e284c7b2cdbaf9b5119359d9ec887330,43.933411,116.086032,Icecream - Dibs,4
+1HqGC9SaPQNxk6iK3rorykAmjRF4zT9g1q,Fax,Talby,2017/05/09,Male,99.91,5430cc08a628f13302fa719affb645e4,24.674624,102.904318,Cake - Sheet Strawberry,3
+17fAeCnhcN58Gnusd2E7Tj1pPPkrJ7KUt4,Stefa,Bourchier,2017/07/04,Female,-24.17,4c01b2a6cd1392dd3d6f00760c6ada04,55.86667,37.5,Tamarind Paste,2
+1Bh3FAP8jAJGCbV1xnZrEnK8DTmxtuWAJN,Fianna,Carcas,2017/08/12,Female,188.26,16e63088577bf96c21a93ef07d12a90c,59.3257396,14.0908934,Garbage Bag - Clear,5
+1HZtXwsoJUZS3qNtRu5Fs5B2M5XrRM395H,Gearard,Quinnelly,2017/07/05,Male,-3.06,fae6860f1060a5419183dd2fd9fbd521,31.746017,120.803452,Tea - Black Currant,2
+1KDrnJWbiWJBcirFMybq45XtPbPG1u1Xmn,Jorie,Salandino,2017/03/12,Female,153.04,1ed596c70427b4e52d975439997aa2d9,51.5607333,43.1402151,Beef - Short Ribs,5
+1E7kjdkga8qqkMMWA1XRgLpjwqjkjXJJma,Thedrick,Norbury,2018/04/12,Male,195.34,8f57f38b08e64fac6ff9e452319c0b30,41.87148,22.28961,Radish,2
+1J5BBFhEboWk82Ft6SGuPhBoCgSuDdNDwA,Alie,Moretto,2018/06/20,Female,61.95,73e328de375931dbbe319ad39f8b71da,-9.916667,-75.783333,Sprouts Dikon,1
+1JAPbKAEUsYw7Kz7xJefxwEnRESMp41No,Magdalene,Bygrave,2018/01/01,Female,6.47,09d5f3899cea5235cca4128af60bea25,13.8345621,121.3967768,Blueberries,3
+1EVwfpuWX6mD8toxSza8XuzUa2Z49Qo6zA,Vernen,Kiddle,2017/05/31,Male,124.54,cbc2447c73c814c5c7c98b6ba1d476d9,53.6693538,23.8131306,Spring Roll Wrappers,1
+1PiSwTjrYaBAZp7oCgf4CRA2vRrKoPnLaX,Petra,Izatson,2017/05/21,Female,107.63,6f710bb88d0427342e99670895de5290,14.413539,-90.633471,"Olives - Green, Pitted",4
+19GmnQerjKzedRK6hzWJfuUzZtikqtqEDr,Jeromy,Rusling,2018/04/01,Male,-0.97,2dce81de3d3bcb696eb072265e3b9291,-6.1317103,106.5202368,Toothpick Frilled,5
+1CzcajPJ1hetEYykqkaQQwpXB9PktuWWZA,Randie,Durkin,2017/09/16,Female,212.61,560f482ee1eec26a2854865c8e03db07,14.5849522,121.0777423,Bread - Assorted Rolls,2
+14nMSrXxsDGtwSPmBsP6f2vsdexXu1xyUU,Gweneth,Anstis,2017/04/19,Female,152.05,bfe8b1e151204880cf22bc64385e796d,59.0490896,60.5974703,Soho Lychee Liqueur,2
+1GvZN4K5N1d1Vff7XPsyNkTsvVb43zZymS,Luce,Upfold,2017/12/22,Female,155.89,8675aaddeabf5adde8ea30ac8dd7534c,28.1499543,129.244362,"Pasta - Rotini, Dry",3
+18WaKLdu8D7iqWnMfXCPza8664PTysXZKz,Roz,Rosborough,2018/06/12,Female,50.93,9d38bf63ead8e0ae3ea9232cc1da819c,54.1433253,-9.7359765,Butter Balls Salted,3
+18GmfYAzoogoWY9jrCsH14iLtcn19kaebK,Christoph,Albisser,2018/06/22,Male,77.72,ede7ea1dd0f47e714b9695f0ae77b652,41.561877,108.925428,Shortbread - Cookie Crumbs,4
+194ACLXfYCBaUUFa9xrqo4U6z9aLt7icE,Gabi,Birwhistle,2017/12/07,Male,23.68,b390bc55202b090f9438c60d23ad1c4f,38.7993886,-9.3855593,Cheese - Mix,4
+156Epd3DTTnmxeuiXzizh5ZLqAc8YoVfGo,Boony,Canby,2017/09/09,Male,74.22,6aac6250fa0a5ab09ce982e19ac99467,29.086221,119.571633,Kale - Red,2
+1nqM5F1Cy8LDX9Hz9j5wiMKLUhEz7Dtqz,Hildagarde,Aleksandrov,2017/12/02,Female,48.28,92ce3a4d4f42ae9cb30a7df197919e06,53.0662784,19.2876039,Kiwi,1
+19HsFHFSYN1bvEUemz4yKeV5mBKKG571Q6,Dun,Tenney,2017/06/08,Male,99.37,da2e67a5906036f0e22f4d78d7a9a219,31.37389,34.34085,Southern Comfort,4
+15fYziVxsCgxUMsVBpct4guA8BWomFFdMJ,Rudy,Carss,2017/08/16,Male,183.13,ff0194c27dd8edc5f3e7c2bb96658f8f,-7.4220343,106.7529514,Waffle Stix,3
+168dh9Sjt4SEWy3mEz9QRrykuGMboZeZu5,Perri,Aisman,2018/01/01,Female,117.7,39223f86a9679c5a7dacabcffc90b5a8,23.354091,116.681972,Daikon Radish,4
+1L2vh42UnK3yBqzuojxTXsiN6RGVCBqdJ6,Adolphus,De Ruggero,2017/03/18,Male,157.17,bc1c7072fcca71b997f2e40387f6742f,-19.4959312,-41.0713439,"Lamb - Shoulder, Boneless",5
+1A8v5L1dirWZdGMCibCNU3ZrhEqPdUdjWA,Meghann,Heggman,2017/09/11,Female,-66.33,7527747917f0e0999b06565a92b401d9,-7.6568317,110.3392399,Potatoes - Parissienne,3
+1Q1Pq2RDbJ7DECcqdk3bkiucdRKkPZi43z,Rip,Mullaly,2017/10/23,Male,31.17,19f9a3b7d4849dab5534d0fbdd14344a,7.5129005,124.9562226,Soup - Campbells Beef Strogonoff,5
+13Z3Sh483x9iGugM7k5jqsKKUiyQaGUFS3,Anderson,Gerger,2018/02/10,Male,45.5,60be4d324ca49dd5d4d7c60bebf9a174,10.2441931,-67.6066164,Dip - Tapenade,2
+1BmqjD8WPLi9dQDPAcp9LCBshYrJQWJmj1,Cherise,Menichi,2017/01/13,Female,79.28,6e7b75acf52a672a0d783178e4d4833f,37.2484774,138.4445735,Ice Cream - Strawberry,4
+1DCYtM9WtiZrDnvrEZJyrGS3rbps4aHMYH,Wendall,Woofenden,2017/03/28,Male,131.57,5389626ecefef9a61a9cad959e1468af,25.403263,104.828238,"Zucchini - Mini, Green",4
+1NngsgfpBW3uUXGqVm68UZfGmWLKPSD6iz,Boniface,Olesen,2017/07/01,Male,116.96,fc1bb9b8d71c62a3daed28d84744ec5b,6.2582292,6.3066585,Orange - Tangerine,4
+12Uu2noBWBoHbVALhLFEzJM3GFjS5Uo2MY,Morrie,Double,2018/03/18,Male,103.91,5e428d1374e07b34027f3a66f9da157d,25.112046,99.161761,Chicken Breast Halal,1
+1EDvwjG6JouRuqoZitdSgtezrCz7tgZB3C,Lief,Whelband,2018/06/10,Male,122.56,980e7b3c1c87ed425b6fd42d54bb862f,-35.0234334,-63.5803937,Shrimp - Black Tiger 26/30,2
+12B9SoskVp8HvF5yoTJjx1xoWMh3qoJBYj,Dorthy,Mussetti,2017/07/28,Female,171.79,d7bb7518e1c91d4c597f1a3126c5aa36,9.9868231,-84.3692925,Mint - Fresh,3
+1NZTZSAxwtjWWBq79KuatdpVJ6Nra4GGNW,Elisha,Padrick,2018/06/28,Male,227.2,9950bfb2e4e72b82b4e08b9fefe5e575,39.803681,112.073298,Fond - Neutral,1
+181CA8mebNv36g1mfLmGrStgdxMTF82QQw,Hernando,Coppard,2017/10/04,Male,35.47,342e4463f134f66cbca1014d756712c1,15.1274943,104.5757366,"Beans - Fava, Canned",2
+1GeC2LDJ76Cjio5DgBui57sgEdF9xshRuu,Danyelle,Rembrant,2017/08/23,Female,90.56,c56768413ca189eaa06182e31c2dc76a,52.1474235,20.4745018,"Cheese - Havarti, Roasted Garlic",2
+1L2WwF9zLZsy6UyLbbqbfG4tWf1WnQi3fN,Humphrey,Kirwood,2017/02/18,Male,53.26,8a1c328c98231cb6f78fbbfe62f682c9,35.315039,113.908772,Petite Baguette,3
+1MbLDBFx5naqAMr5DvQ9rvPXZGJfZrN9Ts,Ameline,Watmore,2018/02/03,Female,179.47,6e80814cee949f558a12815b907cb239,-34.4922897,-58.6799941,Mountain Dew,5
+15z3iyq6XE268MsmEepQSegYP6YedncTb7,Bethina,McMonnies,2017/10/06,Female,159.57,24cdd90ab67eb08d962c6a20b4e04984,1.3105389,103.925603,Food Colouring - Orange,2
+1B4XtfrLsxkvheC6x6z8HqnxMVeS124G1L,Katherine,Kegley,2018/06/19,Female,24.02,46f0ca64f74127392c883404b7dc848e,14.609371,-61.07256,Chocolate - Semi Sweet,3
+1AAihgtGsv5iUd3LULbnagzbDsRyAxHfKD,Janey,Sperling,2017/12/18,Female,247.61,425fdf3f4c3aae4b3f4ce982091c1bd2,61.7065022,26.6110106,Toothpick Frilled,2
+148UeztYaAYHw3M9hAffMYi16M5guGtw4U,Heloise,Rooson,2018/02/21,Female,92.73,6b8f825924843f23693d29937204d93c,31.598328,98.326906,Sage Derby,1
+12CzwawZEZ75DWHGbHMxYgdGutCAWzGP8f,Nichols,Morden,2017/03/29,Male,175.32,907da05feaed4b073d0432b57f29a164,23.113478,113.417068,Bread - Hamburger Buns,3
+13FB99KCwraJniSNttAnLEDFMuVchZs7Jt,Yulma,Malimoe,2018/01/25,Male,21.8,61becd1bb07c68b3c9bb2d158311f5f3,19.992977,105.8451758,"Rum - Coconut, Malibu",5
+16W5C7eVKULcN5hT6sGB6mNrDC5wZdb1Rv,Christina,Entwistle,2017/04/29,Female,11.37,c2c2f86c6b669b90ac6c6734a5bc85a6,51.4753297,46.1136773,Sauerkraut,5
+1GKC2dk8G2KGY7Twzbwre5z3ZaCVQwxnRh,Gabbie,Insworth,2017/09/03,Male,120.14,8a213550b655fda1bb5a2f1dbda0b829,15.8507092,120.3947577,Cabbage Roll,5
+1KeH4fAtEsdyyyS4ALkurNQbxehMWAwVz3,Kaine,Benthall,2017/06/04,Male,24.95,0e0d855f0cb110157694246bbe97d8a3,39.04472,65.59082,"Wine - Saint - Bris 2002, Sauv",2
+12T4KniQJW6oXu2rbWQmaFp8U8unaXnH2z,Mario,Tullis,2017/03/12,Male,221.84,b94b520284089a5b5da959e2046b57c2,49.8279218,22.3924149,Cheese - Ricotta,2
+1DBJKyRtXXM6Vf8ELaxf9A3KMkqUPiwqgC,Berke,Volcker,2018/05/04,Male,19.81,3241a328f742879a676daa88ae1cd2c0,54.6680772,25.1126281,Calypso - Strawberry Lemonade,2
+1AeiUshGte83DkEoECecqazoLQPqv9SFaD,Chad,Thurley,2017/06/07,Male,-50.05,ce5cc197e77929b0dfc6ac9a5baa70f5,34.0599302,-118.249786,Trout - Smoked,1
+1LDN8EFu4e1pGECBTn95xGv6XtHMMVJCv5,Alisa,Nurcombe,2017/08/28,Female,121.08,a219a07adad3a74c3e7697cfd7216a1c,22.948016,113.366904,Water Chestnut - Canned,1
+16CaQh3XGfX572qoQSqb9vytStASrkcBPa,Chrystel,St Clair,2017/09/15,Female,90.13,36406226ade1e812bcd5e594f94de47f,-23.4794456,-46.382126,Corn Meal,4
+16eTcEeEYm4ToppgG7Nh3Njpqq7n8d98gK,Johnathan,MacGeffen,2017/07/29,Male,172.59,9bf7497091306b676719a74eee6895c2,-7.4468,108.00217,Sugar - White Packet,3
+13WWhzg9biUujHCi1BJHsRpRD57TqmsM9X,Theobald,Chezier,2017/11/11,Male,130.06,68ea6784e078f2bc30cc41d95d94f3d6,23.1350488,113.29083,Appetizer - Southwestern,4
+1JcqfeyYF2uiFWCCRQKPpMZonEzHmsznXx,Doti,Ozintsev,2017/04/26,Female,94.02,b5f8435c7ba330343167bf70ada552f2,45.53338,-73.21585,Bag - Regular Kraft 20 Lb,3
+17encVhDmbare48kgbpZauPGmWfd5Efvwp,Meaghan,Dargavel,2017/01/14,Female,75.85,3d862e3434b094ed12cfd2109838ee62,9.3257165,-73.8654295,Coriander - Seed,3
+1DE7kb5pJNkq5pzxoMj3axsguBSNwgjMi3,Lefty,Pressnell,2018/01/29,Male,10.82,ab8ba72cd6f939c736d5905e56f21031,16.084073,120.026896,"Wine - Red, Cabernet Sauvignon",5
+1ESHph2YtsEzoZW1igGyfta8shocKxVraa,Fair,Sparrow,2018/06/21,Male,-4.1,dbf7e25f9c9f1d593c2002267829d608,0.8639157,-77.5529475,Cups 10oz Trans,5
+1BjB4RAAcZL3cjVEMx4c9J9XRHAzkoFFrV,Marwin,Chiles,2017/11/09,Male,175.7,070f46dad0d07c574dcb36f1a6ab55b8,53.3004898,-6.2634596,Beef - Striploin,3
+1EAVKRT1V9cSN8re2jHf2cAREq6HVVDS9E,Merlina,Braithwait,2018/04/28,Female,94.31,260a4ebe0f2008a9b144fe5ac1bb15a5,6.9280156,79.8908308,Lettuce Romaine Chopped,3
+1Gqo5PxvumWcAUSihM7XVbvrj3Urx9ZyKQ,Ivan,Vickarman,2018/01/01,Male,174.28,74fdfd56e66694a2b05e857f99c795b0,59.3606836,17.9701456,Energy - Boo - Koo,3
+1LNUL3ufHMNXmGbVdBYEbvhjojRkEAbZ2f,Marita,Suero,2018/01/14,Female,154.38,86919d68bfd5557fcaf2e9e1705c6bd7,49.6617919,32.0477111,Mustard - Individual Pkg,4
+1617jPpmUWByyQ2yP1AeTto8rBSM5DK6rm,Galen,Giottoi,2017/05/30,Male,92.63,2c65c8aa043c7fa49e2a47b7579b1d29,39.927952,21.80854,Bread - 10 Grain Parisian,3
+127c1uQ11NuabStJ8smBDDji2qBkTPFTnU,Judi,Caser,2018/04/25,Female,148.11,f744e34b44cf4f4f4962a280448a1812,34.014215,105.298756,Filo Dough,4
+1MxxX211aDpi2NkiUtkrg7x8X5PLRvbTJr,Dewie,Raittie,2017/08/11,Male,156.78,b21153d4532493eba0f6dde2f5edfac4,42.5246357,87.5395855,Wine - Redchard Merritt,1
+1KqbrUjSD7eYwCXzQfswjwoAjt3Dr2QRzu,Patrizius,Rumble,2017/08/09,Male,-38.15,657fa38684f43623d1309d9dde1c351b,6.6450416,125.3013286,Crackers - Trio,2
+14Dh8ohXb71dnoA4ejuip3GqTFMtR6Dn9W,Heddi,McGilvra,2018/05/07,Female,155.45,2025a8691393b938fcf6f900997218e8,-3.3728836,29.1448793,Soup - Campbells Bean Medley,5
+13M6Bf32LtMHTn5bsqBW6WuFV8xgnEUHLJ,Randie,Iacomettii,2018/06/05,Male,130.05,b002e705dd5f43eac32e19c1b727661a,12.6612116,-0.5683399,Lotus Rootlets - Canned,3
+1B7DB3yUF1TE2aUdVVjAGc9nuwi8pHxSxT,Merrie,Mapstone,2017/06/19,Female,-17.48,c476d62af0316658833d6c46f92e048b,52.0296117,5.1841395,"Turnip - White, Organic",2
+1JP6scXcZ4pWk1geGHs4mKqbxhDojvyc4x,Bernie,Ballintime,2018/02/28,Male,-65.25,9da1432a88083455082f50a18df1514c,10.527138,122.813931,Beer - Molson Excel,4
+1K157VhTwAUjMYWCiKkESEykQZwdCSJZa6,Lammond,Mourgue,2018/06/15,Male,100.59,aeecf401555e68a58be8eef2b88fe809,38.2589551,140.3422958,Sambuca - Opal Nera,5
+1E5bs4uU9Mj6qJKaAz1FJRPYD2escmLPzv,Marje,Arboin,2017/11/08,Female,87.4,328be2e8c41758eed36debb040e038c1,14.6279122,121.0034428,Halibut - Steaks,3
+14h527mkPr68Rr1p2Z1JuiGvaL2n1JiWPu,Corina,Hawse,2018/06/28,Female,135.48,208c38c1ba63ba57383a3c34d7e042d5,32.200197,118.41697,Bread - Olive,2
+1MNgiVH8ehqhWNUk75bk4SDbmdJmnaKeM6,Ronald,Farrington,2017/09/24,Male,6.27,7bbbf42eb42b28a650556f8d6005f333,-8.4034458,112.5391259,Butter Sweet,4
+1NG9YhXYDhPm5M8cbze8DgJT13ok7BPMVG,Daryle,Lefley,2018/03/29,Male,1.95,94af50c1ef0154636bdf4be3d6894ef7,43.9763746,4.9052738,Tea - Herbal Orange Spice,5
+1PdDKv8vqvCvjeG7EBbv4T2NGztZ9aXYPR,Ruperto,Rubberts,2017/04/28,Male,52.91,7d18a451178b3c5361b85242d023ff20,38.9693412,-9.1822048,Plastic Arrow Stir Stick,2
+1MEKErGuQu1ZaG9TYSJzUyUAmjdnb42YDU,Karney,Hains,2017/02/24,Male,179.91,88762dbd3c15b504d60fb957962a6f0f,-8.7833,121.219,Wasabi Paste,4
+18pFHgeVi7Yf5hzkHL6P4QTet1YGHWAt9T,Bibbie,Mauvin,2017/11/13,Female,165.3,06f08f8f893bb7ae125da417c48c6e65,22.788341,113.152357,Cardamon Ground,2
+14XhiXmnpr93paLv4nFXg8VTn9RYQgmdkq,Thibaut,Carlett,2018/06/27,Male,121.64,26ee11e56ad4e3c72d86dff18900c047,25.6798529,-100.3622461,Cheese - Parmesan Cubes,3
+1FR31nUcbM1atTD7NJde9gLcFvyTQ2oD5R,Benito,Gookey,2018/06/20,Male,211.42,cd88d146bf3b857c3113a5c87d644ba7,38.238247,114.491954,Basil - Fresh,4
+16ZnNFYE2onY9d8kdB2zaXJRnmuSPxef97,Martyn,Kubelka,2017/03/31,Male,147.44,44f21037f42b836c50385563178d0b83,9.2534438,-70.2497616,Bacon Strip Precooked,2
+1BiyoMDaj5RVPRkjkQ4p92KaH3DFga7wzC,Thadeus,Capron,2017/09/10,Male,133.66,1df0e051ad8253c9c55da1ce72cd3a22,9.9578348,124.1789637,Dried Peach,4
+1LWRWrKinkh3d17adXZ7v87qdK7Z9iULpU,Stesha,Breinl,2017/05/30,Female,128.35,15e5801cfadb323fdc263522c10c7501,-15.3612378,-70.3628516,"Capon - Breast, Double, Wing On",2
+18iwZrKF6t73nPscMmXA5YWaL4uYAvZDds,Cassandre,Osipenko,2017/01/06,Female,145.49,b7267adcd5d1d0a0cfcc6c79fab12c2c,-7.266667,111.866667,Tomatoes - Grape,3
+1PB8E2xxUKcSS7QtCtELgQfzQVWywHBhxv,Ursa,Trussman,2017/09/16,Female,116.17,5c0e52b921010e322e9093d66331f2c3,18.2505167,103.4910621,Apple - Granny Smith,1
+1Ns5zYyWrjM9ubpppLHrEJBQ7V487WXvsd,Correy,Bamlett,2017/07/14,Female,176.14,ca5c311c70b47662196b1abe0194b9b1,51.9166667,-8.05,Gooseberry,1
+14BCNSecbvYWdPPwiX1eE859cGbYydG4ef,Frankie,de Pinna,2018/03/10,Female,85.56,119bf2ffc16b5254de798bf7c09c87ed,8.1087597,-11.8478324,Coffee - Frthy Coffee Crisp,5
+16zXa759z8hH4r5VhSPs3STvc39TWM7w5a,Evie,Stairs,2017/09/25,Female,80.42,e2798ae8a25b55dd9bda3bd133ffb4d6,43.4968733,-1.4703339,Ham - Cooked Italian,5
+1LuFE2P5qnvbvyH2FUbAKPdobHgWTYpLX9,Edan,Jinda,2017/11/26,Male,76.35,8f839174a99ee3c73c5f772a3b8d5794,34.9810045,35.9438027,"Sauce - Gravy, Au Jus, Mix",2
+17MbTzyUeMJWWMZ5iBZSouxzxrfiFiWdDs,Mel,Saward,2018/03/11,Male,37.28,3ce097f89f5012125428aecba30402fa,47.009324,28.8389611,"Wine - White, Cooking",2
+1GNbHAzHs1RMZND4ZXCrFVH1WSabFaip4t,Ilario,Cottie,2018/03/04,Male,174.4,d65d2821a529852962cfdb176ad25884,23.460728,113.151596,Bread - English Muffin,2
+1JqG3XKpdL8KNw1NAZKYnCVCjLLNdugBaX,Chiquita,Buxcy,2018/05/12,Female,128.89,6fb669b3aa69e77b461e95ff74e74b27,26.312444,99.850365,Compound - Passion Fruit,3
+1Lq4778LSH2C8zuqDsdyHnzezyFvPszMvh,Janeta,Bamsey,2017/05/15,Female,132.86,9abe1b3f169b26f471724ebba6113223,43.0052216,71.513917,Otomegusa Dashi Konbu,1
+1BELuNY33aJzQrG3eyi1CT5vo71Low28Mh,Zach,Howlin,2017/08/25,Male,51.17,a0928c9c6d0bb495a4910a00fd6a67cf,20.7365652,-76.331889,Scallops 60/80 Iqf,1
+175F6mGgvpybrzKJ5WHRz1Jt8Ag5k3Marh,Darryl,Sowersby,2017/03/12,Female,86.24,fcce3ea0cc61ecb1e48a441e21c41213,52.7107501,-8.5054897,Compound - Mocha,2
+1HMzBsuYYhqmcSMe6DCfzQqtdtd4EwqV3c,Shir,Briant,2017/06/10,Female,59.46,fd55d6d5fdc35b80ce1582a96bf57289,48.6945174,110.1901958,Cream - 18%,4
+1Gga6nyb7w62FiwXn7fnimdvnHFsiHdwsL,Rudolf,Kapiloff,2018/06/29,Male,95.4,63a5b6641e0e24d04dd4bb2c6befef42,38.0765476,-84.5955732,Smirnoff Green Apple Twist,4
+1imS85Snv68NRcq4M5GiXdw5fWcc1QiU3,Carroll,Seckom,2017/10/07,Male,125.6,d05821837158be1f94ecf35b71a79af8,25.9182262,13.9260001,"Tea - Darjeeling, Azzura",5
+1Fb6UxYM9HGH31UmM1hNTScLxJvTyobaao,Skippy,Headings,2017/11/24,Male,-2.31,69838da03b6ba56762392cef4d1564c2,43.3582371,19.3512591,Beef - Rib Eye Aaa,4
+1GaCGmxX3J4iYnyx6LaHhQDcPLg4nnupvy,Cully,Landell,2017/01/27,Male,141.69,835f6149169ec4cdc85b8f50d7ef1547,-25.0263578,33.1070309,Napkin - Beverage 1 Ply,5
+184fowZtH7g4mT2aouYHUfAhHcmD3mh1qi,Tynan,Blackmoor,2018/02/07,Male,74.34,11acd4e8c0feb475e632d69f05e5dbd5,46.218184,15.38742,Wine - Vovray Sec Domaine Huet,4
+12ostyUtiJMyMadanZCqbwa1fKoG7iEaap,Austina,Gilardoni,2018/02/17,Female,108.54,e539ff14d0c7876de1d6729750b3a085,56.7477877,37.1492786,Muffin Batt - Blueberry Passion,3
+19HkPVqZMUw2D6dn3KxhDX9UywBWvcxvTV,Cortie,Le Houx,2018/04/30,Male,184.34,4a2103e72c2ba454d7e6dff6b9269053,33.006729,114.362379,Pork Salted Bellies,1
+192nBQoZh47Y8eUPKroaF8zu2m21tE4F5d,Victor,Klimke,2017/08/17,Male,32.97,106231389c83deee29baa6927bc4bead,29.76,-95.36,Breakfast Quesadillas,1
+131SkpgDBjkrXUrpoaesMenUkAeQhBfHJY,Byram,Endrizzi,2017/01/13,Male,129.18,0782dd798406669272d1def0a8641b9f,23.3362272,112.7222244,Juice - Ocean Spray Cranberry,5
+1GPjMWvMCif4cXP3d2Nx48kpfaMoU1bCVr,Gabie,Bosomworth,2018/05/15,Female,33.87,f715e1b77ff977b2a433229bde84f248,-7.6247732,110.2951364,Daves Island Stinger,4
+1NzoL5f7JjyKFCkVB9tTYYmf97Atxedn7Q,Natassia,Scrivens,2017/01/09,Female,52.7,e4b3c03cbd84d7f3287684e78ec7aa99,49.8461722,29.0542223,Lamb - Loin Chops,1
+1CFxXh4EtuLvW5uXMR9b3BDpXyJZrdVS3P,Alana,Knaggs,2017/06/09,Female,65.9,7a7d27784de2201b74a37220991cfce5,23.681533,110.584168,"Vermouth - White, Cinzano",2
+1ABuGKrTURuyT2mi3vcBJqXPSCJZA9sPXD,Karleen,Rumbold,2017/07/20,Female,62.07,8dc685423852164295ddac1e5bdb5069,8.2825028,124.711647,Beer - Labatt Blue,1
+1DNdqmqKNVrhLfeoyZysCqaoNE5LVuRvaX,Lilias,Kernan,2017/01/08,Female,-4.29,7ff08898ce6c87bab417cbc396781dc4,58.0819675,55.8727412,V8 - Berry Blend,1
+1P9ZcdkLMhy3rvVVn11tFJcQ2YV64UZKLV,Constantia,Blenkinship,2017/04/12,Female,188.32,d8629e271dc5425bd02add9e305397d9,14.563178,121.033482,Spice - Pepper Portions,1
+1K5BxZMYVmTjJisUEjma7i1coGba2hZfKC,Dulcia,Arrandale,2018/06/22,Female,33.94,423d85a9de6ee945b509ee180f3b5ece,35.9547959,139.679652,Wine - Sicilia Igt Nero Avola,5
+1D4caLjFba385WgYmgUyxdCvfZ8aaYGT69,Dominick,Gero,2017/04/09,Male,124.53,430d4dc904cbe989d5df2b7b66a3f52a,33.9205932,134.4266559,Salt - Celery,2
+1NcmPRURpmm3S5i2MkmsacGNAk6GdXWXM3,Neale,Chatenier,2017/12/13,Male,146.32,dd9ec4e4f09b615b58d2fce6a22b10da,-8.0545403,111.8268458,Bread Base - Toscano,4
+1DDAks23dyNThE79mFDsmT17XzpSCbDj6P,Cristabel,Matkovic,2018/06/03,Female,130.16,2f263c5b44ba1366507455cb02b06c57,13.7928009,121.0964563,Potatoes - Parissienne,5
+1EsgoB85WggYLDXu5GJrMxxwcKNLxVUWb,Maxim,Frogley,2018/03/17,Male,164.07,811c1b9beac0a438766232af09778502,40.9724628,-8.4980252,Gloves - Goldtouch Disposable,4
+1MesY7GmePC7WzL8DfCMJpxVafemwekLSX,Ethelbert,Heyward,2018/03/06,Male,122.24,9193d481ccfd426ec947ff06f18fa06f,-6.7387737,106.8768415,"Pepper - Chipotle, Canned",2
+174sHHhTfTvWAYpqLjNUWr8b3HkybJYrfZ,Delly,Sinnock,2017/11/18,Female,140.56,5bb994205d0fe16cf1f5aa05cb287e7e,15.3569408,120.5288453,Sauce - Salsa,4
+1AhBdupTwATBo9NY3EbN3L6RCzHtSGYae,Desmund,Beade,2017/09/22,Male,-79.72,b88a6394523278c6e5f4f88f3fc471d5,42.8130176,23.2154337,"Cake Circle, Paprus",2
+1M8hY4qR4RSbdhVAAW2pyRXeExS1FcUXoi,Royall,Strelitzki,2018/04/25,Male,23.53,3f0896c94e3c77990249118e01c9bde4,4.6096768,101.1064003,Wine - Bouchard La Vignee Pinot,4
+1BzB4DeFXR1z67nScsjoZWHgEqDM1iYtUz,Barnabe,Waylen,2018/05/03,Male,53.9,8990ff1db83697a7c6b7e02b6663e7c8,36.1336188,139.2101113,Wine - Prosecco Valdobienne,5
+17qY3sdFaBHwqGu7gueAFX5CgM6VvSyXfY,Derril,Sciacovelli,2018/05/05,Male,-47.84,30a9b3985df6d08f868a98d6f9140d85,55.7264965,13.3385773,"Vinegar - Balsamic, White",4
+1N2ShQS69RgYgFyeGVt8FfCnbCq9bFaYM9,Larine,Bellam,2017/01/17,Female,133.13,53a7511c31bfaf42f01a2ff398bae1c2,60.3891548,24.8224067,Lambcasing,4
+1ArgSBCEMipFhZjimh3RdCW5MpxuvPExpJ,Thane,Sebyer,2018/02/16,Male,51.02,85747e5ec95aad20a980f7be14afbb95,58.263232,54.9326774,Kellogs Cereal In A Cup,4
+14GY45DPajKteRxdpB2RWkCSa954E1ccz6,Jerry,Hambrook,2018/01/28,Male,265.06,587b28d6fabcccb0dde395838f961323,63.1841185,25.0885217,Whmis - Spray Bottle Trigger,1
+1ESZWhRuSK6fAmX56W3DPm4iwUt7CZryE5,Chloe,Wannop,2017/11/29,Female,103.7,67a1f140642c9d5370a15410b3ce3e54,45.9033267,4.934624,"Onions - Dried, Chopped",2
+17F4aBG9x3RcyzS2TcaHPSFB2MNp1ZfTzc,Nikolos,Scurrah,2018/05/29,Male,56.0,c14da817676a8859668adf5fed48849d,-13.1638737,-74.2235641,"Beans - Black Bean, Dry",1
+1JvRYTebmXjzC3PMWBC42ZER76BjyTwLfb,Kameko,Inglis,2018/04/30,Female,136.49,a6e9857c4b780b290318ce5dc8b0f861,35.78333,10.8,"Bread - Crumbs, Bulk",1
+1EtNsLFi5uw4WRqFjfqARnmbLBfmgkhvE3,Ruby,Popley,2018/06/05,Male,253.73,b42278f854eed0abc1436c4ef0305277,59.5245273,13.223691,Pastry - Choclate Baked,5
+1DnekSRnzW6i3AcLj88SxJw39Kf8G4wcLD,Wilma,Pattemore,2018/02/21,Female,43.52,9dce1a88d1d43c24e8e4a627a6655bdc,41.0353649,-8.5562534,Lamb - Ground,4
+1Hgr8JJSkLxBY7bvD85Wwo8svveL1vwkKg,Jules,Wainwright,2017/04/08,Male,122.75,17b49cbf97ca9000cb56be4e17deb3b2,57.14667,33.10753,Oil - Cooking Spray,2
+1qTZUSFyvmm9PAvEryATaZ5DZ8GwXQnzG,Franchot,Tuddenham,2017/06/21,Male,6.74,e6cc203bdaea960df924176e5e793555,22.454973,89.9437755,Pork - Shoulder,5
+1CCociMkVAtcYkCG46YJbQLqij5J3oFb1S,Elijah,Attoe,2017/02/14,Male,37.73,267083dd5cf8223d2d9d8fd373243fa2,-3.4949817,-80.2711588,Sauce Tomato Pouch,1
+1PA8N94rmmCPGosyNH8W2g8V4wvCCBVdYe,Marrilee,Elsmore,2017/04/25,Female,-72.99,3110b730f8be40f630c51286dd6a9522,47.0302849,28.7847456,"Yogurt - Banana, 175 Gr",2
+1GJZxLCJWRG9eEr7aYs5fxhuaETyPjYXca,Scarface,Verdon,2017/03/24,Male,51.36,af3a626b6d78e60df7de36b4d382e4da,55.6686,37.5470072,Rabbit - Frozen,2
+1FTsLfrFe3W9gAQk8pQ2WfvcjuRMynZzvG,Trever,Crowthe,2017/07/04,Male,254.98,9113f8836b0ddaed102d503f39a9acce,60.722442,114.8315052,Star Fruit,4
+1AmVhHbUX2UYiTmEh39qfFCaJdovVH3o71,Elisha,Cristoforetti,2018/03/25,Female,151.03,ae4d390c14377adb824ff2e1b8ae11af,-6.2078779,106.8333249,Potatoes - Idaho 80 Count,4
+1Bj56khDE5xCVm75GWty48pihSGgTsNydX,Nigel,Duigan,2017/11/13,Male,13.17,5c5ab29b8aa0f7de04c120c4164fd629,22.0391773,96.471658,Cheese - Ermite Bleu,4
+1KrNcCK6bvDXmbTYb6eWEuV1GgrNth7W6T,Holt,Christley,2018/01/31,Male,-44.26,9092e98987ee188ce090c1306113400e,39.6211427,125.6638035,Mcgillicuddy Vanilla Schnap,5
+1KQ3amcbuPpbn6bFQCrrKt3YZHQbwGSMPc,Mathian,O'Gleasane,2017/11/18,Male,99.62,e9e15d7494516bb88d15e0f51708a070,-6.3030571,106.8912492,Lobak,4
+1AwGNqMAUMZqVTJoabew7ajxPeactU5uLu,Anabel,Yuryev,2017/02/14,Female,245.58,e6eb32364621a38a2c0e39f969932beb,59.1239637,12.9380053,"Soup - Knorr, Classic Can. Chili",5
+1BwKc35X6EQMUov6aRz1DWBKcBxeKdAzA8,Demetrius,O'Shee,2018/03/14,Male,40.17,ae73e8bce2c71fd06c23cf9e20dc0e97,-7.934176,-35.2920979,Baking Powder,4
+151nTU5PhLzKu7mdAVv1Pv67hFyHevXruK,Donovan,Kuzemka,2018/03/07,Male,159.38,cb0e184df1ceacfcac5beef01163d36e,37.9168548,23.7186146,Tea - Earl Grey,3
+1JiM95uis3k5Bd41LkbTav3owUmcgmyTn4,Boonie,Lindores,2017/06/09,Male,128.24,aa1ba37c77b20e8b15da85f236136439,53.385304,-6.3828795,Mortadella,4
+193rWR1EwfWME8sodK1qFKPbjff3ZbBDFX,Harmon,Dryden,2017/10/29,Male,-54.29,14ed6a51f479c25e4313cdbf5559392b,1.2540403,42.5779182,Appetizer - Asian Shrimp Roll,4
+184hV1EbDwqrP89A34yMnitVV6SHXKMe5x,Lacy,Shedd,2018/06/17,Female,175.71,15a44df96fcbfd21f69b8f2975b7762b,53.543617,49.2636336,"Brownies - Two Bite, Chocolate",4
+19AK1DLknTWzjLKugaJbFS9UzeumDd9AT9,Libbey,Defew,2017/08/21,Female,226.19,0f5cc355a9c23e9ecb854498a34c0ce2,-8.2593984,112.0714835,Shrimp - Tiger 21/25,2
+1ASPuTZsGRpbT9haz9NBHqZ9XfC3L51SVe,Ludvig,Payle,2017/07/28,Male,119.63,368e970f19d8ba1ed1cd452f4da9a469,-37.7068442,175.1468145,Mousse - Passion Fruit,5
+1GBvkyTrZhBJJVUM495emGVwqA59xrorC2,Dedra,Lautie,2017/02/03,Female,60.51,0ec6facf412347c4238fb5b26ff760ab,-27.2313338,-49.652299,Curry Powder Madras,1
+1Bc2KFESNQnZA4D4qtDLc3js3uv2JwkubA,Vittoria,Hotton,2017/09/29,Female,126.45,6ffbf1323b30026ed846a0e25e4817e3,38.5370103,140.8544636,Goat - Leg,3
+1Lj2rU2nFE6QaXgFZBWrvt1YkYec3fK8TP,Basile,Matelyunas,2017/12/24,Male,133.99,a8e07d8b7dfb7cebe72a16ec1db7e8cb,29.274384,90.253717,Hinge W Undercut,4
+1Enmb2Q84vLEi8iRqGSu5r1fwexe5AdPe5,Andreas,Dyble,2017/07/18,Male,61.64,0dedd834c310a2ed924ec98be98ef46c,30.2733296,120.1672735,Plate Pie Foil,3
+1Q7q8EoXpC45pvCSuAoS8PK6ABW6ZWRhKg,Britteny,Trenfield,2017/06/22,Female,116.76,e77e7d8e63a6e30c2df35bf0b7a40835,34.9116774,-5.9145568,Bananas,3
+1j82ygFf5Dg6E8NL2MVyNr2VtcWiWEmr9,Minor,Hilliam,2018/05/29,Male,-0.81,4b92789d1a1b376ed4c1a348af7286fd,-21.1041295,55.2484176,Greens Mustard,1
+1GHUfY7jjEyubyvc82GZs6mCVDSshWsqQy,Joey,Pickthorne,2018/01/28,Male,117.64,eb5ff9f9ce90d3ba94ca90e4128de46d,48.8277019,24.8993085,Parsley Italian - Fresh,5
+1DD99a22JXYu3ZFqifjyyEbg4Q8odWCP6X,Klarrisa,Conkie,2017/03/18,Female,169.59,522942d5fd7f6f9fb5d3f40dc1115d2a,43.5414515,-5.8855146,Steam Pan - Half Size Deep,1
+1LWufnYxnExbZxtuDx3NTcJnNmMcALrH34,Anabella,Djekic,2017/04/17,Female,85.99,30c45bebbb3408fb8d716f9dcb5ed605,59.3887625,30.2867644,Cheese - Valancey,1
+1JdzVwSME2oehuGN9D9GCuPtkZEymRh4Y,Fernanda,Blackman,2017/02/25,Female,155.78,2cf123be9ebbe1aab007b52f474d4113,35.897702,114.184427,Pastry - Carrot Muffin - Mini,2
+1FCZ1RA8NAx1mebpyWPc8r3meMD6EHbjvW,Marci,Ummfrey,2017/11/15,Female,183.79,293d9aa308153b6ef44f3698d26faf78,-7.370819,108.1976493,Beef - Top Sirloin - Aaa,3
+15QQK5bF1qKjjbMrA1jr3JUNgBGoHzUsVc,Torrence,Elcott,2017/03/03,Male,203.23,98ba630331d5bf2507c9efd6a2de1f68,10.7714376,122.3099619,Ecolab - Solid Fusion,2
+1LFiNPRw8Ak3ZB9Hx5B5zSjR3nEtPwwKxJ,Roz,Hanscome,2017/04/19,Female,164.89,746ba9c70ba19bb53e24e7421d9a9e1a,42.5787371,20.2966257,Vinegar - Balsamic,2
+1JdZAaobdu5g2EQ5fYBJ1oAV57CbK6Tb3S,Vikki,Huck,2017/04/21,Female,-9.4,f8661cd89277411c09d1fddc7925eff3,32.7526842,-97.3264658,Lid - 3oz Med Rec,3
+1LXoG6w56wEW5Wn2A6mWcBVYrVsN6qGfJy,Hatty,Dobbson,2017/01/17,Female,135.34,110aedb592b22c62e24cb6b083057c5f,22.826877,107.840624,"Napkin - Beverge, White 2 - Ply",3
+15r4rrozKpNZJCo87T7g1UGD4n18xQqYAN,Avram,Nicklen,2017/07/15,Male,23.59,608abf8eb2ca7fe9b6c7685f9040990b,35.66063,106.110673,Towel Dispenser,3
+1J8gs9FBEkRqEHWxRPwVuxRudd1V4m4uhm,Sanson,Orkney,2017/07/03,Male,43.93,fe58828928a0b5a61ff70ad8a95de8cb,34.4906784,69.2698737,Mince Meat - Filling,5
+16MQSQwdXEZHUcgErRXtBWBKXBywhNu4gt,Rozella,MacKessock,2018/01/07,Female,109.89,8a3912084bc25b3a94a797756417a975,-31.4505323,-64.1847851,"Wine - Red, Cooking",1
+1BAkihPbzsMUUh8HXQUnXvQRwAR52E4QuX,Anna,Laboune,2017/10/09,Female,89.76,a92f45e055e3a6a1b65acb022a142fbd,65.1383492,57.1903905,Olive - Spread Tapenade,5
+1HzJKdUctxvqW2QUojbGwazNzFfhoP6erW,Vicky,Cicerone,2017/07/30,Female,211.76,3f90ee67aa56ef2253552b1c292d56cc,-39.8885744,-73.4315987,Aspic - Amber,2
+1K2xbctRBufXwEiddnDHiZVLjzCtGBdb8u,Desirae,Manicomb,2017/08/19,Female,239.07,f181cf9212140740001cba48a2993111,-10.4322235,-62.4792921,Mustard - Seed,3
+1Cx3K41tfDFtbyfJisaF7qrLocXYz6Htha,Blinny,Gadd,2017/09/11,Female,92.69,051ef2727122432004169028207269d1,50.4827,37.8563,Sun - Dried Tomatoes,4
+12pCZouxJW7jHV9dYkJfhb6egAAmCMBfCp,Ninetta,Whitmore,2017/07/15,Female,102.3,13beb6c0e65c43f504c6e2097fe9cc89,45.437603,121.094913,Beer - Muskoka Cream Ale,3
+16YTaacj7nj5pLwxY9TKUhos7tQwG8v8Mn,Paulie,Wickham,2017/11/07,Male,91.58,bbe2b868dab1e2b0643c554ee8c79ff3,49.05798,-122.25257,Chervil - Fresh,1
+1ADJn3MmbSFtjvDP4Da913Pib9bPQ7kbc4,Ardith,Esbrook,2018/05/24,Female,251.2,6a5b88f82fe13b2d93d7401f79cd2d9a,48.1722347,17.2054874,Pasta - Agnolotti - Butternut,2
+13cxh2o9NZH9DYtb9QL7544hG3ewpsHA6E,Jim,Garrattley,2018/01/06,Male,146.59,21a3e13a52c7ba8f5e60f08663eaaafc,50.8310469,34.9528373,Beef - Ground Lean Fresh,5
+1Gr5BjS8drJQUj5DtZg3m4dXSQdqqAewb7,Samaria,Rignall,2018/04/30,Female,185.29,61f3aecce96494df7b256f07ccb68288,29.264004,111.777681,Chicken - Soup Base,5
+1AzH8H2a88LqB66hFtpvDkLa5w1Cctnajt,Maximo,de Clerc,2017/06/14,Male,270.4,a9f95c8cd694aa335214e651a46f111f,59.3650479,17.9947004,Plums - Red,5
+1PCevA7G9LxmCKgjD3Acv9GdXiPPJ8jVMQ,Jessika,Acaster,2017/06/10,Female,206.34,c537cd6ef57f380cc19602c16bec320b,28.0547578,81.614468,Steampan - Foil,3
+1P3gddeNLuBNPwNNNZmuYSi72sXVQNvREX,Henrie,Runcieman,2018/05/06,Female,131.54,c45e03dd887433f9ae3f3d54892d2d88,-8.3014,123.4519,"Pasta - Cappellini, Dry",5
+19M6v934zKbTeWB2pXZJtUqQM8ziC5BkvC,Jayne,Khristoforov,2017/09/27,Female,134.04,e3265e121ef588e70e41bf420c810beb,50.9092557,21.4252753,"Veal - Round, Eye Of",1
+17h8Cp4p9ibgFd7jGcrdAjJc39zcsxDhKp,Niall,Cornely,2017/05/19,Male,7.22,0caa23f960f299bbdd6701cc9aca0a25,49.8247883,30.4053369,Ice Cream - Vanilla,5
+1AH4skE28617dZKr9REUxahV73iCiS2H9C,Gill,Askew,2018/02/17,Female,104.07,741b3822dec3b594107e6df980d3b4c4,49.7523363,6.3655038,Lettuce Romaine Chopped,2
+1PLGCSyRBcyR81f76TkyXa2Wj4zq9M5i7U,Anastassia,Walkey,2018/01/28,Female,122.34,320a338e4cdd7135d22b12e360994093,38.1663943,140.3006201,Taro Leaves,3
+1KQgFxbeHkwSwQUYxYAuctXUSv6usv2drt,Izabel,Tal,2017/04/30,Female,76.72,907f61bc23e0854bd6b91fdf84c10f6c,-19.3882364,-42.5117238,Sea Bass - Whole,2
+1AM8VX2zcrz8C3PF1DJMn8e2syjeg5DjjY,Betteanne,Woodwing,2017/06/07,Female,204.8,b85e4759ff685fc809e3134bd64cff60,41.682758,20.32996,"Soup - Campbells, Beef Barley",1
+1eKsotuZFUJybqeEbfyP189BbJFCR2bWx,Rodrigo,Makinson,2017/10/30,Male,63.92,fb98c49f45dad5db0979c91a45ceb1a3,6.65984,124.09981,Ecolab - Balanced Fusion,1
+13RUbVY33zp1MfDs8rVmvPsDLHDpA2tWpn,Kellen,Gilbard,2018/07/01,Male,187.12,b3399def24bcfe040d2d47f1c4b09ad0,8.606157,-79.8884819,Bread - French Stick,5
+1EdewUCYc4JDSXmMfXRNuMnkvjSLYGnWvL,Mab,Boath,2017/02/15,Female,97.5,6c60bf8daf912d91631dc4d419731fde,-6.598,106.2248,Wine - Alsace Riesling Reserve,5
+1KEkMcWDJTePE9jqudzwo2VEXsxRNv4KqR,Romain,Kildale,2018/02/18,Male,85.24,c9acb9a115652d53b7e3073e51f9c28a,52.0872281,18.8224372,Vacuum Bags 12x16,3
+1FSEskqb1CkmmLrLyuDKPPunBYxUy5euRz,Alfie,Bento,2018/03/13,Female,-32.98,97dfb324e45b59cf47004bb5e7ba72f8,39.2957066,-76.5697075,Wine - Trimbach Pinot Blanc,3
+1AThWpjSCd323SD1QRu99rASAJkrSYynt3,Chadd,Dennett,2017/08/06,Male,153.44,562cc2c8116a857a9af3bb1939adb29e,38.9188879,-9.2928406,Lettuce - Romaine,3
+166gt7jCxSTLJncuzgDMyhsWrrWpnUFsUT,Chanda,Rodd,2017/09/24,Female,141.77,ed138d6e77fb19d4e058fca74f1749b2,50.1559431,14.1889828,Bread - 10 Grain Parisian,4
+1ETqsvjJbkPrBnuELXojXq28KGfQhvDfHt,Jenifer,Moorrud,2017/04/25,Female,26.69,5f6f9d685a448be3c2404ea29dcd9229,11.8035277,-86.1624587,Creme De Banane - Marie,2
+14PF3L1druCvNfy23ztLNaT3iDK75mknVL,Roderick,Woodrow,2017/05/26,Male,82.24,adaf5ac5d383e4b7f93990a13c406ff9,35.1982076,136.9683227,"Sauce - Soya, Dark",1
+17BS3tC2PmfCMzEV85VYbSpE6cGKG7Jju7,Rena,Studdard,2018/02/16,Female,-67.17,0023fb9c40f83f8212f6dd3c80d94256,45.2977605,2.5135985,Chicken Giblets,2
+18tLSPHRPnx6iT8iX88PfTcK6FNpLawTsu,Theresa,Nason,2017/06/12,Female,20.15,86c642fd3abfdc8127fa9c13cc58f07c,3.9878168,-75.946324,Kippers - Smoked,5
+14nJUFe26CSc12qy1ZwkKgUgGFWC8ihAok,Lonnie,Toman,2017/07/25,Female,97.87,b270d887914f453dd908cd166a191890,41.206302,-73.0862131,Soup - Campbells Pasta Fagioli,3
+16gcNs7jP4f5hYMxvyiqZy7E6vFWS5hQ5w,Jeanne,Franzonetti,2017/03/08,Female,10.07,b467107ae8c203818ca845b434cbd713,10.444021,-75.275171,"Tendrils - Baby Pea, Organic",2
+1EGyVtdy345HpiFTkdZwUrAtSZsMTkNi6z,Biron,Studdeard,2018/01/20,Male,44.41,0dc4214aa1b09bf67520860956394c2b,23.923594,115.761018,Lettuce - Boston Bib,2
+19f2RvhpFUvufsV3ZGdXD7UwSAA8gPN8Hy,Crichton,Mutton,2018/06/16,Male,243.11,6f1395da180a92415bf2862e5124981c,13.1789151,123.7396635,"Sauce - Soya, Dark",5
+1HZXCP3ysAxaonE2eFmLMHcFYfoPGmmwVx,Pavlov,Synke,2017/06/30,Male,126.68,23a71b603196af22a75ead675c604680,37.2848363,-7.4666729,Containter - 3oz Microwave Rect.,4
+19xKhVrMPyYwcwR13DWEcMcADBMmykh5QH,Barrie,Twinborough,2017/04/27,Male,19.04,60a1fdcd051c8acaf1f5de903f24aa3f,27.640075,113.733047,"Pepper - Black, Crushed",5
+1MGvwUMZpVDdKEYpPmwkG7GMCqj5tkFZ7B,Kris,MacMenamy,2017/12/07,Male,56.9,2eca9834d1e36b4a74535025247fdab4,59.3796798,28.1791333,Wine - Baron De Rothschild,4
+1CuxySjENUXM73f1k7kpUfYkVCeNLxTbTF,Clement,Gerdes,2018/06/28,Male,82.93,2db3aece0fab99783ce838656e4da823,45.1248093,133.3129158,Ice Cream - Chocolate,2
+14waYNVgtohfGC4LGdVtUmTbSp4RhkCqeu,Nat,Hargess,2017/02/12,Male,89.29,576e9ccbad5ef6a77e5f532f46a951e2,49.69427,22.0193601,Wine - Ruffino Chianti,1
+1Fw3drbaNvqX3WU4UdwGr3g1rrsquA57xi,Brandyn,Feltham,2018/01/31,Male,-0.34,c9f71115bbf02f3fcec4981e08882555,-8.7554735,122.02976,Amaretto,1
+1ATj63x4qR2h9bCtSMF58B9MpXZCo1GfT3,Tracy,Piet,2018/07/03,Male,247.09,10dfea4b946c32db1b5985d180817cc3,39.8494377,-86.2666463,Chickensplit Half,4
+1Q1kMu1BLiwgVaxL1cXpFrfsDmX5f8KR45,Noll,Jacobsson,2017/07/08,Male,16.76,09446c223e1cc27fc574a12d1e35c825,17.7917146,95.7563151,"Beef - Ox Tail, Frozen",3
+1FCvpmsWptGJVUtxowoBaGtqXN2oqqawEh,Ainslee,Deam,2017/10/26,Female,14.22,2e2ccf4be24f545a4965517db310fd1d,9.9533828,98.6111657,Remy Red,4
+1853khnmVhP6dVVyE4BCDdZ72RkH79iSdM,Colet,Foulgham,2017/09/28,Male,56.03,9bb5d7b782f40e5ed2ce27fb59651557,39.7467369,98.5069862,"Cod - Salted, Boneless",5
+1PUaFEuLEs2eq3D1rX3fUjox21c89Dq8Uh,Thalia,Mayling,2017/12/30,Female,40.95,654aff8cff508defaae28e16bdbfa322,15.4269392,-87.9775787,Bagelers - Cinn / Brown Sugar,2
+1Hq4D3R6kCawFHCQih1WFy8vRYG6C7ZdYD,Damien,Lyford,2018/02/25,Male,116.9,c66bac868a95c167e09b4b2d0877bd8f,35.1904212,136.6566541,"Tray - Foam, Square 4 - S",4
+1PurFa7uhet2cdhmai8Us5XuJyiCnyzZm5,Halimeda,Haysey,2017/09/17,Female,175.2,0237c733ef74b873464b6b0a9701aa56,26.480043,113.778639,Langers - Cranberry Cocktail,1
+1MDVF8JF6zimPmtWRKepCYHCGwCCZ9cVhQ,Lynna,Wherrett,2017/09/29,Female,86.97,1334b83346475a3e33ac191ae574eb61,13.1089876,-59.4706823,Cheese - Perron Cheddar,5
+1P9WY34u1HwEMo9dJykRkEEL33me5ZCyxE,Morly,Eke,2017/09/04,Male,154.31,eb07de419b04f1b58d8ea93e532bf3ae,44.8766183,20.0971774,Lamb - Sausage Casings,5
+1Erbx6ie7VpoK3UyjVfXwAxBc6Zbp5uXnn,Daren,Blaymires,2017/08/06,Male,112.83,19360837d9bf32093f9404121b8494fd,22.1484928,-80.2014543,"Beans - Black Bean, Canned",5
+17xnSmaP2mCLRk4zUNgbSM88MPp7Q4XQ7m,Justen,Cecchi,2018/05/22,Male,173.99,f4cdc7bc15f10b810e56212dc84c2c87,-27.950568,-51.8148609,Wine - Baron De Rothschild,5
+17CSzzNjkHJSoEe3PComdRoc2ptKfPZJiW,Merralee,Ferraro,2017/03/08,Female,80.53,e07e1f3de3c98d1889e9f71b07c64203,-7.6873253,112.116195,Lamb - Shanks,3
+16hDXjKCqhSyF1wo8tgaWgPh3oBDTFE8dz,Maxy,Gare,2017/06/28,Male,183.7,5433fc38e70c2b6cf3f36bb717d6858f,41.1082303,-8.1579962,Bay Leaf Fresh,4
+14PP4kmu8YxjWhBSD1U8nnUVR6seipF5ZA,Noby,La Torre,2017/09/12,Male,56.94,8a5a100197482af5bd8719ec4f846c68,-6.1604549,106.9054618,Cheese - Goat With Herbs,3
+1JjauHYqSAr5AMszfjm7kihZwE85nR322C,Marlin,McAlees,2017/09/23,Male,8.95,161f9e72d25ea55efbdc3b3fbf310777,8.0036924,-81.5596427,Wine - Lamancha Do Crianza,4
+139SWxtJQiGnhZqTF3dd4SnS8MXUfLXBxo,Della,Dutnell,2017/10/12,Female,95.71,d45c75f7f35ac1ca07a597f9651dacb2,12.241259,9.9073986,Potatoes - Mini Red,1
+1FqsS8Un7ww2nvhMb8encavwiHU97fCY8Y,Hailee,Blatcher,2017/06/02,Female,42.26,db61d82c9d43d6636bc71a7e8a916875,-21.0209448,-41.1547688,"Sauce - Bernaise, Mix",5
+125SpPQtdCPreDs2Qu2mDqSSZFWWFm9n9S,Selig,Rosenhaupt,2017/05/11,Male,159.38,a8416e64cf78c7238005bb04d67e1264,-6.2839964,106.7895416,"Pepsi, 355 Ml",4
+1MftrMswe9XwBLpdiye7eE4ULdU2aEJmQe,Sampson,Ashburne,2018/02/08,Male,192.95,de80487843bea903ac581f929936a168,-22.7106685,-43.5522256,Goldschalger,4
+1JqrwrEvwrn3g1eYnhqNWRGfYNwMtdnkZV,Sylvia,Connah,2017/04/19,Female,136.35,fd3eaec8d9aead1ccb6dcf141bfa577f,44.6034915,20.45241,Beer - Upper Canada Lager,1
+1FG2zg5XRMVUn18zfhW83afNVCpSPCihw9,Rossy,Creaven,2018/05/10,Male,71.76,99475750487e26234b5016e45a9e0605,45.0432559,136.6092251,Sprouts - Bean,2
+13TdmSansm51QF7n11vnTyMccwaYfSmVTS,Rutger,Creek,2017/06/07,Male,116.79,a2aae30963cbf1c4d07ba3823578387b,8.1620514,-12.4351923,Cheese - Goat With Herbs,2
+1XzAxNo3xgPdJpeXEbSpRi1dYkvpBXRzA,Nickie,Waitland,2018/01/31,Male,81.87,55f4441760f3aec889319368c9cbb77c,56.0345586,14.0604538,Soho Lychee Liqueur,3
+1Hkmzh3Si4VkheZaGzBjJHyVGfemEfr5YQ,Rochelle,Roper,2017/08/31,Female,87.92,64ccff2b75ac188a864b0d36868bd6d2,-21.7712926,-47.0856897,"Lobster - Tail, 3 - 4 Oz",5
+15coBjDbU5up2HRac3uhymYywBYERB5nMR,Barnabe,Jakel,2017/08/30,Male,136.12,5761c6a4dd311c556c4334dcfcc6ff87,38.093189,114.478864,"Tuna - Canned, Flaked, Light",1
+1GC6raYBvPDqP6B7F2j1SxjayQGTGPmkSc,Antonie,Iscowitz,2017/02/24,Female,116.99,6b608274dad3646a1e2a455bbc91dd15,37.8210369,-25.5148137,"Pork - Back, Long Cut, Boneless",3
+13CbiQfgaNXPKCGXgyyYwaZYZRhCA6Cm5R,Darline,Haston,2017/06/06,Female,166.22,af5941939d3231bf2ec4be261332fb43,42.284605,125.744735,Puree - Pear,4
+1CsGu9bTSwdxr5TCTRLbgRMNrS2AjWmxDT,Brody,L'Hommee,2017/01/26,Male,120.18,a6763cee279fac15d4e1e47b7a667041,30.291745,122.202207,Lime Cordial - Roses,3
+15ucCjTT1P38zQfqeUV25h8uiSpUsfM1sT,Sherill,Finder,2017/09/29,Female,191.77,2c6cb501500c3ae8702f49dc5f59371e,45.900828,-64.5169467,"Lettuce - Mini Greens, Whole",4
+1MKiNgDNAKZpAoYD67ZJxWs8iHbdG4jwr4,Colan,Engelmann,2017/06/27,Male,112.96,e20be615bee53c59aa97d894821f3ed7,25.431829,119.015255,Chives - Fresh,3
+1NNBebi4fuyBgxfnAy2Uq6NR1DCtMib98n,Tricia,Peterkin,2018/03/20,Female,105.43,66478304055a80dfdad72f3e2cd8b1ed,32.0948805,-6.6037016,"Lid - 10,12,16 Oz",1
+1GeTMpPXg6P3ZiPkiAT4kLG2nfGxLxcopF,Wendye,Doe,2017/03/27,Female,95.27,8cec0be241058b792c1148712cf9d08e,55.61667,23.18333,"Juice - Apple, 1.36l",5
+14fAFYm78P4Xe2mj3unNfszUkEinACzmrK,Aindrea,Wegenen,2017/04/07,Female,150.8,70ab626077309a8c4826beb15d0b6dad,39.928353,116.416357,Cocoa Feuilletine,4
+1DbUbnKTeJfGugZefQx2GCQmTNF55toGk1,Brendis,Kryszkiecicz,2018/05/24,Male,91.13,a45993001d8f8f776ce26a0fc0872ce6,37.548299,120.282101,Wine - Red Oakridge Merlot,5
+1JoEydhBypDARmwqc3GgHXQahp15REEDKH,Hayward,Hunstone,2018/07/02,Male,132.96,8ff96efb726f292b64cba6d103f2847a,30.920727,116.670173,"Ham - Smoked, Bone - In",5
+15TeqtoZSPP56DT9GGt66j6bXzGLwypYyM,Foss,Pugh,2017/02/04,Male,28.47,0e37272195e7a20cebc9165f713d99f1,58.9919268,16.2203271,Potatoes - Idaho 100 Count,1
+1MYiTjUnNLGcxDhqAcRT9JgKJEWaebkpxY,Hill,Buzza,2018/06/29,Male,196.58,796ffdeb2aede8900ead68635ce104ed,31.434625,120.004045,Carbonated Water - Lemon Lime,4
+135Xmf58FFfqkGrdvC8dNsz7qAcGZTTGiH,Redford,Bonaire,2018/04/02,Male,171.6,b8f2e89d0982dd935e5cd5a1ef2565c6,45.3125176,19.7556505,"Beef - Rib Roast, Cap On",2
+1Q5tUvRxKfdVtEhB29EbtkUNWmjRKVbt8R,Lennie,Stebbings,2017/01/17,Male,90.38,5a0868aee235af095cd2c127c15b3d8f,21.1665519,104.9894851,"Asparagus - White, Fresh",5
+18rCu6bvxaNAbifTJ4urwtdzvLb68wMgGC,Marcelia,Antal,2017/08/31,Female,188.35,6751d84035cd68ffc595d6c63c608303,34.58,-4.73,Pasta - Fusili Tri - Coloured,2
+12n4zjiGXPNTjjjPgeA7baZkUJ2WacAB8q,Sadye,Mountjoy,2017/03/16,Female,-35.49,3457ef19ceac72ee81d7eacfb9f6a9b2,12.1409532,123.2760396,Dawn Professionl Pot And Pan,4
+17TpMRZJmgE1KXqGkGEakFcLbdHH9MGYVv,Ephrem,Huikerby,2018/05/31,Male,-3.37,bcfad19593bc7a107fa690cb4ce551fd,-9.8591671,124.2729225,Roe - White Fish,3
+1ELhC3HTPeEWSwXxw1Yry1z8KnAE5gJQvP,Sidonia,Waddie,2017/04/16,Female,171.21,fd11965dab1af3bd879f5c29fe3d630a,-23.4794456,-46.382126,Sausage - Andouille,3
+199Uwj8y6iKyhXAQvnpaRerTF4TFb23Nfd,Adamo,Barras,2017/06/03,Male,3.43,5043a50ee59bd31c205476ff4a941ee5,60.68333,21.71667,Steampan - Half Size Shallow,1
+12pQ5wyiqx9FvPJ5bSG8xYRmBLXp2V7rop,Missie,Plowell,2018/04/14,Female,152.06,7d32395a5a65238adf96cc8ed7547880,-7.2214256,108.2110626,Wine - Conde De Valdemar,4
+1GXEU4jeAEgxes6tEEPS4V1NLeeeqQ2rak,Hyacinthia,Knipe,2018/04/28,Female,80.9,6a9c3936824a957f1477950b8541aa3f,50.3483062,20.6741631,Alize Gold Passion,2
+1GtoaePQfh1JyiijCW5yKLBRFPKnnShqHs,Ethelbert,Jordison,2017/04/29,Male,147.66,1631795109c96b5686d6138b5a93c306,18.2868231,99.4819782,Cheese - Comte,4
+1MHsaph1vm1Wbag1a7wYNb84muCzihJ72s,Florencia,Ricker,2017/01/01,Female,151.69,ef2186917cc33aaeb87e6dc08d6c721a,-11.4389649,34.0084395,"Stock - Veal, White",5
+1QHhEWMKVoDLJnVMuN2vc1z2gRTkgCHgFM,Sanford,Woodeson,2017/12/01,Male,78.29,e2564147cb834e8e4ec8efd2e1009ab8,16.5564748,103.2432632,Bread - Frozen Basket Variety,4
+16Zwtgg2Y4wWdkUv9YXuNk2DJuBqQV5fBx,Lyman,Borsay,2018/06/15,Male,120.8,b31c4b326ae5593347122076d446e337,28.607879,119.435806,Bread - Olive Dinner Roll,4
+1AstmRBbsgXnRfQ4dEGaGZcQgDGG4ySo2Q,Patricia,Snoding,2017/12/19,Female,137.2,76e2bed1278d169d84712cffb2706e0c,49.8162612,15.4768669,Cup - 4oz Translucent,3
+14xsZvDKaMGfWyaf84gLp43UosWuqN2EGQ,Catlin,Joule,2017/01/30,Female,230.04,9790905cf56eb3a80d12c15993da3cf2,-22.7691646,-43.6950804,Beans - Green,2
+1AkSqXxhZpDQYLi8DVZy92BVJf162qGw3n,Elyse,Siccombe,2017/05/20,Female,7.3,7cf47b0a4925a7c874ce9df4c74fd7a3,30.572815,104.066801,Corn - On The Cob,4
+1HQfwQpwATCXcXMUXg7EtCGr1g9CV7U5AU,Elayne,Mochan,2018/06/19,Female,106.04,370bb55a11981ee1f099488286beb85c,10.0566953,-65.0394139,"Pork - Chop, Frenched",3
+13mjeNCgCp4iyvaTJbFrAfY3AcjK7pE9g9,Vito,Blesdill,2017/09/09,Male,57.45,fde594833a06ee56e28dc64cbdfbe763,43.2574658,18.1123652,Cheese - Taleggio D.o.p.,5
+1MxAJkHDzcdGbJPjTjv6Pqsh3HtofcozAq,Saxon,Rentalll,2017/07/02,Male,93.58,6afb035b57ba518e84f3d69097155193,50.3290055,30.4617625,Syrup - Monin - Blue Curacao,5
+1Nwz5knTHh5ihf1dodDBiU9ZB1e3qw4HkK,Hamlin,Purseglove,2017/10/19,Male,242.69,3baeef50533212dfeb1abba2b2b13fc4,14.641514,-61.0512822,"Wine - White, Chardonnay",1
+1MGbeJEXiiVSnR3djEoztWsTfKFpZFUnU,Jocelyne,Ackeroyd,2017/12/05,Female,113.7,b423321a12b4e8a7334273b34b1c55e1,55.7422912,37.5051617,Pastry - Chocolate Marble Tea,5
+16VxhHDCh5xv5kBxHkAGRMH7NckJJvx5TB,Sutherland,Rounds,2017/10/19,Male,95.41,4e8a39c8110f8c382ee9c5d3c39737e7,-24.700428,23.507374,Ginger - Crystalized,1
+1J16oJi3MHX7Y3YZB55XGRHrpRLknkYTdq,Kayley,O'Scully,2017/05/01,Female,97.93,afe16ed85604a2efc936435e36f5baef,12.8964041,8.5281613,Smirnoff Green Apple Twist,2
+1Q6dr4ZQgEerGksHPWp1nLaEht24QAQEgS,Lawry,Ballchin,2017/07/07,Male,104.27,6ec25e816b3fc7f52f67d81a9b42e808,22.6229329,113.2773942,"Leeks - Baby, White",5
+1Gsy6T1Nq3okN5mnmv87i6MftrLvjNbdA9,Myrtle,Hessentaler,2017/09/14,Female,157.59,7f1917d821ace394ad503fcf6c4d8d4f,55.7193861,37.7808815,Sorrel - Fresh,3
+13xN5imM2NVironsL7uCijpVvR4QwJLUHy,Christie,Lumby,2017/03/09,Male,192.77,327e7f3510436455aa6a2ca31b883ffe,50.153206,15.7292147,Soup Knorr Chili With Beans,1
+12iADHVsraEK8qsThAPBtdXi3o8N5HAzC9,Sollie,Eard,2017/10/09,Male,57.78,53492bc0173ea4634aae51cb891bcc25,29.55451,105.324979,Lettuce - Sea / Sea Asparagus,1
+1gBsg1n48xwqwpMeSsbnypjsArHDnKadb,Ysabel,Burl,2018/04/15,Female,247.27,3ce0117911ae873e3095dad2dc9b02a3,40.0316754,20.1789757,Capers - Pickled,2
+1EDxTPBvAfgJwxrSzVSuegS25MRttwAfAy,Ker,Resun,2017/12/24,Male,59.43,bfdc8852a23fceaaf81ad2a1c52ba644,34.7299999,-86.59,"Tortillas - Flour, 12",5
+131heVC1YpNRS3qKD3VzFAHTzJoDciT2L5,Akim,McPhail,2018/02/26,Male,79.44,069a5e8043daa12f3301d6b738ba4a1e,45.3218651,17.7681327,Bread - Pumpernickel,5
+1Ay3vK9DZoxy88f89TBumrQjd7yPmfVx9G,Cale,Pearcy,2017/08/22,Male,118.33,cd445532f4e9dae9ec761a45a24c45f4,50.0994726,24.3454482,Beer - True North Lager,2
+1M98aB6n8oVbeUPSYPwzFjqkJMSs4b6pQX,Elihu,Tonkin,2018/02/06,Male,142.4,a0ee5475d23147804b33f58c5bd59da9,43.7281385,7.417857,Pie Filling - Apple,2
+15fkbzJ2AnPjYXEpUEucXoBsuzDg9zz1Jr,Dennie,Deem,2018/06/04,Male,233.06,9425d78499ba4a912146f74ea0f0429f,57.5038558,59.8937563,Bread - Frozen Basket Variety,5
+16PBG3YxSD7QuxZAafGHd9s8oASGqWZhed,Cirillo,Kilbride,2017/09/07,Male,69.47,b1bd19ad692557daa6511f07765903cd,53.719155,-6.3422325,Wine - Alsace Riesling Reserve,2
