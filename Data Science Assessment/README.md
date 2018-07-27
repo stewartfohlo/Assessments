@@ -1,4 +1,4 @@
-# Junior DS Assignment Brief
+#  DS Assignment Brief
 The underlying goal of this assignment is to understand how you think as a data scientist. We recommend that you do this assignment in either a Python notebook or an R markdown notebook - but feel free to use a tool of your choosing. Write down all your thoughts and reasonings within the notebook with technical readers in mind. You should also provide an executive summary of your findings with non-technical readers in mind.
 
 You have been given an anonymized data set containing 10 features and one target variable.
