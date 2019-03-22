@@ -1,20 +1,9 @@
-# Data engineering exercise 
-
+# Data engineering exercise
+### Setting
+At BluNova you will be working with live data sources which run and evolve independent to us. We are looking for someone with a keen eye for detail which will assist with building robust pipelines that can handle changes over time. We treat ETL as a continuous evolving process and acknowledge that there will always be new surprises around every corner.
 ### Instructions
-1. Take the `data_engineer_clean_set.csv` (source) and build an ETL process that is robust against changes over time. 
-2. The output should be a parquet file (destination).
-3. When done send through your notebook so we can perform tests on your ETL process.
+1. Suppose you are given the clean set and told to build an ETL pipeline.
+2. A few weeks later a data scientist comes to you in a panic stating all the data is wrong. Looking at the dirty set identify what went wrong and suggest some remedial measures to refactor your data pipeline to be robust. This is an open ended question so look at the data and imagine some scenario of your own as well.
+3. Rather than coding up the solution please provide a document with your findings.
 
-### Important 
-* Please ensure each of the above points are completed before submitting. 
-* To complete this exercise your ETL process should be able to handle or flag issues such as schema changes, data issues, nulls etc.
-* This assessment is designed to show that you can develop and maintain complex ETL processes. This position is not just an admin position, it is much more, so please show us that in your submission.
-
-### Tooling
-We prefer PySpark and Jupyter notebooks, but you're welcome to use the tool you are familiar with.
-
-To pull down and run a container with everything you need: `docker run -p 8888:8888 wesselr/data-engineering`
-
-Contains HDFS, Spark, Jupyter, conda, the data and a notebook to get you started. 
-
-Good luck! 
+Good luck.
