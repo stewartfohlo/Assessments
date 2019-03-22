@@ -7,4 +7,3 @@ At BluNova you will be working with live data sources which run and evolve indep
 3. Rather than coding up the solution please provide a document with your findings.
 
 Good luck.
-
