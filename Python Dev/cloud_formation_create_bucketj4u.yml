@@ -1,0 +1,32 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: Cloudformation template for all CloudFormation templates for this Account.
+Resources: 
+  CFS3Bucket:
+    Type: "AWS::S3::Bucket"
+    DeletionPolicy: Retain
+    Properties:
+      BucketName: j4u-ml-engineering
+      VersioningConfiguration:
+        Status: Enabled
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - BucketKeyEnabled: true
+            ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
+      Tags:
+        - Key: Project
+          Value: drc-gsm-exploration
+        - Key: BusinessService
+          Value: BigDataDiscGSMDRC:Appl:ZA
+        - Key: ManagedBy
+          Value: stewart.fohlo@vodacom.co.za
+        - Key: Confidentiality
+          Value: C2
+        - Key: TaggingVersion
+          Value: v2.0
+        - Key: SecurityZone
+          Value: DEV
+        - Key: Environment
+          Value: Dev
+        - Key: Name
+          Value: j4u-ml-engineering
